@@ -804,12 +804,14 @@
           "buyerId": 6193222237,
           "sellerId": 7751710380,
           "quantity": 100,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770203711383
-        }
+        },
+        "locked": true,
+        "lockedBy": 6193222237
       }
     ],
     "current": {},
