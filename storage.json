@@ -1203,14 +1203,7 @@
         "lockedBy": 5924567969
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "100",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": [
