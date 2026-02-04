@@ -824,16 +824,24 @@
         "number": 278,
         "locked": true,
         "lockedBy": 6193222237
+      },
+      {
+        "id": 299,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "25",
+        "maxQuantity": "75",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 6193222237,
+        "checkMessageId": 636,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "117",
-      "minQuantity": "25",
-      "maxQuantity": "75",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -898,7 +906,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 298,
+  "forwardingNum": 299,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
