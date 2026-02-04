@@ -1356,7 +1356,8 @@
     "verify": {
       "step": "waiting_photos",
       "photos": [
-        "AgACAgIAAxkBAAIpimmDQzv8a5TW-u6dcquH3OPyt_LRAAKwEGsbjsUZSAYXxXjQsaVZAQADAgADeQADOAQ"
+        "AgACAgIAAxkBAAIpimmDQzv8a5TW-u6dcquH3OPyt_LRAAKwEGsbjsUZSAYXxXjQsaVZAQADAgADeQADOAQ",
+        "AgACAgIAAxkBAAIqkGmDd8DMY_0rVrhdEh1I_oLAvVD2AAL2E2sbjsUZSLFMuiExEEmeAQADAgADeQADOAQ"
       ]
     },
     "tradesCount": 0,
