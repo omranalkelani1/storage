@@ -197,13 +197,14 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 200,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAIogGmDGcvInN3nZyFdkqVkYIg_KMW-AAJzC2sbtWkhSO-XpnyBSC7dAQADAgADeQADOAQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770199362609
+          "createdAt": 1770199362609,
+          "paymentInfo": "8bb6bd7294b5048178b86b34d9bc1d8d"
         },
         "locked": true,
         "lockedBy": 872282181
