@@ -249,7 +249,7 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 303,
       "editDraft": {
         "id": 303,
@@ -257,7 +257,7 @@
         "step": "askPayment",
         "price": "117.1",
         "minQuantity": "100",
-        "maxQuantity": "250",
+        "maxQuantity": "1000",
         "transform_way": "shamSy",
         "locked": false,
         "status": "approved",
