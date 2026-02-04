@@ -232,7 +232,7 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
+      "step": "editPrice",
       "editingOfferId": 301,
       "editDraft": {
         "id": 301,
