@@ -841,7 +841,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAIpMGmDMcc4LIpX77v6c-3r_AGUlnwWAAIuDWsbUWIZUNudle9CkUMkAQADAgADeQADOAQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIDPWmDMkHM-EJnwsoyoV3S4gx4I6n-AAKLDGsbx1EYUI9qf-QqEZwfAQADAgADeQADOAQ"
+          ],
           "createdAt": 1770205382006,
           "paymentInfo": "5b1f1548469101422f8375af02415edc",
           "buyerPaymentInfo": "بلتبينستساي"
