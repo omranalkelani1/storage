@@ -1219,7 +1219,7 @@
           "buyerId": 1862318321,
           "sellerId": 5924567969,
           "quantity": 99,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAIqa2mDbb1tMVk2IoQVdMOE0wXyTqp_AAIPD2sbCckhUElPfmZJtCjBAQADAgADeQADOAQ"
           ],
