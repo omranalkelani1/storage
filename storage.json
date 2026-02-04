@@ -1219,7 +1219,7 @@
           "buyerId": 1862318321,
           "sellerId": 5924567969,
           "quantity": 99,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIqa2mDbb1tMVk2IoQVdMOE0wXyTqp_AAIPD2sbCckhUElPfmZJtCjBAQADAgADeQADOAQ"
           ],
@@ -1228,7 +1228,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770220427734,
-          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
+          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067",
+          "buyerPaymentInfo": "0x9b383cd5f76742ab33ab11db49951eb87292128c"
         },
         "locked": true,
         "lockedBy": 5924567969
