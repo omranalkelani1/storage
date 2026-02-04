@@ -231,7 +231,27 @@
         "locked": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 301,
+      "editDraft": {
+        "id": 301,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "100",
+        "maxQuantity": "500",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 638,
+        "publicMessageId": 4731,
+        "matchedWith": null,
+        "rated": false,
+        "number": 282,
+        "locked": false
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
