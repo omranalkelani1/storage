@@ -256,7 +256,7 @@
         "maxQuantity": "1000",
         "transform_way": "shamSy",
         "locked": false,
-        "status": "approved",
+        "status": "rejected",
         "userId": 872282181,
         "checkMessageId": 641,
         "publicMessageId": 4734,
