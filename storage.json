@@ -2082,7 +2082,11 @@
     "phone": "963991316846",
     "userId": 7866209976,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 299,
+      "offerOwnerId": 6193222237
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -2093,6 +2097,11 @@
         "from": 6193222237,
         "rate": 5,
         "date": 1770204462771
+      },
+      {
+        "from": 872282181,
+        "rate": 5,
+        "date": 1770205377205
       }
     ],
     "strikes": {
