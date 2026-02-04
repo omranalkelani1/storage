@@ -1219,12 +1219,14 @@
           "buyerId": 1862318321,
           "sellerId": 5924567969,
           "quantity": 99,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770220427734
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
