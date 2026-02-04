@@ -369,7 +369,7 @@
     ],
     "current": {},
     "verify": {
-      "step": "confirm",
+      "step": null,
       "photos": [
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
@@ -477,7 +477,8 @@
       "history": []
     },
     "first_name": "أبو بكر",
-    "last_name": "الكيلاني"
+    "last_name": "الكيلاني",
+    "verified": true
   },
   "910478313": {
     "phone": "+963980837394",
