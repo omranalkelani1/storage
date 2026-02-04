@@ -709,7 +709,9 @@
           "sellerId": 6193222237,
           "quantity": 1,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIoLGmC7K5B6LOkmtJhTTlRniKoJoZYAALDDGsbUWIZUIS7o2TtKfGdAQADAgADeQADOAQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770187600656
