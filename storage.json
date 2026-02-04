@@ -775,7 +775,7 @@
           "buyerId": 6193222237,
           "sellerId": 7866209976,
           "quantity": 200,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAIouGmDKpLDYP8hsZyvRqgk5-1nck6pAALwDWsbFDMYUPsRrx6O-AlSAQADAgADeQADOAQ"
           ],
