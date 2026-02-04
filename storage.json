@@ -2323,7 +2323,10 @@
     "phone": "963981094421",
     "userId": 5656362998,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
