@@ -1208,7 +1208,8 @@
       "step": "askPayment",
       "price": "101",
       "minQuantity": "100",
-      "maxQuantity": "100"
+      "maxQuantity": "100",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": "waiting_photos",
