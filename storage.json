@@ -731,7 +731,7 @@
         "minQuantity": "25",
         "maxQuantity": "100",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "rejected",
         "userId": 6193222237,
         "checkMessageId": 629,
         "publicMessageId": 4719,
