@@ -198,7 +198,9 @@
           "sellerId": 7866209976,
           "quantity": 75,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIpAWmDLzq2SiT3eSmEkVgs-x08GsSMAAL8DWsbFDMYUAJJA0jnzBhlAQADAgADeQADOAQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770204944819
