@@ -708,13 +708,14 @@
           "buyerId": 872282181,
           "sellerId": 6193222237,
           "quantity": 1,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIoLGmC7K5B6LOkmtJhTTlRniKoJoZYAALDDGsbUWIZUIS7o2TtKfGdAQADAgADeQADOAQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770187600656
+          "createdAt": 1770187600656,
+          "paymentInfo": "0xe52424631D5688FfB46e9B9dE760a006d5BbE587"
         },
         "locked": true,
         "lockedBy": 6193222237
