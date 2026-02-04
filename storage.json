@@ -69,24 +69,7 @@
     "phone": "963996944481",
     "userId": 524736457,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 313,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.022",
-        "minQuantity": "29",
-        "maxQuantity": "29",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 524736457,
-        "checkMessageId": 651,
-        "publicMessageId": 4747,
-        "matchedWith": null,
-        "rated": false,
-        "number": 293
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
