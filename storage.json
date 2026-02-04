@@ -793,13 +793,14 @@
           "buyerId": 6193222237,
           "sellerId": 7751710380,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIov2mDLARE_lJBhxD6ce2X1fdb2gvGAAI8DmsbZ_YYUFRIaqljJuHiAQADAgADeQADOAQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770203711383
+          "createdAt": 1770203711383,
+          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7"
         },
         "locked": true,
         "lockedBy": 6193222237
