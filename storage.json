@@ -228,21 +228,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 282,
-        "trade": {
-          "tradeId": 83,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 500,
-          "step": "seller_payment_info",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAIpfGmDQqhOHJTPLsvuH29lpD9_o-ZuAAJ-DWsbtWkhSNHSx35vBSbwAQADAgADeQADOAQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770209840235
-        },
-        "locked": true,
-        "lockedBy": 872282181
+        "locked": false
       }
     ],
     "current": {},
