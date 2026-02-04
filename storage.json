@@ -685,7 +685,8 @@
       "step": "askPayment",
       "price": "117",
       "minQuantity": "500",
-      "maxQuantity": "2000"
+      "maxQuantity": "2000",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
