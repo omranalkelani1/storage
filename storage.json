@@ -687,40 +687,7 @@
     "phone": "963960013368",
     "userId": 6193222237,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 291,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "1",
-        "maxQuantity": "1",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6193222237,
-        "checkMessageId": 628,
-        "publicMessageId": 144,
-        "matchedWith": null,
-        "rated": false,
-        "number": 272,
-        "trade": {
-          "tradeId": 76,
-          "buyerId": 872282181,
-          "sellerId": 6193222237,
-          "quantity": 1,
-          "step": "buyer_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAIoLGmC7K5B6LOkmtJhTTlRniKoJoZYAALDDGsbUWIZUIS7o2TtKfGdAQADAgADeQADOAQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770187600656,
-          "paymentInfo": "نسنسنسفنفسنفن"
-        },
-        "locked": true,
-        "lockedBy": 6193222237
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
