@@ -203,32 +203,13 @@
         "minQuantity": "100",
         "maxQuantity": "300",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 872282181,
         "checkMessageId": 637,
         "publicMessageId": 4730,
         "matchedWith": null,
         "rated": false,
         "number": 281,
-        "trade": {
-          "tradeId": 82,
-          "buyerId": 872282181,
-          "sellerId": 7866209976,
-          "quantity": 250,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAIpVWmDNjYCIp_I8VSym22YdFFGWfIdAAI4DWsbFDMgULlpd02oPCSPAQADAgADeQADOAQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAIpXGmDOxRpo9ZqxGTX5ULEJA1NMYz1AAIbDWsbzm8YUEUjmh2s9u6qAQADAgADeQADOAQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAxkBAAIpXGmDOxRpo9ZqxGTX5ULEJA1NMYz1AAIbDWsbzm8YUEUjmh2s9u6qAQADAgADeQADOAQ"
-          ],
-          "createdAt": 1770206299568,
-          "paymentInfo": "5b1f1548469101422f8375af02415edc",
-          "buyerPaymentInfo": "مينيةيتيميةيمؤ"
-        },
         "locked": true,
         "lockedBy": 872282181
       }
@@ -238,7 +219,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 33,
+    "tradesCount": 35,
     "ratings": [
       {
         "from": 5129178902,
