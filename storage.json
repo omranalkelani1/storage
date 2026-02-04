@@ -659,15 +659,24 @@
   "1546813054": {
     "phone": "963967274841",
     "userId": 1546813054,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "121.5",
-      "minQuantity": "100",
-      "maxQuantity": "400",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 318,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "121.5",
+        "minQuantity": "100",
+        "maxQuantity": "400",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 1546813054,
+        "checkMessageId": 659,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1108,7 +1117,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 317,
+  "forwardingNum": 318,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
