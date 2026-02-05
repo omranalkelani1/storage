@@ -204,7 +204,7 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 668,
-        "publicMessageId": null,
+        "publicMessageId": 4767,
         "matchedWith": null,
         "rated": false,
         "number": 306
@@ -1482,7 +1482,26 @@
         "number": 303
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 323,
+      "editDraft": {
+        "id": 323,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "116.5",
+        "minQuantity": "200",
+        "maxQuantity": "300",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 7751710380,
+        "checkMessageId": 664,
+        "publicMessageId": 4763,
+        "matchedWith": null,
+        "rated": false,
+        "number": 303
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
