@@ -290,7 +290,7 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 681,
-        "publicMessageId": null,
+        "publicMessageId": 4782,
         "matchedWith": null,
         "rated": false,
         "number": 319
@@ -2354,12 +2354,10 @@
     "last_name": "Allouz"
   },
   "6070024423": {
-    "phone": null,
+    "phone": "905376639943",
     "userId": 6070024423,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -2369,6 +2367,7 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "شدادبادي"
   }
 }
