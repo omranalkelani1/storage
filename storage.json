@@ -1518,7 +1518,9 @@
           "sellerId": 7751710380,
           "quantity": 300,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIrmmmEZKvjrncDaMjYHzpiV4gfyhmsAAJOD2sbZ_YgUNeggNwx71qbAQADAgADeQADOAQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770283555117
