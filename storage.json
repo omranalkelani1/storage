@@ -917,7 +917,10 @@
         "number": 321
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -1662,7 +1665,7 @@
         "status": "approved",
         "userId": 5134156042,
         "checkMessageId": 692,
-        "publicMessageId": null,
+        "publicMessageId": 4790,
         "matchedWith": null,
         "rated": false,
         "number": 327
