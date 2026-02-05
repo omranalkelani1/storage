@@ -1498,7 +1498,26 @@
         "number": 307
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 328,
+      "editDraft": {
+        "id": 328,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "116",
+        "minQuantity": "200",
+        "maxQuantity": "300",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 7751710380,
+        "checkMessageId": 669,
+        "publicMessageId": 4768,
+        "matchedWith": null,
+        "rated": false,
+        "number": 307
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
