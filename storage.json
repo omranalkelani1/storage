@@ -287,7 +287,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 44,
+    "tradesCount": 45,
     "ratings": [
       {
         "from": 5129178902,
@@ -1219,32 +1219,13 @@
         "minQuantity": "500",
         "maxQuantity": "700",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 678,
         "publicMessageId": 4778,
         "matchedWith": null,
         "rated": false,
         "number": 316,
-        "trade": {
-          "tradeId": 94,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 700,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAIssmmErhdmVbCNg94Y4d4k5GeUBUOzAAI-EWsbw5QgSFVmny1pqgABtgEAAwIAA3kAAzgE"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIDoGmEsXtGjewfO_Ayyq72KmnHhtGNAAImDWsbx1EoUK86a50tnz6ZAQADAgADeQADOAQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIDoGmEsXtGjewfO_Ayyq72KmnHhtGNAAImDWsbx1EoUK86a50tnz6ZAQADAgADeQADOAQ"
-          ],
-          "createdAt": 1770302776771,
-          "paymentInfo": "8bb6bd7294b5048178b86b34d9bc1d8d",
-          "buyerPaymentInfo": "نستيويةيميكي"
-        },
         "locked": true,
         "lockedBy": 6768982037
       }
@@ -1258,7 +1239,7 @@
         "AgACAgIAAxkBAAIstmmErnaWITnMS8F5k525HEdaasK0AAJBEWsbw5QgSB_Ks_BXGVIXAQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [
       {
         "from": 872282181,
