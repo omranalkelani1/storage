@@ -210,7 +210,10 @@
         "number": 305
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editPrice",
+      "editingOfferId": 322
+    },
     "verify": {
       "step": null,
       "photos": [
