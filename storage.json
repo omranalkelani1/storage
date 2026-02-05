@@ -1182,9 +1182,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "117.5",
-      "minQuantity": "500"
+      "minQuantity": "500",
+      "maxQuantity": "700"
     },
     "verify": {
       "step": "waiting_photos",
