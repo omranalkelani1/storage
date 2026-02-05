@@ -233,7 +233,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAIr1GmEiVY50tC5A5rNyEdTZVhZVdgiAAKNDWsbUWIhUCgQn6GxEVV1AQADAgADeAADOAQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAx0CWfjyTwACEplphE9DA8nSi7bp-G_JRJfTHMpz6AACDw1rGztOKFCHncf9w7xpuAEAAwIAA3gAAzgE"
+          ],
           "adminProofs": [],
           "createdAt": 1770293542858,
           "paymentInfo": "نلامماتلغمببنلبث"
