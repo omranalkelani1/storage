@@ -950,7 +950,7 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
+      "step": "editPrice",
       "editingOfferId": 349,
       "editDraft": {
         "id": 349,
