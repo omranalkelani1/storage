@@ -247,13 +247,14 @@
           "buyerId": 872282181,
           "sellerId": 7866209976,
           "quantity": 300,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIsFmmEnvzep8bvjNplAAGfc_uIMWs45QACPg5rGxQzKFC1whAhCx-gswEAAwIAA3kAAzgE"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770299077713
+          "createdAt": 1770299077713,
+          "paymentInfo": "نسمسكلمبحس نبكستيمش"
         },
         "locked": true,
         "lockedBy": 872282181
