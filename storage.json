@@ -2375,10 +2375,8 @@
     "offers": [],
     "current": {},
     "verify": {
-      "step": "confirm",
-      "photos": [
-        "AgACAgQAAxkBAAIs-mmEtK1GX6n1Xl_LvzP_ukNOIPx9AAIKDWsbUowhUJxgSQMVarZqAQADAgADeQADOAQ"
-      ]
+      "step": null,
+      "photos": []
     },
     "tradesCount": 0,
     "ratings": [],
@@ -2386,6 +2384,7 @@
       "count": 0,
       "history": []
     },
-    "first_name": "شدادبادي"
+    "first_name": "شدادبادي",
+    "verified": false
   }
 }
