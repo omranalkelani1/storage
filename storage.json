@@ -949,7 +949,26 @@
         "number": 328
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 349,
+      "editDraft": {
+        "id": 349,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117.3",
+        "minQuantity": "100",
+        "maxQuantity": "1000",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 2134053545,
+        "checkMessageId": 693,
+        "publicMessageId": 4791,
+        "matchedWith": null,
+        "rated": false,
+        "number": 328
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
