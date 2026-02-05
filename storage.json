@@ -248,9 +248,11 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "116.5",
-      "minQuantity": "200"
+      "minQuantity": "200",
+      "maxQuantity": "500",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
