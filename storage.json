@@ -229,7 +229,7 @@
           "buyerId": 872282181,
           "sellerId": 6193222237,
           "quantity": 30,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIr1GmEiVY50tC5A5rNyEdTZVhZVdgiAAKNDWsbUWIhUCgQn6GxEVV1AQADAgADeAADOAQ"
           ],
@@ -238,7 +238,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770293542858,
-          "paymentInfo": "نلامماتلغمببنلبث"
+          "paymentInfo": "نلامماتلغمببنلبث",
+          "buyerPaymentInfo": "تىامللنمللتمككوا"
         },
         "locked": true,
         "lockedBy": 872282181
