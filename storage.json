@@ -1420,22 +1420,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 309
-      },
-      {
-        "id": 335,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.025",
-        "minQuantity": "144",
-        "maxQuantity": "144",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 676,
-        "publicMessageId": 4776,
-        "matchedWith": null,
-        "rated": false,
-        "number": 314
       }
     ],
     "current": {},
