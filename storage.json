@@ -296,22 +296,6 @@
         "number": 319
       },
       {
-        "id": 341,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "100",
-        "maxQuantity": "400",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 682,
-        "publicMessageId": 4783,
-        "matchedWith": null,
-        "rated": false,
-        "number": 320
-      },
-      {
         "id": 343,
         "operation": "شراء",
         "step": "askPayment",
