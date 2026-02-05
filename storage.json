@@ -947,22 +947,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 328
-      },
-      {
-        "id": 351,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.5",
-        "minQuantity": "100",
-        "maxQuantity": "1000",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 695,
-        "publicMessageId": 4793,
-        "matchedWith": null,
-        "rated": false,
-        "number": 330
       }
     ],
     "current": {},
