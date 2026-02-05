@@ -2375,7 +2375,7 @@
     "offers": [],
     "current": {},
     "verify": {
-      "step": "waiting_photos",
+      "step": "confirm",
       "photos": [
         "AgACAgQAAxkBAAIs-mmEtK1GX6n1Xl_LvzP_ukNOIPx9AAIKDWsbUowhUJxgSQMVarZqAQADAgADeQADOAQ"
       ]
