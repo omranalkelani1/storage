@@ -229,7 +229,7 @@
           "buyerId": 872282181,
           "sellerId": 6193222237,
           "quantity": 30,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIr1GmEiVY50tC5A5rNyEdTZVhZVdgiAAKNDWsbUWIhUCgQn6GxEVV1AQADAgADeAADOAQ"
           ],
