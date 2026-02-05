@@ -1231,7 +1231,7 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 700,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAIssmmErhdmVbCNg94Y4d4k5GeUBUOzAAI-EWsbw5QgSFVmny1pqgABtgEAAwIAA3kAAzgE"
           ],
@@ -1240,7 +1240,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770302776771,
-          "paymentInfo": "8bb6bd7294b5048178b86b34d9bc1d8d"
+          "paymentInfo": "8bb6bd7294b5048178b86b34d9bc1d8d",
+          "buyerPaymentInfo": "نستيويةيميكي"
         },
         "locked": true,
         "lockedBy": 6768982037
