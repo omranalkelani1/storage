@@ -322,13 +322,32 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 687,
-        "publicMessageId": null,
+        "publicMessageId": 4785,
         "matchedWith": null,
         "rated": false,
         "number": 322
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 343,
+      "editDraft": {
+        "id": 343,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117.5",
+        "minQuantity": "100",
+        "maxQuantity": "1500",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 687,
+        "publicMessageId": 4785,
+        "matchedWith": null,
+        "rated": false,
+        "number": 322
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
