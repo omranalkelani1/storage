@@ -1517,7 +1517,7 @@
           "buyerId": 872282181,
           "sellerId": 7751710380,
           "quantity": 300,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAIrmmmEZKvjrncDaMjYHzpiV4gfyhmsAAJOD2sbZ_YgUNeggNwx71qbAQADAgADeQADOAQ"
           ],
