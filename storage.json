@@ -280,7 +280,26 @@
         "number": 318
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 339,
+      "editDraft": {
+        "id": 339,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "116.5",
+        "minQuantity": "100",
+        "maxQuantity": "500",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 680,
+        "publicMessageId": 4781,
+        "matchedWith": null,
+        "rated": false,
+        "number": 318
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -2336,5 +2355,23 @@
     },
     "first_name": "Mohamad",
     "last_name": "Allouz"
+  },
+  "6070024423": {
+    "phone": null,
+    "userId": 6070024423,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
