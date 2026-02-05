@@ -1231,12 +1231,14 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 700,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770302776771
-        }
+        },
+        "locked": true,
+        "lockedBy": 6768982037
       }
     ],
     "current": {},
