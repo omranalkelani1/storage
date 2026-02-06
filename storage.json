@@ -226,7 +226,10 @@
         "number": 340
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -2341,5 +2344,23 @@
     },
     "first_name": "Abu Naseem",
     "last_name": "Sheikh"
+  },
+  "5660225413": {
+    "phone": null,
+    "userId": 5660225413,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
