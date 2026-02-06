@@ -779,24 +779,7 @@
   "2134053545": {
     "phone": "963953275296",
     "userId": 2134053545,
-    "offers": [
-      {
-        "id": 360,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "19.6",
-        "maxQuantity": "19.6",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 704,
-        "publicMessageId": 4807,
-        "matchedWith": null,
-        "rated": false,
-        "number": 338
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
