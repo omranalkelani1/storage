@@ -1303,24 +1303,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 353,
-      "editDraft": {
-        "id": 353,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "70",
-        "maxQuantity": "236",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 697,
-        "publicMessageId": 4799,
-        "matchedWith": null,
-        "rated": false,
-        "number": 332
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "119",
+      "minQuantity": "70",
+      "maxQuantity": "236",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
