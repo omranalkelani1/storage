@@ -256,16 +256,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 345
+      },
+      {
+        "id": 368,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.005",
+        "minQuantity": "58",
+        "maxQuantity": "58",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 712,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.005",
-      "minQuantity": "58",
-      "maxQuantity": "58",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -939,7 +947,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 367,
+  "forwardingNum": 368,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
