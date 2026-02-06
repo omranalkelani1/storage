@@ -259,13 +259,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 367,
       "editDraft": {
         "id": 367,
         "operation": "بيع",
         "step": "askPayment",
-        "price": "1.01",
+        "price": "1.005",
         "minQuantity": "58",
         "maxQuantity": "58",
         "transform_way": "shamDolar",
