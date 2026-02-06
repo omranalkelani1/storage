@@ -2265,7 +2265,10 @@
     "phone": "963992585488",
     "userId": 8536767812,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
