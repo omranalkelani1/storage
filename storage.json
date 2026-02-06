@@ -762,13 +762,17 @@
     "first_name": "..."
   },
   "offerSeq": 333,
-  "botEnabled": true,
+  "botEnabled": false,
   "6193222237": {
     "phone": "963960013368",
     "userId": 6193222237,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 352,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": [
