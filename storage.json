@@ -2125,15 +2125,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 337
-      },
-      {
-        "id": 359,
-        "status": "pending",
-        "userId": 6279148047,
-        "checkMessageId": 703,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
       }
     ],
     "current": {},
