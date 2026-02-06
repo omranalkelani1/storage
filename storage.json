@@ -863,7 +863,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 358,
+  "forwardingNum": 359,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2121,6 +2121,15 @@
         "status": "pending",
         "userId": 6279148047,
         "checkMessageId": 702,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      },
+      {
+        "id": 359,
+        "status": "pending",
+        "userId": 6279148047,
+        "checkMessageId": 703,
         "publicMessageId": null,
         "matchedWith": null,
         "rated": false
