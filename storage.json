@@ -1287,9 +1287,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "119",
-      "minQuantity": "70"
+      "minQuantity": "70",
+      "maxQuantity": "170"
     },
     "verify": {
       "step": null,
