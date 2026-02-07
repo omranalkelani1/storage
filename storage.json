@@ -340,8 +340,8 @@
         "checkMessageId": 736,
         "publicMessageId": 4848,
         "matchedWith": {
-          "userId": "7970479825",
-          "offerId": 371
+          "userId": 7970479825,
+          "offerId": 393
         },
         "rated": false,
         "number": 370
@@ -1645,7 +1645,10 @@
         "userId": 7970479825,
         "checkMessageId": 737,
         "publicMessageId": 4849,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "872282181",
+          "offerId": 392
+        },
         "rated": false,
         "number": 371
       }
