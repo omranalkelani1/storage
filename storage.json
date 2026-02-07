@@ -2221,13 +2221,14 @@
           "buyerId": 7977160463,
           "sellerId": 7892891785,
           "quantity": 55.95,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIwKWmHe60GhIyM3vJcFM6EQNfHypwKAAIdDWsbBKZAULeX7kQ90x7GAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770485674748
+          "createdAt": 1770485674748,
+          "paymentInfo": "62e01dec953812d21fa5fde3e54ac56a"
         },
         "locked": true,
         "lockedBy": 7977160463
