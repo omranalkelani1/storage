@@ -314,7 +314,9 @@
           "sellerId": 1869794934,
           "quantity": 85,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIwB2mHdm0gbC5sFL5_J0-BA8vv-c8qAAKJDmsbhG44UHZvvLDdHiFRAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770484616074
