@@ -1379,9 +1379,9 @@
       }
     ],
     "current": {
-      "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "117.5"
+      "step": "ask_quantity",
+      "offerId": 374,
+      "offerOwnerId": 6193222237
     },
     "verify": {
       "step": null,
@@ -1950,7 +1950,10 @@
     "phone": "963988809340",
     "userId": 7977160463,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
