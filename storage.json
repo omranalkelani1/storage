@@ -260,7 +260,26 @@
         "number": 356
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 378,
+      "editDraft": {
+        "id": 378,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "10",
+        "maxQuantity": "700",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 722,
+        "publicMessageId": 4833,
+        "matchedWith": null,
+        "rated": false,
+        "number": 356
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
