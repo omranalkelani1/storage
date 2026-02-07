@@ -1946,7 +1946,7 @@
           "buyerId": 872282181,
           "sellerId": 5329698405,
           "quantity": 300,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIvoWmHTC0dRvg1g-NxR3m_n3f2AAF6cgACcA1rGxzKOFCzHjdaUGKKXgEAAwIAA3kAAzoE"
           ],
