@@ -737,7 +737,10 @@
     "userId": 1869794934,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -865,6 +868,24 @@
     "phone": null,
     "userId": 2113830528,
     "category": "🥉 برونزي",
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "2115869867": {
+    "phone": null,
+    "userId": 2115869867,
     "offers": [],
     "current": {
       "step": "askPhone"
