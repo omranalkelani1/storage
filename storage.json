@@ -283,32 +283,13 @@
         "minQuantity": "10",
         "maxQuantity": "700",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 872282181,
         "checkMessageId": 729,
         "publicMessageId": 4840,
         "matchedWith": null,
         "rated": false,
         "number": 363,
-        "trade": {
-          "tradeId": 99,
-          "buyerId": 872282181,
-          "sellerId": 7866209976,
-          "quantity": 500,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAIvpGmHTOjt3oqPgrgOOxf2n2usgARlAAL_DWsbVvc5UK5IwP9KGI7FAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAIvr2mHUc8P3ZyQPC2SoSgmupFm09hHAAKIDWsbwqg4UDXhnm-VAlPbAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAID3GmHZYkT4UGPw8QdXAABh1eMORpPhwACeQ1rG9sgQFA0zm8P2YwrOwEAAwIAA3gAAzoE"
-          ],
-          "createdAt": 1770474374209,
-          "paymentInfo": "5b1f1548469101422f8375af02415edc",
-          "buyerPaymentInfo": "تةرنملتممالنككو"
-        },
         "locked": true,
         "lockedBy": 872282181
       }
@@ -320,7 +301,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 51,
+    "tradesCount": 53,
     "ratings": [
       {
         "from": 5129178902,
