@@ -1592,7 +1592,7 @@
           "buyerId": 872282181,
           "sellerId": 7970479825,
           "quantity": 139,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgEAAxkBAAIwaWmHisVOnNZvsYukv5AFqted7iqqAAIQDGsbTq9BRCa9j3OI9YpbAQADAgADeQADOgQ"
           ],
@@ -1601,7 +1601,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770490026995,
-          "paymentInfo": "33e66604bab34b8de7a13369e20b9668\n\n\n‼️لا تقم بإرسال ملاحظات‼️\n‼️لا تقم بإخفاء الهوية‼️"
+          "paymentInfo": "33e66604bab34b8de7a13369e20b9668\n\n\n‼️لا تقم بإرسال ملاحظات‼️\n‼️لا تقم بإخفاء الهوية‼️",
+          "buyerPaymentInfo": "نيزيةينسكيةيمي"
         },
         "locked": true,
         "lockedBy": 7970479825
