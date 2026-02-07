@@ -245,13 +245,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 377,
       "editDraft": {
         "id": 377,
         "operation": "شراء",
         "step": "askPayment",
-        "price": "116.5",
+        "price": "117",
         "minQuantity": "10",
         "maxQuantity": "700",
         "transform_way": "shamSy",
