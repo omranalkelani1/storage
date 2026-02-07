@@ -1147,24 +1147,7 @@
     "phone": "963933918566",
     "userId": 5924567969,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 380,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117",
-        "minQuantity": "11",
-        "maxQuantity": "11",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 724,
-        "publicMessageId": 4835,
-        "matchedWith": null,
-        "rated": false,
-        "number": 358
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": "waiting_photos",
