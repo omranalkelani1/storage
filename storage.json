@@ -2222,7 +2222,9 @@
           "sellerId": 7892891785,
           "quantity": 55.95,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIwKWmHe60GhIyM3vJcFM6EQNfHypwKAAIdDWsbBKZAULeX7kQ90x7GAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770485674748
