@@ -339,7 +339,10 @@
         "userId": 872282181,
         "checkMessageId": 736,
         "publicMessageId": 4848,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7970479825",
+          "offerId": 371
+        },
         "rated": false,
         "number": 370
       }
@@ -1589,7 +1592,10 @@
         "userId": 7970479825,
         "checkMessageId": 715,
         "publicMessageId": 4823,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 872282181,
+          "offerId": 392
+        },
         "rated": false,
         "number": 349
       },
