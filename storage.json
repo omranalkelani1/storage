@@ -2209,32 +2209,13 @@
         "minQuantity": "50",
         "maxQuantity": "90",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 7977160463,
         "checkMessageId": 732,
         "publicMessageId": 4843,
         "matchedWith": null,
         "rated": false,
         "number": 366,
-        "trade": {
-          "tradeId": 101,
-          "buyerId": 7977160463,
-          "sellerId": 7892891785,
-          "quantity": 55.95,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAIwKWmHe60GhIyM3vJcFM6EQNfHypwKAAIdDWsbBKZAULeX7kQ90x7GAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAIwMGmHfDmuQB1HsJ5IQGPx_BOChxfcAAJJDWsbmURAUG9cZB6V38sYAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAID82mHfYnqtVybequAYO-E8CyI8KntAALIDWsb2yBAUD9lSrR5Uw45AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1770485674748,
-          "paymentInfo": "62e01dec953812d21fa5fde3e54ac56a",
-          "buyerPaymentInfo": "0x6c38d80abadbb96bd09bc5b4ead5f90b2a9fc515"
-        },
         "locked": true,
         "lockedBy": 7977160463
       }
@@ -2244,7 +2225,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 3,
     "ratings": [],
     "strikes": {
       "count": 0,
