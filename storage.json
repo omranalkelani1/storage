@@ -2211,12 +2211,14 @@
           "buyerId": 7977160463,
           "sellerId": 7892891785,
           "quantity": 55.95,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770485674748
-        }
+        },
+        "locked": true,
+        "lockedBy": 7977160463
       }
     ],
     "current": {},
