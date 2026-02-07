@@ -822,7 +822,26 @@
         "number": 348
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 370,
+      "editDraft": {
+        "id": 370,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "10",
+        "maxQuantity": "30",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 714,
+        "publicMessageId": 4822,
+        "matchedWith": null,
+        "rated": false,
+        "number": 348
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
