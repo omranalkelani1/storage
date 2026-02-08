@@ -1476,22 +1476,6 @@
         "number": 372
       },
       {
-        "id": 407,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "385",
-        "maxQuantity": "385",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 751,
-        "publicMessageId": 4870,
-        "matchedWith": null,
-        "rated": false,
-        "number": 385
-      },
-      {
         "id": 409,
         "operation": "بيع",
         "step": "askPayment",
