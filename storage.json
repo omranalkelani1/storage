@@ -901,7 +901,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 399,
+  "forwardingNum": 400,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2420,15 +2420,24 @@
   "7747316413": {
     "phone": "963951409439",
     "userId": 7747316413,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "123",
-      "minQuantity": "15",
-      "maxQuantity": "15",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 400,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "123",
+        "minQuantity": "15",
+        "maxQuantity": "15",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 7747316413,
+        "checkMessageId": 744,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
