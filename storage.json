@@ -20,15 +20,24 @@
   "219509227": {
     "phone": "963999833203",
     "userId": 219509227,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.01",
-      "minQuantity": "400",
-      "maxQuantity": "400",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 402,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "400",
+        "maxQuantity": "400",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 219509227,
+        "checkMessageId": 746,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -952,7 +961,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 401,
+  "forwardingNum": 402,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
