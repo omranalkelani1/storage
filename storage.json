@@ -983,7 +983,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 405,
+  "forwardingNum": 406,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -1586,15 +1586,24 @@
     "phone": "380944698225",
     "userId": 5134156042,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.025",
-      "minQuantity": "200",
-      "maxQuantity": "200",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 406,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.025",
+        "minQuantity": "200",
+        "maxQuantity": "200",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 5134156042,
+        "checkMessageId": 750,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
