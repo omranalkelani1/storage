@@ -1506,7 +1506,7 @@
           "buyerId": 872282181,
           "sellerId": 7970479825,
           "quantity": 450,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgEAAxkBAAIxx2mIxV8FPbZCuftlZ0MdoIHeT_UEAAJdDWsbdSdIRFFXrl-7pCqvAQADAgADeQADOgQ"
           ],
