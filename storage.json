@@ -214,7 +214,7 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
+      "step": "editPrice",
       "editingOfferId": 404,
       "editDraft": {
         "id": 404,
