@@ -1793,15 +1793,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 397,
       "editDraft": {
         "id": 397,
         "operation": "بيع",
         "step": "askPayment",
         "price": "121",
-        "minQuantity": "41",
-        "maxQuantity": "41",
+        "minQuantity": "45",
+        "maxQuantity": "45",
         "transform_way": "syriatel",
         "status": "approved",
         "userId": 5329698405,
