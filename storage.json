@@ -1046,7 +1046,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 105,
+  "tradeId": 106,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -1483,7 +1483,18 @@
         "publicMessageId": 4871,
         "matchedWith": null,
         "rated": false,
-        "number": 386
+        "number": 386,
+        "trade": {
+          "tradeId": 106,
+          "buyerId": 8365469595,
+          "sellerId": 7970479825,
+          "quantity": 350,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1770570377252
+        }
       }
     ],
     "current": {},
@@ -1602,11 +1613,7 @@
     "userId": 8365469595,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "step": "ask_quantity",
-      "offerId": 150,
-      "offerOwnerId": 872282181
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": []
