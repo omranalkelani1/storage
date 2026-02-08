@@ -2314,5 +2314,23 @@
       "count": 0,
       "history": []
     }
+  },
+  "6359321383": {
+    "phone": "218925328375",
+    "userId": 6359321383,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "ad",
+    "last_name": "Sy"
   }
 }
