@@ -872,19 +872,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 373,
-        "trade": {
-          "tradeId": 105,
-          "buyerId": 6193222237,
-          "sellerId": 1798522778,
-          "quantity": 56.23,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770552584047
-        },
-        "locked": true,
-        "lockedBy": 6193222237
+        "locked": false
       }
     ],
     "current": {},
