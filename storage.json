@@ -1032,7 +1032,10 @@
     "userId": 7957704985,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
