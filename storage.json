@@ -1489,12 +1489,14 @@
           "buyerId": 8365469595,
           "sellerId": 7970479825,
           "quantity": 350,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770570377252
-        }
+        },
+        "locked": true,
+        "lockedBy": 7970479825
       }
     ],
     "current": {},
