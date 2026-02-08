@@ -1531,7 +1531,9 @@
             "AgACAgQAAxkBAAIx22mIyOxJZ_oTPZDJpUy6JvnO9AECAAK6DGsbwqhIUDtmBJPjd8W-AQADAgADeQADOgQ",
             "AgACAgQAAxkBAAIx3WmIyUrbbchY_gLo8fMnv9C6-N1UAAK7DGsbwqhIUCU9rWSMCY-TAQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAxkBAAIx3WmIyUrbbchY_gLo8fMnv9C6-N1UAAK7DGsbwqhIUCU9rWSMCY-TAQADAgADeQADOgQ"
+          ],
           "createdAt": 1770570764897,
           "paymentInfo": "eec990b1a34b197c5154bdbc10a50389\n\n11.000\n............\n\n9536ff8154caaa8ee83d54d746558288\n\n42.325\n\nمن فضلك:\n‼️لا تقم بإرسال ملاحظات‼️\n‼️لا تقم بإخفاء الهوية‼️",
           "buyerPaymentInfo": "تيتيزيظيظبوبزبي"
