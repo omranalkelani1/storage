@@ -2422,8 +2422,7 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "15"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
