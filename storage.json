@@ -2775,12 +2775,14 @@
           "buyerId": 1975626644,
           "sellerId": 5653895978,
           "quantity": 61,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770649576866
-        }
+        },
+        "locked": true,
+        "lockedBy": 5653895978
       }
     ],
     "current": {},
