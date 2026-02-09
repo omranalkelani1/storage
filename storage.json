@@ -809,23 +809,7 @@
     "phone": "963996916801",
     "userId": 1975626644,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 432,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "695",
-        "maxQuantity": "695",
-        "transform_way": "shamSy",
-        "status": "pending",
-        "userId": 1975626644,
-        "checkMessageId": 776,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
