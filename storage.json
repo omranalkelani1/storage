@@ -225,7 +225,10 @@
         "userId": 872282181,
         "checkMessageId": 758,
         "publicMessageId": 4881,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 5924567969,
+          "offerId": 424
+        },
         "rated": false,
         "number": 392
       }
@@ -872,7 +875,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 403,
+  "offerSeq": 404,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1212,7 +1215,10 @@
         "userId": 5924567969,
         "checkMessageId": 768,
         "publicMessageId": 4897,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "872282181",
+          "offerId": 414
+        },
         "rated": false,
         "number": 403
       }
@@ -2698,12 +2704,13 @@
         "minQuantity": "62",
         "maxQuantity": "62",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 7646264942,
         "checkMessageId": 769,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 404
       }
     ],
     "current": {},
