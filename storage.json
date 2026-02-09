@@ -2624,7 +2624,10 @@
     "phone": "966501462544",
     "userId": 7426160683,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
