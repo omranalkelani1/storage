@@ -1961,12 +1961,14 @@
           "buyerId": 872282181,
           "sellerId": 7424622197,
           "quantity": 20,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770613947711
-        }
+        },
+        "locked": true,
+        "lockedBy": 7424622197
       }
     ],
     "current": {},
