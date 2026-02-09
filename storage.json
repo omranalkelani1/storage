@@ -2672,9 +2672,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "122",
-      "minQuantity": "1500"
+      "minQuantity": "1500",
+      "maxQuantity": "1500"
     },
     "verify": {
       "step": null,
