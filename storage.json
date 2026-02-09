@@ -1191,7 +1191,9 @@
             "AgACAgQAAxkBAAIyl2mJsEz0s2BgT7E61gb4GnFI0L1jAAKBDmsbYVtRUDZRJ6HrMdzwAQADAgADeQADOgQ"
           ],
           "buyerProofs": [
-            "AgACAgIAAxkBAAIynmmJsgz7fQbZJHc83pcaZgiMTOTXAAIwFWsbfZBISCF7Qf00QbniAQADAgADdwADOgQ"
+            "AgACAgIAAxkBAAIynmmJsgz7fQbZJHc83pcaZgiMTOTXAAIwFWsbfZBISCF7Qf00QbniAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIyn2mJsgxCazHMjXNAfcBaNmZy2rKhAAIxFWsbfZBISPqMLyvT7MoOAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAIyoGmJsgwfkhZgfAlgTVobO9mkmFSAAAIyFWsbfZBISAj4lRh1kal_AQADAgADdwADOgQ"
           ],
           "adminProofs": [],
           "createdAt": 1770631151610,
@@ -2313,7 +2315,10 @@
     "phone": "963981094421",
     "userId": 5656362998,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
