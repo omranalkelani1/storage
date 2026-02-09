@@ -920,7 +920,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 411,
+  "forwardingNum": 412,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -1940,15 +1940,24 @@
   "7424622197": {
     "phone": "963959560511",
     "userId": 7424622197,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "20",
-      "maxQuantity": "20",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 412,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "20",
+        "maxQuantity": "20",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 7424622197,
+        "checkMessageId": 756,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": []
