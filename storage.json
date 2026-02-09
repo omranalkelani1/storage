@@ -1962,7 +1962,9 @@
           "sellerId": 7424622197,
           "quantity": 20,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAIyJGmJbcwXp7UIZsl-M17R0g_KoY_mAAL-DGsbLh5JUGw-qh0RDVUIAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770613947711
