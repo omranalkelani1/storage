@@ -2723,7 +2723,10 @@
     "phone": "963939425283",
     "userId": 5653895978,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
