@@ -2718,5 +2718,22 @@
     },
     "first_name": "Maya",
     "last_name": "Maya"
+  },
+  "5653895978": {
+    "phone": "963939425283",
+    "userId": 5653895978,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Ali"
   }
 }
