@@ -1186,7 +1186,7 @@
           "buyerId": 5134156042,
           "sellerId": 5924567969,
           "quantity": 97,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIyl2mJsEz0s2BgT7E61gb4GnFI0L1jAAKBDmsbYVtRUDZRJ6HrMdzwAQADAgADeQADOgQ"
           ],
