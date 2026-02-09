@@ -1167,7 +1167,26 @@
         "number": 396
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 418,
+      "editDraft": {
+        "id": 418,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "98",
+        "maxQuantity": "98",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 5924567969,
+        "checkMessageId": 762,
+        "publicMessageId": 4888,
+        "matchedWith": null,
+        "rated": false,
+        "number": 396
+      }
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
