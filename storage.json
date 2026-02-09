@@ -1237,13 +1237,14 @@
           "buyerId": 1975626644,
           "sellerId": 5924567969,
           "quantity": 51,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAIzM2mJ-FcezvtjUvgZS5SBst8c0ZSrAALwDmsbYVtRUDvwrJ-0934kAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770649563502
+          "createdAt": 1770649563502,
+          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
         },
         "locked": true,
         "lockedBy": 5924567969
