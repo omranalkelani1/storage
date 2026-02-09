@@ -1280,35 +1280,6 @@
         },
         "locked": true,
         "lockedBy": 5924567969
-      },
-      {
-        "id": 429,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117",
-        "minQuantity": "45",
-        "maxQuantity": "45",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 773,
-        "publicMessageId": 4903,
-        "matchedWith": null,
-        "rated": false,
-        "number": 407,
-        "trade": {
-          "tradeId": 113,
-          "buyerId": 872282181,
-          "sellerId": 5924567969,
-          "quantity": 45,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770653489079
-        },
-        "locked": true,
-        "lockedBy": 5924567969
       }
     ],
     "current": {},
