@@ -138,6 +138,24 @@
     },
     "first_name": "𝐴𝑙𝑖 || ャ"
   },
+  "681456385": {
+    "phone": null,
+    "userId": 681456385,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "713076584": {
     "phone": null,
     "userId": 713076584,
@@ -1563,7 +1581,10 @@
     "userId": 5134156042,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
