@@ -239,7 +239,8 @@
           "step": "seller_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAIzhWmKB9Z3THqX0F_c1WAJmZ6rfVyQAALNDGsbYVtZUAnDkcq24jCwAQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAIzhmmKB9ZY7ZcLtwLPZAxaVMfzewPIAALODGsbYVtZUHfsCuZQ-JdyAQADAgADeQADOgQ"
+            "AgACAgQAAxkBAAIzhmmKB9ZY7ZcLtwLPZAxaVMfzewPIAALODGsbYVtZUHfsCuZQ-JdyAQADAgADeQADOgQ",
+            "AgACAgQAAxkBAAIzlGmKCLQ7TmDhPmBrwvcqGg2MXGRzAALPDGsbYVtZUIqpGKIbCfBFAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
