@@ -113,12 +113,13 @@
         "minQuantity": "400",
         "maxQuantity": "400",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 647336851,
         "checkMessageId": 777,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 410
       }
     ],
     "current": {},
@@ -306,7 +307,8 @@
       "step": "askPayment",
       "price": "119",
       "minQuantity": "50",
-      "maxQuantity": "250"
+      "maxQuantity": "250",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
@@ -954,7 +956,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 409,
+  "offerSeq": 410,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
