@@ -812,9 +812,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "119",
-      "minQuantity": "695"
+      "minQuantity": "695",
+      "maxQuantity": "695"
     },
     "verify": {
       "step": null,
