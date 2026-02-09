@@ -1961,7 +1961,7 @@
           "buyerId": 872282181,
           "sellerId": 7424622197,
           "quantity": 20,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAIyJGmJbcwXp7UIZsl-M17R0g_KoY_mAAL-DGsbLh5JUGw-qh0RDVUIAQADAgADeQADOgQ"
           ],
