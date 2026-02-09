@@ -2601,5 +2601,41 @@
       "count": 0,
       "history": []
     }
+  },
+  "5675600312": {
+    "phone": null,
+    "userId": 5675600312,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "7426160683": {
+    "phone": "966501462544",
+    "userId": 7426160683,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Etihad",
+    "last_name": "GmbH"
   }
 }
