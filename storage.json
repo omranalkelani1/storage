@@ -105,7 +105,10 @@
     "phone": "963991708666",
     "userId": 647336851,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
