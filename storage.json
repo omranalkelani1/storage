@@ -1195,7 +1195,9 @@
             "AgACAgIAAxkBAAIyn2mJsgxCazHMjXNAfcBaNmZy2rKhAAIxFWsbfZBISPqMLyvT7MoOAQADAgADdwADOgQ",
             "AgACAgIAAxkBAAIyoGmJsgwfkhZgfAlgTVobO9mkmFSAAAIyFWsbfZBISAj4lRh1kal_AQADAgADdwADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIENmmJt-E7p6mlpTn_5f3kNinOGoKKAAI5DWsbD-tRUGHFUn65Tz6vAQADAgADeQADOgQ"
+          ],
           "createdAt": 1770631151610,
           "paymentInfo": "40208101\n64301465\n98604058",
           "buyerPaymentInfo": "Usdt BEP20 \n\n0x886BB18C62722D0bB1E016d94B20A35818b8fe7F"
