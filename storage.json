@@ -1037,7 +1037,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 427,
+  "forwardingNum": 428,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2669,15 +2669,24 @@
   "7747316413": {
     "phone": "963951409439",
     "userId": 7747316413,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "122",
-      "minQuantity": "1500",
-      "maxQuantity": "1500",
-      "transform_way": "mtn"
-    },
+    "offers": [
+      {
+        "id": 428,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "1500",
+        "maxQuantity": "1500",
+        "transform_way": "mtn",
+        "status": "pending",
+        "userId": 7747316413,
+        "checkMessageId": 772,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
