@@ -1295,22 +1295,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 417
-      },
-      {
-        "id": 446,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "88",
-        "maxQuantity": "88",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 790,
-        "publicMessageId": 4926,
-        "matchedWith": null,
-        "rated": false,
-        "number": 423
       }
     ],
     "current": {},
