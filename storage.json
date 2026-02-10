@@ -844,12 +844,13 @@
         "minQuantity": "42",
         "maxQuantity": "42",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 1975626644,
         "checkMessageId": 788,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 421
       }
     ],
     "current": {},
@@ -974,7 +975,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 420,
+  "offerSeq": 421,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
