@@ -1654,18 +1654,7 @@
         "publicMessageId": 4940,
         "matchedWith": null,
         "rated": false,
-        "number": 434,
-        "trade": {
-          "tradeId": 123,
-          "buyerId": 7743470877,
-          "sellerId": 7132461559,
-          "quantity": 200,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770748561343
-        }
+        "number": 434
       }
     ],
     "current": {},
