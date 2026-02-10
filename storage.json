@@ -228,11 +228,19 @@
         "matchedWith": null,
         "rated": false,
         "number": 413
+      },
+      {
+        "id": 438,
+        "price": "118",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 782,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "price": "118"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -983,7 +991,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 437,
+  "forwardingNum": 438,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
