@@ -294,7 +294,26 @@
         "number": 427
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 450,
+      "editDraft": {
+        "id": 450,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119.2",
+        "minQuantity": "30",
+        "maxQuantity": "170",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 794,
+        "publicMessageId": 4930,
+        "matchedWith": null,
+        "rated": false,
+        "number": 427
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
