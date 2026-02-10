@@ -247,17 +247,6 @@
         "number": 413
       },
       {
-        "id": 438,
-        "price": "118",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 782,
-        "publicMessageId": 4916,
-        "matchedWith": null,
-        "rated": false,
-        "number": 415
-      },
-      {
         "id": 442,
         "operation": "شراء",
         "step": "askPayment",
