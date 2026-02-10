@@ -1415,7 +1415,7 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 40.5,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAI19GmLcMB90U6URSD4i2BTPwABTqvL4AACZxdrGxmpYFARCDkuP9lv_AEAAwIAA3kAAzoE"
           ],
