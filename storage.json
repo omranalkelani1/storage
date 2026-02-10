@@ -2987,7 +2987,13 @@
       "photos": []
     },
     "tradesCount": 0,
-    "ratings": [],
+    "ratings": [
+      {
+        "from": 872282181,
+        "rate": 5,
+        "date": 1770752170074
+      }
+    ],
     "strikes": {
       "count": 0,
       "history": []
