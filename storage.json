@@ -214,7 +214,26 @@
         "number": 412
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 435,
+      "editDraft": {
+        "id": 435,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "30",
+        "maxQuantity": "170",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 779,
+        "publicMessageId": 4913,
+        "matchedWith": null,
+        "rated": false,
+        "number": 412
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
