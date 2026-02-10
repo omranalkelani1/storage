@@ -2991,7 +2991,10 @@
     "phone": "963958906438",
     "userId": 7132461559,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
