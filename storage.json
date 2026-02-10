@@ -855,22 +855,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 421
-      },
-      {
-        "id": 449,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "1065",
-        "maxQuantity": "1065",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 1975626644,
-        "checkMessageId": 793,
-        "publicMessageId": 4929,
-        "matchedWith": null,
-        "rated": false,
-        "number": 426
       }
     ],
     "current": {},
