@@ -363,13 +363,14 @@
           "buyerId": 872282181,
           "sellerId": 51970206,
           "quantity": 300,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI1bGmLQuOPkcoHuW4XoULZ4p8XQ5CvAAInDWsbjvVYUOQfjHXFYNfMAQADAgADdwADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770734152502
+          "createdAt": 1770734152502,
+          "paymentInfo": "651772b23ee923513e633d0fa05b1a15"
         },
         "locked": true,
         "lockedBy": 872282181
