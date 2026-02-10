@@ -232,12 +232,13 @@
       {
         "id": 438,
         "price": "118",
-        "status": "pending",
+        "status": "approved",
         "userId": 872282181,
         "checkMessageId": 782,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 415
       }
     ],
     "current": {},
@@ -909,7 +910,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 414,
+  "offerSeq": 415,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
