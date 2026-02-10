@@ -290,7 +290,26 @@
         "number": 420
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 443,
+      "editDraft": {
+        "id": 443,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.02",
+        "minQuantity": "200",
+        "maxQuantity": "1000",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 787,
+        "publicMessageId": 4922,
+        "matchedWith": null,
+        "rated": false,
+        "number": 420
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
