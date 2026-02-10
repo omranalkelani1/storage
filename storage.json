@@ -1639,24 +1639,7 @@
     "phone": "963996545922",
     "userId": 7743470877,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 457,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "100",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7743470877,
-        "checkMessageId": 801,
-        "publicMessageId": 4940,
-        "matchedWith": null,
-        "rated": false,
-        "number": 434
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
