@@ -263,14 +263,7 @@
         "number": 419
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.025",
-      "minQuantity": "143",
-      "maxQuantity": "143",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
