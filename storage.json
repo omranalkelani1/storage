@@ -230,7 +230,10 @@
         "number": 413
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editPrice",
+      "editingOfferId": 435
+    },
     "verify": {
       "step": null,
       "photos": [
