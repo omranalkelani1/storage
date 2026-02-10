@@ -258,7 +258,10 @@
         "number": 415
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -2655,5 +2658,23 @@
     },
     "first_name": "Eshhanle - اشحنلي",
     "last_name": "حساب الادارة"
+  },
+  "8403155521": {
+    "phone": null,
+    "userId": 8403155521,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
