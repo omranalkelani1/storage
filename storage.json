@@ -414,7 +414,8 @@
           ],
           "buyerProofs": [
             "AgACAgQAAxkBAAI2PGmLgjQ6uiX1eiO3C_US4j8iQzatAAIYEGsbUalZUKVuPL5qp7dIAQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAI2PmmLgoUuFCp4WeR4SM-KWu5X6AjPAAIaEGsbUalZUApSoJoYgNWMAQADAgADeQADOgQ"
+            "AgACAgQAAxkBAAI2PmmLgoUuFCp4WeR4SM-KWu5X6AjPAAIaEGsbUalZUApSoJoYgNWMAQADAgADeQADOgQ",
+            "AgACAgQAAxkBAAI2QWmLh2XbGZjqCwRaKk0H5ejt_4pQAAInEGsbUalZUOUc8koo-vJjAQADAgADeQADOgQ"
           ],
           "adminProofs": [],
           "createdAt": 1770749258840,
