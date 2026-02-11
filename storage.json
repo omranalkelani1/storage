@@ -935,13 +935,14 @@
           "buyerId": 6193222237,
           "sellerId": 892165414,
           "quantity": 120,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI2o2mMGrAmD9J9bhAVc9gVAj0tv16DAAKFDWsbFxRpUGlbZMdhFVC9AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770789132074
+          "createdAt": 1770789132074,
+          "paymentInfo": "a29c9a8004bf7dde6dfa5727806f7efc"
         },
         "locked": true,
         "lockedBy": 6193222237
