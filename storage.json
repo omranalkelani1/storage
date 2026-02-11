@@ -340,7 +340,26 @@
         "number": 461
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 484,
+      "editDraft": {
+        "id": 484,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "50",
+        "maxQuantity": "150",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 828,
+        "publicMessageId": 4975,
+        "matchedWith": null,
+        "rated": false,
+        "number": 461
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
