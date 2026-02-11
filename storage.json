@@ -2661,12 +2661,10 @@
     "last_name": "...."
   },
   "6408145762": {
-    "phone": null,
+    "phone": "4915212635256",
     "userId": 6408145762,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -2676,7 +2674,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "Abdalmajeed",
+    "last_name": "Kanaan"
   },
   "5675600312": {
     "phone": null,
