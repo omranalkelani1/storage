@@ -45,6 +45,24 @@
     "first_name": "Ahmad",
     "last_name": "Ibrahem"
   },
+  "346134351": {
+    "phone": null,
+    "userId": 346134351,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "428137624": {
     "phone": "963936357144",
     "userId": 428137624,
@@ -1070,7 +1088,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 459,
+  "offerSeq": 460,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1492,12 +1510,13 @@
         "minQuantity": "200",
         "maxQuantity": "200",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 6768982037,
         "checkMessageId": 827,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 460
       }
     ],
     "current": {},
