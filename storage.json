@@ -1980,7 +1980,8 @@
       "step": "askPayment",
       "price": "119",
       "minQuantity": "34",
-      "maxQuantity": "34"
+      "maxQuantity": "34",
+      "transform_way": "mtn"
     },
     "verify": {
       "step": null,
