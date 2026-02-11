@@ -1977,8 +1977,9 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "119"
+      "step": "askMaxQuantity",
+      "price": "119",
+      "minQuantity": "34"
     },
     "verify": {
       "step": null,
