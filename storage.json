@@ -935,12 +935,14 @@
           "buyerId": 6193222237,
           "sellerId": 892165414,
           "quantity": 120,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770789132074
-        }
+        },
+        "locked": true,
+        "lockedBy": 6193222237
       }
     ],
     "current": {},
