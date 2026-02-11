@@ -908,15 +908,24 @@
   "2029115148": {
     "phone": "15672488562",
     "userId": 2029115148,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "122",
-      "minQuantity": "25",
-      "maxQuantity": "35",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 480,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "25",
+        "maxQuantity": "35",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 2029115148,
+        "checkMessageId": 824,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1123,7 +1132,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 479,
+  "forwardingNum": 480,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
