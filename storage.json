@@ -3200,24 +3200,12 @@
   "7882319586": {
     "phone": "212614272974",
     "userId": 7882319586,
-    "offers": [
-      {
-        "id": 491,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "5",
-        "maxQuantity": "8",
-        "transform_way": "syriatel",
-        "status": "pending",
-        "userId": 7882319586,
-        "checkMessageId": 835,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
-    "current": {},
+    "offers": [],
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 489,
+      "offerOwnerId": 7970479825
+    },
     "verify": {
       "step": null,
       "photos": []
