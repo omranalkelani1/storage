@@ -983,24 +983,7 @@
   "2029115148": {
     "phone": "15672488562",
     "userId": 2029115148,
-    "offers": [
-      {
-        "id": 480,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "25",
-        "maxQuantity": "35",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 2029115148,
-        "checkMessageId": 824,
-        "publicMessageId": 4971,
-        "matchedWith": null,
-        "rated": false,
-        "number": 457
-      }
-    ],
+    "offers": [],
     "current": {
       "step": "editing_offer",
       "editingOfferId": 480,
