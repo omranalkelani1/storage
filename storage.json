@@ -905,6 +905,23 @@
     },
     "first_name": "ابو اسلام"
   },
+  "2029115148": {
+    "phone": "15672488562",
+    "userId": 2029115148,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "🇮 🇧 🇷 🇦 🇲"
+  },
   "2031265945": {
     "phone": "963994094132",
     "userId": 2031265945,
@@ -2929,5 +2946,23 @@
     },
     "first_name": "F",
     "last_name": "Kiki"
+  },
+  "7576885232": {
+    "phone": null,
+    "userId": 7576885232,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
