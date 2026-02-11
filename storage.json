@@ -3201,7 +3201,10 @@
     "phone": "212614272974",
     "userId": 7882319586,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
