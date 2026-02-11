@@ -936,7 +936,9 @@
           "sellerId": 892165414,
           "quantity": 120,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAI2o2mMGrAmD9J9bhAVc9gVAj0tv16DAAKFDWsbFxRpUGlbZMdhFVC9AQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770789132074
