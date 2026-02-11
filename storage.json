@@ -3196,5 +3196,22 @@
     },
     "first_name": "Abo",
     "last_name": "Hossein"
+  },
+  "7882319586": {
+    "phone": "212614272974",
+    "userId": 7882319586,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "🐅"
   }
 }
