@@ -149,12 +149,10 @@
     "first_name": "𝐴𝑙𝑖 || ャ"
   },
   "681456385": {
-    "phone": null,
+    "phone": "963969659058",
     "userId": 681456385,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -164,7 +162,8 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "أبو عبد الصمد"
   },
   "713076584": {
     "phone": null,
