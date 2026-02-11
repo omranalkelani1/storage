@@ -1129,9 +1129,8 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 467,
-      "offerOwnerId": 5134156042
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
