@@ -935,7 +935,7 @@
           "buyerId": 6193222237,
           "sellerId": 892165414,
           "quantity": 120,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAI2o2mMGrAmD9J9bhAVc9gVAj0tv16DAAKFDWsbFxRpUGlbZMdhFVC9AQADAgADeQADOgQ"
           ],
