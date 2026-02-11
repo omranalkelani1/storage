@@ -2896,7 +2896,8 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.035"
     },
     "verify": {
       "step": null,
@@ -3133,9 +3134,9 @@
       }
     ],
     "current": {
-      "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "110"
+      "step": "ask_quantity",
+      "offerId": 485,
+      "offerOwnerId": 872282181
     },
     "verify": {
       "step": null,
