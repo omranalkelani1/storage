@@ -925,7 +925,25 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 480,
+      "editDraft": {
+        "id": 480,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "25",
+        "maxQuantity": "35",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 2029115148,
+        "checkMessageId": 824,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
