@@ -307,7 +307,7 @@
           "buyerId": 872282181,
           "sellerId": 892165414,
           "quantity": 200,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI322mMjFNArzb-6MUKXcs1Y7NQGJ5iAAI5DmsbFxRpUKbmQvjmOzn5AQADAgADeQADOgQ"
           ],
@@ -316,7 +316,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770818412116,
-          "paymentInfo": "a29c9a8004bf7dde6dfa5727806f7efc"
+          "paymentInfo": "a29c9a8004bf7dde6dfa5727806f7efc",
+          "buyerPaymentInfo": "زيويةيزيميب"
         },
         "locked": true,
         "lockedBy": 872282181
