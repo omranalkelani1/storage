@@ -909,7 +909,10 @@
     "phone": "15672488562",
     "userId": 2029115148,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
