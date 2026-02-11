@@ -3127,16 +3127,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 463
-      },
-      {
-        "id": 487,
-        "transform_way": "shamDolar",
-        "status": "pending",
-        "userId": 7385803779,
-        "checkMessageId": 831,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
       }
     ],
     "current": {},
