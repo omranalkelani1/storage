@@ -2865,7 +2865,10 @@
     "phone": "963981468647",
     "userId": 7691863728,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
