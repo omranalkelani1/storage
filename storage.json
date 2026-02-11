@@ -3112,7 +3112,10 @@
     "phone": "963997523942",
     "userId": 7385803779,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
