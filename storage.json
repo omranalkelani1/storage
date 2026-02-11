@@ -2870,7 +2870,8 @@
       "step": "askPayment",
       "price": "1.01",
       "minQuantity": "800",
-      "maxQuantity": "800"
+      "maxQuantity": "800",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
