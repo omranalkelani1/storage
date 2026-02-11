@@ -935,7 +935,7 @@
           "buyerId": 6193222237,
           "sellerId": 892165414,
           "quantity": 120,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI2o2mMGrAmD9J9bhAVc9gVAj0tv16DAAKFDWsbFxRpUGlbZMdhFVC9AQADAgADeQADOgQ"
           ],
@@ -944,7 +944,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770789132074,
-          "paymentInfo": "a29c9a8004bf7dde6dfa5727806f7efc"
+          "paymentInfo": "a29c9a8004bf7dde6dfa5727806f7efc",
+          "buyerPaymentInfo": "ويتيةينيميةيثوتص"
         },
         "locked": true,
         "lockedBy": 6193222237
