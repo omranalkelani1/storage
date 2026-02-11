@@ -1209,7 +1209,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 490,
+  "forwardingNum": 491,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3200,15 +3200,24 @@
   "7882319586": {
     "phone": "212614272974",
     "userId": 7882319586,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "120",
-      "minQuantity": "5",
-      "maxQuantity": "8",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 491,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "5",
+        "maxQuantity": "8",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 7882319586,
+        "checkMessageId": 835,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
