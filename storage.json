@@ -484,7 +484,11 @@
     "phone": "963959694273",
     "userId": 892165414,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 471,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -2856,5 +2860,23 @@
     },
     "first_name": "Mazen",
     "last_name": "🔥"
+  },
+  "7691863728": {
+    "phone": "963981468647",
+    "userId": 7691863728,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Abdullah3r",
+    "last_name": "Alsheikh"
   }
 }
