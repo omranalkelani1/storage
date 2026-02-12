@@ -460,8 +460,7 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "101"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
