@@ -458,7 +458,10 @@
     "phone": "963959694273",
     "userId": 892165414,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
