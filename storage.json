@@ -501,7 +501,7 @@
           "buyerId": 6408145762,
           "sellerId": 892165414,
           "quantity": 200,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAI5D2mNf5Q9XeNLDEjWhaDz8pw1C_UvAAJvDmsb62JoUNiACpDYx6XjAQADAgADeQADOgQ"
           ],
