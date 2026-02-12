@@ -3286,24 +3286,13 @@
         "minQuantity": "50",
         "maxQuantity": "50",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "rejected",
         "userId": 7757323175,
         "checkMessageId": 853,
         "publicMessageId": 5001,
         "matchedWith": null,
         "rated": false,
-        "number": 483,
-        "trade": {
-          "tradeId": 140,
-          "buyerId": 7882319586,
-          "sellerId": 7757323175,
-          "quantity": 50,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770913517568
-        }
+        "number": 483
       }
     ],
     "current": {},
