@@ -2661,12 +2661,14 @@
           "buyerId": 6408145762,
           "sellerId": 7646264942,
           "quantity": 50,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770879456503
-        }
+        },
+        "locked": true,
+        "lockedBy": 7646264942
       }
     ],
     "current": {},
