@@ -267,7 +267,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAI492mNfbChOBiv_iOzlF2dfv_pjYllAAJxD2sbAAG2aFAcwsKcgumzPgEAAwIAA3kAAzoE"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAxkBAAI492mNfbChOBiv_iOzlF2dfv_pjYllAAJxD2sbAAG2aFAcwsKcgumzPgEAAwIAA3kAAzoE"
+          ],
           "createdAt": 1770880076107,
           "paymentInfo": "5b1f1548469101422f8375af02415edc",
           "buyerPaymentInfo": "تؤنيويةيمييكي"
