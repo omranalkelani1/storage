@@ -661,12 +661,13 @@
         "minQuantity": "68",
         "maxQuantity": "68",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 983470446,
         "checkMessageId": 848,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 478
       }
     ],
     "current": {},
@@ -1135,7 +1136,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 477,
+  "offerSeq": 478,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
