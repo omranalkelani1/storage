@@ -672,15 +672,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 503,
       "editDraft": {
         "id": 503,
         "operation": "بيع",
         "step": "askPayment",
         "price": "1.1",
-        "minQuantity": "70",
-        "maxQuantity": "70",
+        "minQuantity": "69",
+        "maxQuantity": "69",
         "transform_way": "shamDolar",
         "status": "approved",
         "userId": 983470446,
