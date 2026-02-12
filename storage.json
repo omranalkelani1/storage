@@ -1317,7 +1317,7 @@
           "buyerId": 6193222237,
           "sellerId": 7882319586,
           "quantity": 100,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAI7TWmOFzlZ1uGsfbk2QhJLmVUf0WdVAAIKDWsb_l9xUBsw4ViBIpuaAQADAgADeQADOgQ"
           ],
