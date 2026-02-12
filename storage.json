@@ -2661,7 +2661,7 @@
           "buyerId": 6408145762,
           "sellerId": 7646264942,
           "quantity": 50,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAI442mNe-DtAcNPzGpBgqTQq_4hd84aAAKjDWsbLelwUAt2nw0_y1tmAQADAgADeQADOgQ"
           ],
