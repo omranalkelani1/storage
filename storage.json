@@ -312,14 +312,15 @@
           "buyerId": 872282181,
           "sellerId": 7132461559,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI5i2mNnySys8M0gAGFJiVUu_GaTysZAAIDDmsblbNoUMwWfvnCmAl0AQADAgADeQADOgQ",
             "AgACAgQAAxkBAAI5jWmNoGcDmjTa7P5OYdn5CkNedXm0AAIHDmsblbNoUMVSbUC7orw6AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770888887299
+          "createdAt": 1770888887299,
+          "paymentInfo": "bef99ea7a5aa03a26a4da4a0912b0e24"
         },
         "locked": true,
         "lockedBy": 872282181
