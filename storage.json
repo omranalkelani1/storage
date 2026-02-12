@@ -2952,7 +2952,10 @@
     "phone": "963931425395",
     "userId": 7757323175,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
