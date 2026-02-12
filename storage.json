@@ -151,8 +151,9 @@
     "userId": 674299839,
     "offers": [],
     "current": {
-      "operation": "شراء",
-      "step": "askPrice"
+      "step": "ask_quantity",
+      "offerId": 509,
+      "offerOwnerId": 7757323175
     },
     "verify": {
       "step": null,
@@ -602,26 +603,6 @@
     "phone": "963959694273",
     "userId": 892165414,
     "offers": [
-      {
-        "id": 495,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "100",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 892165414,
-        "checkMessageId": 839,
-        "publicMessageId": 4984,
-        "matchedWith": {
-          "userId": 2134053545,
-          "offerId": 511
-        },
-        "rated": false,
-        "number": 468,
-        "locked": false
-      },
       {
         "id": 498,
         "operation": "بيع",
@@ -1181,7 +1162,12 @@
         "number": 485
       }
     ],
-    "current": {},
+    "current": {
+      "step": "confirm_quantity",
+      "offerId": 495,
+      "offerOwnerId": 892165414,
+      "quantity": 200
+    },
     "verify": {
       "step": null,
       "photos": []
