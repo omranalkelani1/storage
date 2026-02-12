@@ -653,7 +653,10 @@
     "phone": "963994478554",
     "userId": 983470446,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
