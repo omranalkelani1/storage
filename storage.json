@@ -1438,12 +1438,14 @@
           "buyerId": 5656362998,
           "sellerId": 5924567969,
           "quantity": 99,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770895598624
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
