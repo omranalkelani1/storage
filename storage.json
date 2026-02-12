@@ -2656,21 +2656,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 467,
-        "trade": {
-          "tradeId": 128,
-          "buyerId": 6408145762,
-          "sellerId": 7646264942,
-          "quantity": 50,
-          "step": "wait_admin_seller",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAI442mNe-DtAcNPzGpBgqTQq_4hd84aAAKjDWsbLelwUAt2nw0_y1tmAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1770879456503
-        },
-        "locked": true,
-        "lockedBy": 7646264942
+        "locked": false
       }
     ],
     "current": {},
