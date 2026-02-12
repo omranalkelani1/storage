@@ -2870,7 +2870,10 @@
     "phone": "963983647656",
     "userId": 7409857363,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
