@@ -652,15 +652,24 @@
   "983470446": {
     "phone": "963994478554",
     "userId": 983470446,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.1",
-      "minQuantity": "70",
-      "maxQuantity": "70",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 503,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.1",
+        "minQuantity": "70",
+        "maxQuantity": "70",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 983470446,
+        "checkMessageId": 847,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1213,7 +1222,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 502,
+  "forwardingNum": 503,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
