@@ -378,7 +378,7 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "editing_offer",
+      "step": "editPrice",
       "editingOfferId": 505,
       "editDraft": {
         "id": 505,
