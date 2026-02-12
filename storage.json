@@ -2953,7 +2953,7 @@
     "userId": 7757323175,
     "offers": [],
     "current": {
-      "operation": "بيع",
+      "operation": "شراء",
       "step": "askPrice"
     },
     "verify": {
