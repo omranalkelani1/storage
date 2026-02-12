@@ -155,7 +155,7 @@
       "step": "askPrice"
     },
     "verify": {
-      "step": "waiting_photos",
+      "step": null,
       "photos": []
     },
     "tradesCount": 0,
