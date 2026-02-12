@@ -2608,7 +2608,10 @@
     "phone": "963959381226",
     "userId": 7646264942,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
