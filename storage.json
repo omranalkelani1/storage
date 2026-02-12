@@ -2287,12 +2287,10 @@
     }
   },
   "6000863417": {
-    "phone": null,
+    "phone": "905395714787",
     "userId": 6000863417,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -2302,7 +2300,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "حسون",
+    "last_name": "اا"
   },
   "7372474763": {
     "phone": null,
