@@ -673,7 +673,7 @@
           "buyerId": 1975626644,
           "sellerId": 983470446,
           "quantity": 70,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAI5zWmNqOJ6h8w1GmU-HD5lhTdNiCGmAAKcD2sb8L1pUBenrk7Bi8JrAQADAgADeQADOgQ"
           ],
