@@ -614,7 +614,10 @@
         "userId": 892165414,
         "checkMessageId": 839,
         "publicMessageId": 4984,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 2134053545,
+          "offerId": 511
+        },
         "rated": false,
         "number": 468,
         "locked": false
@@ -631,7 +634,10 @@
         "userId": 892165414,
         "checkMessageId": 842,
         "publicMessageId": 4989,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 2134053545,
+          "offerId": 511
+        },
         "rated": false,
         "number": 472
       }
@@ -1167,7 +1173,10 @@
         "userId": 2134053545,
         "checkMessageId": 855,
         "publicMessageId": 5003,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "892165414",
+          "offerId": 498
+        },
         "rated": false,
         "number": 485
       }
