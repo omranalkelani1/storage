@@ -28,9 +28,8 @@
     "userId": 219509227,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 456,
-      "offerOwnerId": 872282181
+      "operation": "شراء",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
