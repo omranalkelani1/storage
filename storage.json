@@ -671,7 +671,27 @@
         "locked": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 503,
+      "editDraft": {
+        "id": 503,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.1",
+        "minQuantity": "70",
+        "maxQuantity": "70",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 983470446,
+        "checkMessageId": 847,
+        "publicMessageId": 4995,
+        "matchedWith": null,
+        "rated": false,
+        "number": 477,
+        "locked": false
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
