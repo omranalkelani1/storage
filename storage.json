@@ -673,12 +673,14 @@
           "buyerId": 1975626644,
           "sellerId": 983470446,
           "quantity": 70,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770890503963
-        }
+        },
+        "locked": true,
+        "lockedBy": 983470446
       }
     ],
     "current": {},
