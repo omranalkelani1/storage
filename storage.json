@@ -674,7 +674,9 @@
           "sellerId": 983470446,
           "quantity": 70,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAI5zWmNqOJ6h8w1GmU-HD5lhTdNiCGmAAKcD2sb8L1pUBenrk7Bi8JrAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770890503963
