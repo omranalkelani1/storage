@@ -188,9 +188,8 @@
     "userId": 674299839,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 509,
-      "offerOwnerId": 7757323175
+      "operation": "شراء",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
@@ -242,6 +241,24 @@
   "758263137": {
     "phone": null,
     "userId": 758263137,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "769328743": {
+    "phone": null,
+    "userId": 769328743,
     "offers": [],
     "current": {
       "step": "askPhone"
@@ -3063,7 +3080,11 @@
     "phone": "+963954965910",
     "userId": 5381569631,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 520,
+      "offerOwnerId": 7977160463
+    },
     "verify": {
       "step": null,
       "photos": []
