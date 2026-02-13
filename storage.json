@@ -1592,7 +1592,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAI8pGmPKBfmC3yb-a2FR_edOmPg0wgqAAIZGmsbThJ5SIXrNW3Xhu-xAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAI8yWmPKnFK9Finj2SpvYfRmSae2v91AAI4DWsbMoN5UJnqia7Z1BwnAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1770989494338,
           "paymentInfo": "15000\nرنا سلوم نصار \n0947296807\n\nفؤاد"
