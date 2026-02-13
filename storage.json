@@ -3205,13 +3205,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 531,
       "editDraft": {
         "id": 531,
         "operation": "شراء",
         "step": "askPayment",
-        "price": "120",
+        "price": "116",
         "minQuantity": "45",
         "maxQuantity": "45",
         "transform_way": "syriatel",
