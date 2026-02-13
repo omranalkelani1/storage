@@ -651,7 +651,12 @@
     "phone": "963993878458",
     "userId": 999340079,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "confirm_quantity",
+      "offerId": 534,
+      "offerOwnerId": 6768982037,
+      "quantity": 128.21
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -3205,7 +3210,10 @@
     "phone": "963997437259",
     "userId": 8208843287,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
