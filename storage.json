@@ -3220,7 +3220,10 @@
         "number": 509
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editQuantity",
+      "editingOfferId": 531
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -3237,7 +3240,11 @@
     "phone": "963997437259",
     "userId": 8208843287,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 536,
+      "offerOwnerId": 7205436167
+    },
     "verify": {
       "step": null,
       "photos": []
