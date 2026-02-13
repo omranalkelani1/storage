@@ -3223,7 +3223,8 @@
       "step": "askPayment",
       "price": "100",
       "minQuantity": "10",
-      "maxQuantity": "100"
+      "maxQuantity": "100",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
