@@ -1112,7 +1112,26 @@
         "number": 502
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 528,
+      "editDraft": {
+        "id": 528,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "116",
+        "minQuantity": "50",
+        "maxQuantity": "130",
+        "transform_way": "fuad",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 878,
+        "publicMessageId": 5028,
+        "matchedWith": null,
+        "rated": false,
+        "number": 502
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
