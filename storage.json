@@ -220,12 +220,14 @@
           "buyerId": 8208843287,
           "sellerId": 674299839,
           "quantity": 25,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770990242474
-        }
+        },
+        "locked": true,
+        "lockedBy": 674299839
       }
     ],
     "current": {},
