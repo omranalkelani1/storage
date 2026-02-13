@@ -1110,16 +1110,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 502
+      },
+      {
+        "id": 530,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "116",
+        "minQuantity": "50",
+        "maxQuantity": "175",
+        "transform_way": "fuad",
+        "status": "pending",
+        "userId": 6193222237,
+        "checkMessageId": 880,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "116",
-      "minQuantity": "50",
-      "maxQuantity": "175",
-      "transform_way": "fuad"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1199,7 +1207,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 529,
+  "forwardingNum": 530,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
