@@ -171,7 +171,9 @@
     "current": {},
     "verify": {
       "step": "waiting_photos",
-      "photos": []
+      "photos": [
+        "AgACAgQAAxkBAAI7uGmPCCYr5crTBKLI8WA2REfeq8jjAAIrD2sba4R5UPfHXmFn4rN2AQADAgADeQADOgQ"
+      ]
     },
     "tradesCount": 0,
     "ratings": [],
