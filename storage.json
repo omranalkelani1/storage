@@ -170,7 +170,7 @@
     ],
     "current": {},
     "verify": {
-      "step": "waiting_photos",
+      "step": "confirm",
       "photos": [
         "AgACAgQAAxkBAAI7uGmPCCYr5crTBKLI8WA2REfeq8jjAAIrD2sba4R5UPfHXmFn4rN2AQADAgADeQADOgQ"
       ]
