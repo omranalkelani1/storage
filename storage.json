@@ -301,7 +301,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 81,
+    "tradesCount": 82,
     "ratings": [
       {
         "from": 5129178902,
@@ -1458,33 +1458,13 @@
         "minQuantity": "85.48",
         "maxQuantity": "85.48",
         "transform_way": "haram",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 876,
         "publicMessageId": 5026,
         "matchedWith": null,
         "rated": false,
         "number": 500,
-        "trade": {
-          "tradeId": 142,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 85.48,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAI79GmPDNYsz2VTsph6CPOBut41Y_yyAAIxGWsbThJ5SMCV-1FNhY95AQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAI7_WmPDleU-DQwrlBSZIHNaP35G1nmAAIRDWsbDkN5UBlK4-1CEsMYAQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAI7_mmPDlcakkMBRT-C10qNGc-OXTk-AAISDWsbDkN5UJepveLhZeXvAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAxkBAAI7_WmPDleU-DQwrlBSZIHNaP35G1nmAAIRDWsbDkN5UBlK4-1CEsMYAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1770982473389,
-          "paymentInfo": "مليون هرم\nتاله حسن الحسن\n0934597205\n\n\nملاحظة هامة بدي الصور الثلاث متل هيك",
-          "buyerPaymentInfo": "ميميمينسني"
-        },
         "locked": true,
         "lockedBy": 6768982037
       }
@@ -1500,7 +1480,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 1,
+    "tradesCount": 2,
     "ratings": [
       {
         "from": 872282181,
