@@ -1634,22 +1634,6 @@
         "number": 508,
         "locked": true,
         "lockedBy": 6768982037
-      },
-      {
-        "id": 550,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "25.43",
-        "maxQuantity": "25.43",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 900,
-        "publicMessageId": 5049,
-        "matchedWith": null,
-        "rated": false,
-        "number": 522
       }
     ],
     "current": {},
