@@ -1711,9 +1711,7 @@
         "number": 522
       }
     ],
-    "current": {
-      "transform_way": "syriatel"
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": [
