@@ -3222,9 +3222,22 @@
     ],
     "current": {
       "step": "editing_offer",
-      "editingOfferId": 531,
+      "editingOfferId": 536,
       "editDraft": {
-        "price": "120"
+        "id": 536,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "116",
+        "minQuantity": "45",
+        "maxQuantity": "45",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 7205436167,
+        "checkMessageId": 886,
+        "publicMessageId": 5035,
+        "matchedWith": null,
+        "rated": false,
+        "number": 509
       }
     },
     "verify": {
