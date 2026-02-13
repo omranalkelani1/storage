@@ -1562,7 +1562,8 @@
       "step": "askPayment",
       "price": "117",
       "minQuantity": "128.21",
-      "maxQuantity": "128.21"
+      "maxQuantity": "128.21",
+      "transform_way": "fuad"
     },
     "verify": {
       "step": "waiting_photos",
