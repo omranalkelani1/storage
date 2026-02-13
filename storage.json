@@ -1133,13 +1133,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 530,
       "editDraft": {
         "id": 530,
         "operation": "شراء",
         "step": "askPayment",
-        "price": "116",
+        "price": "117",
         "minQuantity": "50",
         "maxQuantity": "175",
         "transform_way": "fuad",
