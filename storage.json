@@ -78,22 +78,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 499
-      },
-      {
-        "id": 540,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "200",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 428137624,
-        "checkMessageId": 890,
-        "publicMessageId": 5039,
-        "matchedWith": null,
-        "rated": false,
-        "number": 513
       }
     ],
     "current": {},
