@@ -692,12 +692,13 @@
         "minQuantity": "100",
         "maxQuantity": "350",
         "transform_way": "haram",
-        "status": "pending",
+        "status": "approved",
         "userId": 999340079,
         "checkMessageId": 897,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 520
       }
     ],
     "current": {},
@@ -1158,7 +1159,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 519,
+  "offerSeq": 520,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
