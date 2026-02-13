@@ -170,10 +170,8 @@
     ],
     "current": {},
     "verify": {
-      "step": "confirm",
-      "photos": [
-        "AgACAgQAAxkBAAI7uGmPCCYr5crTBKLI8WA2REfeq8jjAAIrD2sba4R5UPfHXmFn4rN2AQADAgADeQADOgQ"
-      ]
+      "step": "waiting_photos",
+      "photos": []
     },
     "tradesCount": 0,
     "ratings": [],
