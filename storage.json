@@ -220,7 +220,7 @@
           "buyerId": 8208843287,
           "sellerId": 674299839,
           "quantity": 25,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAI822mPKyjpoGVr02nnVn03ZEQ3UuUjAAKID2sba4R5UGWJAc93deDDAQADAgADeQADOgQ"
           ],
