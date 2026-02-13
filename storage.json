@@ -903,24 +903,7 @@
     "phone": "963993491665",
     "userId": 1869794934,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 539,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119.5",
-        "minQuantity": "41.",
-        "maxQuantity": "41",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 1869794934,
-        "checkMessageId": 889,
-        "publicMessageId": 5038,
-        "matchedWith": null,
-        "rated": false,
-        "number": 512
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
