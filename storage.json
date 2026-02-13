@@ -3205,24 +3205,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 531,
-      "editDraft": {
-        "id": 531,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "116",
-        "minQuantity": "45",
-        "maxQuantity": "45",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 881,
-        "publicMessageId": 5031,
-        "matchedWith": null,
-        "rated": false,
-        "number": 505
-      }
+      "operation": "شراء",
+      "step": "askPayment",
+      "price": "116",
+      "minQuantity": "45",
+      "maxQuantity": "45",
+      "transform_way": "syriatel"
     },
     "verify": {
       "step": null,
