@@ -1157,7 +1157,10 @@
         "userId": 6193222237,
         "checkMessageId": 882,
         "publicMessageId": 5032,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 6768982037,
+          "offerId": 534
+        },
         "rated": false,
         "number": 506
       }
@@ -1568,7 +1571,10 @@
         "userId": 6768982037,
         "checkMessageId": 884,
         "publicMessageId": 5034,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "6193222237",
+          "offerId": 532
+        },
         "rated": false,
         "number": 508
       }
