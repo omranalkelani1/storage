@@ -3158,7 +3158,7 @@
       "offerOwnerId": 7205436167
     },
     "verify": {
-      "step": "waiting_photos",
+      "step": null,
       "photos": []
     },
     "tradesCount": 0,
