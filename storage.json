@@ -170,7 +170,7 @@
     ],
     "current": {},
     "verify": {
-      "step": "confirm",
+      "step": null,
       "photos": [
         "AgACAgQAAxkBAAI7v2mPCHjJWN5Gafl4_OD3WLEnBy7DAAIsD2sba4R5ULrBFC82s7rpAQADAgADeQADOgQ"
       ]
@@ -181,7 +181,8 @@
       "count": 0,
       "history": []
     },
-    "first_name": "𝐴𝑙𝑖 || ャ"
+    "first_name": "𝐴𝑙𝑖 || ャ",
+    "verified": true
   },
   "681456385": {
     "phone": "963969659058",
