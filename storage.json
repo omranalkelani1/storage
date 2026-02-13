@@ -3221,8 +3221,11 @@
       }
     ],
     "current": {
-      "step": "editPrice",
-      "editingOfferId": 531
+      "step": "editing_offer",
+      "editingOfferId": 531,
+      "editDraft": {
+        "price": "120"
+      }
     },
     "verify": {
       "step": null,
