@@ -1094,10 +1094,9 @@
     "userId": 2134053545,
     "offers": [],
     "current": {
-      "step": "confirm_quantity",
-      "offerId": 495,
-      "offerOwnerId": 892165414,
-      "quantity": 200
+      "step": "ask_quantity",
+      "offerId": 541,
+      "offerOwnerId": 6279148047
     },
     "verify": {
       "step": null,
@@ -2622,7 +2621,26 @@
         "number": 514
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 541,
+      "editDraft": {
+        "id": 541,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "118.5",
+        "minQuantity": "100",
+        "maxQuantity": "450",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6279148047,
+        "checkMessageId": 891,
+        "publicMessageId": 5040,
+        "matchedWith": null,
+        "rated": false,
+        "number": 514
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
