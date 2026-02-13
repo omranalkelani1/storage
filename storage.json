@@ -199,16 +199,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 503
+      },
+      {
+        "id": 538,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.1",
+        "minQuantity": "25",
+        "maxQuantity": "26",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 674299839,
+        "checkMessageId": 888,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.1",
-      "minQuantity": "25",
-      "maxQuantity": "26",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1252,7 +1260,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 537,
+  "forwardingNum": 538,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3263,9 +3271,10 @@
     "userId": 8208843287,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
+      "step": "confirm_quantity",
       "offerId": 536,
-      "offerOwnerId": 7205436167
+      "offerOwnerId": 7205436167,
+      "quantity": 45
     },
     "verify": {
       "step": null,
