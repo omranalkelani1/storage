@@ -1185,7 +1185,7 @@
         "maxQuantity": "175",
         "transform_way": "fuad",
         "locked": false,
-        "status": "approved",
+        "status": "done",
         "userId": 6193222237,
         "checkMessageId": 882,
         "publicMessageId": 5032,
@@ -1205,7 +1205,7 @@
         "AgACAgQAAxkBAAIQXWl3pPYrfGT580Zlqj5Z7vxfyu_OAALVDWsb89G4UyQxWMLxmP3AAQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 18,
+    "tradesCount": 19,
     "ratings": [
       {
         "from": 872282181,
@@ -1599,7 +1599,7 @@
         "minQuantity": "128.21",
         "maxQuantity": "128.21",
         "transform_way": "fuad",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 884,
         "publicMessageId": 5034,
@@ -1609,25 +1609,6 @@
         },
         "rated": false,
         "number": 508,
-        "trade": {
-          "tradeId": 144,
-          "buyerId": 999340079,
-          "sellerId": 6768982037,
-          "quantity": 128.21,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAI8pGmPKBfmC3yb-a2FR_edOmPg0wgqAAIZGmsbThJ5SIXrNW3Xhu-xAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAI8yWmPKnFK9Finj2SpvYfRmSae2v91AAI4DWsbMoN5UJnqia7Z1BwnAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIFP2mPLKeFQwABqfRKD5K_plIsNnhpKQACug1rG02_eVD3tRVOMh3zfQEAAwIAA3kAAzoE"
-          ],
-          "createdAt": 1770989494338,
-          "paymentInfo": "15000\nرنا سلوم نصار \n0947296807\n\nفؤاد",
-          "buyerPaymentInfo": "0x84e8265119c0d1b5cd5057429961cee25cb6a164"
-        },
         "locked": true,
         "lockedBy": 6768982037
       }
@@ -1643,7 +1624,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 2,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 872282181,
