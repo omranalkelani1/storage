@@ -3221,24 +3221,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 536,
-      "editDraft": {
-        "id": 536,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "45",
-        "maxQuantity": "45",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 886,
-        "publicMessageId": 5035,
-        "matchedWith": null,
-        "rated": false,
-        "number": 509
-      }
+      "operation": "شراء",
+      "step": "askPayment",
+      "price": "118",
+      "minQuantity": "45",
+      "maxQuantity": "45",
+      "transform_way": "syriatel"
     },
     "verify": {
       "step": null,
