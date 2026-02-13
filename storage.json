@@ -3152,9 +3152,13 @@
     "phone": "212614272974",
     "userId": 7882319586,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 537,
+      "offerOwnerId": 7205436167
+    },
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 0,
