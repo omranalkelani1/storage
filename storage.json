@@ -170,7 +170,7 @@
     ],
     "current": {},
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 0,
