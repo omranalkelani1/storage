@@ -1103,7 +1103,7 @@
         "minQuantity": "50",
         "maxQuantity": "130",
         "transform_way": "fuad",
-        "status": "approved",
+        "status": "rejected",
         "userId": 6193222237,
         "checkMessageId": 878,
         "publicMessageId": 5028,
