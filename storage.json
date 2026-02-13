@@ -221,7 +221,9 @@
           "sellerId": 674299839,
           "quantity": 25,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAI822mPKyjpoGVr02nnVn03ZEQ3UuUjAAKID2sba4R5UGWJAc93deDDAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1770990242474
