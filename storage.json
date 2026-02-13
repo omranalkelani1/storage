@@ -220,13 +220,14 @@
           "buyerId": 8208843287,
           "sellerId": 674299839,
           "quantity": 25,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI822mPKyjpoGVr02nnVn03ZEQ3UuUjAAKID2sba4R5UGWJAc93deDDAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770990242474
+          "createdAt": 1770990242474,
+          "paymentInfo": "aa73c6434bbde152779f5f5975c298bc"
         },
         "locked": true,
         "lockedBy": 674299839
