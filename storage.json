@@ -1470,7 +1470,7 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 85.48,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAI79GmPDNYsz2VTsph6CPOBut41Y_yyAAIxGWsbThJ5SMCV-1FNhY95AQADAgADeQADOgQ"
           ],
@@ -1480,7 +1480,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1770982473389,
-          "paymentInfo": "مليون هرم\nتاله حسن الحسن\n0934597205\n\n\nملاحظة هامة بدي الصور الثلاث متل هيك"
+          "paymentInfo": "مليون هرم\nتاله حسن الحسن\n0934597205\n\n\nملاحظة هامة بدي الصور الثلاث متل هيك",
+          "buyerPaymentInfo": "ميميمينسني"
         },
         "locked": true,
         "lockedBy": 6768982037
