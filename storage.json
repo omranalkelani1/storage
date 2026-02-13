@@ -3336,7 +3336,10 @@
     "phone": "963935447337",
     "userId": 8289220205,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
