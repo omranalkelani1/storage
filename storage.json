@@ -1346,7 +1346,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 147,
+  "tradeId": 148,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -2684,15 +2684,15 @@
         "rated": false,
         "number": 515,
         "trade": {
-          "tradeId": 147,
+          "tradeId": 148,
           "buyerId": 6279148047,
-          "sellerId": 6768982037,
-          "quantity": 450,
+          "sellerId": 7866209976,
+          "quantity": 300,
           "step": "owner_pending_accept",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771010189768
+          "createdAt": 1771010211126
         }
       }
     ],
@@ -2713,12 +2713,7 @@
     "phone": "963991316846",
     "userId": 7866209976,
     "offers": [],
-    "current": {
-      "step": "confirm_quantity",
-      "offerId": 542,
-      "offerOwnerId": 6279148047,
-      "quantity": 300
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
