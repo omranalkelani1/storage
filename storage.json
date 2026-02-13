@@ -3221,7 +3221,7 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editPrice",
       "editingOfferId": 531
     },
     "verify": {
