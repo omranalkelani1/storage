@@ -3219,23 +3219,7 @@
   "8208843287": {
     "phone": "963997437259",
     "userId": 8208843287,
-    "offers": [
-      {
-        "id": 535,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "100",
-        "minQuantity": "10",
-        "maxQuantity": "100",
-        "transform_way": "shamSy",
-        "status": "pending",
-        "userId": 8208843287,
-        "checkMessageId": 885,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
