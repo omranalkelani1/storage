@@ -1636,22 +1636,6 @@
         "lockedBy": 6768982037
       },
       {
-        "id": 545,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "127.12",
-        "maxQuantity": "127.12",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 895,
-        "publicMessageId": 5044,
-        "matchedWith": null,
-        "rated": false,
-        "number": 518
-      },
-      {
         "id": 546,
         "operation": "بيع",
         "step": "askPayment",
