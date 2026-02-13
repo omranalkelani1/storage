@@ -1582,7 +1582,7 @@
           "buyerId": 999340079,
           "sellerId": 6768982037,
           "quantity": 128.21,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgIAAxkBAAI8pGmPKBfmC3yb-a2FR_edOmPg0wgqAAIZGmsbThJ5SIXrNW3Xhu-xAQADAgADeQADOgQ"
           ],
