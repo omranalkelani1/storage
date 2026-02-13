@@ -2909,12 +2909,10 @@
     }
   },
   "7253603586": {
-    "phone": null,
+    "phone": "963962992842",
     "userId": 7253603586,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -2924,7 +2922,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "ربيع",
+    "last_name": "المصري"
   },
   "8421798472": {
     "phone": null,
