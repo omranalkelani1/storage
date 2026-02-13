@@ -1132,7 +1132,27 @@
         "locked": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 530,
+      "editDraft": {
+        "id": 530,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "116",
+        "minQuantity": "50",
+        "maxQuantity": "175",
+        "transform_way": "fuad",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 880,
+        "publicMessageId": 5030,
+        "matchedWith": null,
+        "rated": false,
+        "number": 504,
+        "locked": false
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
