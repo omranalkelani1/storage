@@ -1521,22 +1521,6 @@
         "number": 500,
         "locked": true,
         "lockedBy": 6768982037
-      },
-      {
-        "id": 527,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117",
-        "minQuantity": "128.21",
-        "maxQuantity": "128.21",
-        "transform_way": "fuad",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 877,
-        "publicMessageId": 5027,
-        "matchedWith": null,
-        "rated": false,
-        "number": 501
       }
     ],
     "current": {},
