@@ -1582,13 +1582,14 @@
           "buyerId": 999340079,
           "sellerId": 6768982037,
           "quantity": 128.21,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAI8pGmPKBfmC3yb-a2FR_edOmPg0wgqAAIZGmsbThJ5SIXrNW3Xhu-xAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1770989494338
+          "createdAt": 1770989494338,
+          "paymentInfo": "15000\nرنا سلوم نصار \n0947296807\n\nفؤاد"
         },
         "locked": true,
         "lockedBy": 6768982037
