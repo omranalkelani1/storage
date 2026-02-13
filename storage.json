@@ -1113,7 +1113,7 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 528,
       "editDraft": {
         "id": 528,
@@ -1121,7 +1121,7 @@
         "step": "askPayment",
         "price": "116",
         "minQuantity": "50",
-        "maxQuantity": "130",
+        "maxQuantity": "175",
         "transform_way": "fuad",
         "status": "approved",
         "userId": 6193222237,
