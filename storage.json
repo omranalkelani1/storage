@@ -602,15 +602,24 @@
   "999340079": {
     "phone": "963993878458",
     "userId": 999340079,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "117",
-      "minQuantity": "140",
-      "maxQuantity": "141",
-      "transform_way": "haram"
-    },
+    "offers": [
+      {
+        "id": 555,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "140",
+        "maxQuantity": "141",
+        "transform_way": "haram",
+        "status": "pending",
+        "userId": 999340079,
+        "checkMessageId": 905,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1155,7 +1164,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 554,
+  "forwardingNum": 555,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
