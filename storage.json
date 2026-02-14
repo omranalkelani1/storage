@@ -1044,7 +1044,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 523,
+  "offerSeq": 524,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -3052,12 +3052,13 @@
         "minQuantity": "40",
         "maxQuantity": "85",
         "transform_way": "syriatel",
-        "status": "pending",
+        "status": "approved",
         "userId": 7205436167,
         "checkMessageId": 902,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 524
       }
     ],
     "current": {},
