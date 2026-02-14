@@ -1714,7 +1714,9 @@
           "sellerId": 7970479825,
           "quantity": 45.3,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgEAAxkBAAI-cGmQZ2Kne7ztb1cTSTVEyydK-2RNAAKnC2sbvsyBRIWndsOyCkhuAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771071215425
