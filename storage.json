@@ -203,13 +203,14 @@
           "buyerId": 5656362998,
           "sellerId": 674299839,
           "quantity": 90,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI-mGmQcF4pnfzw-NYewJre4aHyHYpcAAKfDGsba4SBUKKVEE3FL0c3AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771073470765
+          "createdAt": 1771073470765,
+          "paymentInfo": "aa73c6434bbde152779f5f5975c298bc"
         },
         "locked": true,
         "lockedBy": 674299839
