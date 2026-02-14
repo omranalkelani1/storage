@@ -192,7 +192,13 @@
       ]
     },
     "tradesCount": 1,
-    "ratings": [],
+    "ratings": [
+      {
+        "from": 7970479825,
+        "rate": 5,
+        "date": 1771072012114
+      }
+    ],
     "strikes": {
       "count": 0,
       "history": []
