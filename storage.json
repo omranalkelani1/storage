@@ -598,7 +598,8 @@
       "step": "askPayment",
       "price": "117",
       "minQuantity": "140",
-      "maxQuantity": "141"
+      "maxQuantity": "141",
+      "transform_way": "haram"
     },
     "verify": {
       "step": null,
