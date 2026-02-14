@@ -1941,7 +1941,9 @@
           "sellerProofs": [
             "AgACAgEAAxkBAAI_mWmQ2ipG8B6jTIPp9fe4R9rID8t2AALfC2sbvsyJRA7R5qeejlFYAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAI_oWmQ3Ih7z2Nv1hxKdA3QIszXbeYtAAJEDmsbweCJUJRxNRwQj726AQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771100621292,
           "paymentInfo": "fea82e9d03f283e33fb95a22313a5521"
@@ -2826,7 +2828,11 @@
     "phone": "963991316846",
     "userId": 7866209976,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 576,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
