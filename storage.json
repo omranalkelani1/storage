@@ -1937,13 +1937,14 @@
           "buyerId": 872282181,
           "sellerId": 7970479825,
           "quantity": 97.21,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgEAAxkBAAI_mWmQ2ipG8B6jTIPp9fe4R9rID8t2AALfC2sbvsyJRA7R5qeejlFYAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771100621292
+          "createdAt": 1771100621292,
+          "paymentInfo": "fea82e9d03f283e33fb95a22313a5521"
         },
         "locked": true,
         "lockedBy": 7970479825
