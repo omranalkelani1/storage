@@ -1717,7 +1717,9 @@
           "sellerProofs": [
             "AgACAgEAAxkBAAI-cGmQZ2Kne7ztb1cTSTVEyydK-2RNAAKnC2sbvsyBRIWndsOyCkhuAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAI-d2mQaD_ASuLRbZhfXGvzNvOiqJDFAAKPDGsba4SBUCoQ2gUFhN6-AQADAgADeAADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771071215425,
           "paymentInfo": "d246cf9c3521d4c0bfa441a897daec8d\n\nمن فضلك:\n‼️لا تقم بإرسال ملاحظات‼️\n‼️لا تقم بإخفاء الهوية‼️"
