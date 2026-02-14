@@ -3280,24 +3280,7 @@
   "7205436167": {
     "phone": "963936550998",
     "userId": 7205436167,
-    "offers": [
-      {
-        "id": 563,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "40",
-        "maxQuantity": "80",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 913,
-        "publicMessageId": 5069,
-        "matchedWith": null,
-        "rated": false,
-        "number": 535
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
