@@ -1214,7 +1214,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 558,
+  "forwardingNum": 559,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3211,15 +3211,24 @@
   "5331932891": {
     "phone": "353899432425",
     "userId": 5331932891,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.15",
-      "minQuantity": "50",
-      "maxQuantity": "50",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 559,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.15",
+        "minQuantity": "50",
+        "maxQuantity": "50",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 5331932891,
+        "checkMessageId": 909,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
