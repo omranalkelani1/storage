@@ -3214,7 +3214,8 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.15"
     },
     "verify": {
       "step": null,
