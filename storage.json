@@ -432,7 +432,10 @@
         "number": 543
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -3449,5 +3452,23 @@
       "history": []
     },
     "first_name": "Abdulrahim"
+  },
+  "6977127945": {
+    "phone": null,
+    "userId": 6977127945,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
