@@ -2267,13 +2267,14 @@
           "buyerId": 7205436167,
           "sellerId": 5329698405,
           "quantity": 32.5,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI_DGmQp_5k4rmSTMD6JfPwXf9GSRhjAAKWDWsbRh2JUA76iTq39M-aAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771087667063
+          "createdAt": 1771087667063,
+          "paymentInfo": "0937766354"
         },
         "locked": true,
         "lockedBy": 5329698405
