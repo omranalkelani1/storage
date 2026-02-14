@@ -467,7 +467,7 @@
           "buyerId": 872282181,
           "sellerId": 7866209976,
           "quantity": 200,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI_sGmQ3MDxmaAD-hHgRdqgtcoHW8SnAAJtDmsb27yIUFdgRGSa5FVdAQADAgADeQADOgQ"
           ],
@@ -480,7 +480,10 @@
         "lockedBy": 872282181
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
