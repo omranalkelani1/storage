@@ -228,7 +228,10 @@
     "phone": "963969659058",
     "userId": 681456385,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
