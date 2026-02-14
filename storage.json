@@ -1713,7 +1713,7 @@
           "buyerId": 674299839,
           "sellerId": 7970479825,
           "quantity": 45.3,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgEAAxkBAAI-cGmQZ2Kne7ztb1cTSTVEyydK-2RNAAKnC2sbvsyBRIWndsOyCkhuAQADAgADeQADOgQ"
           ],
