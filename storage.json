@@ -1720,7 +1720,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAI-d2mQaD_ASuLRbZhfXGvzNvOiqJDFAAKPDGsba4SBUCoQ2gUFhN6-AQADAgADeAADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIFUmmQaZNikhB4JuETtc_0McRERud8AAJ7DGsbTb-JUN7gWlTvI1GNAQADAgADeQADOgQ"
+          ],
           "createdAt": 1771071215425,
           "paymentInfo": "d246cf9c3521d4c0bfa441a897daec8d\n\nمن فضلك:\n‼️لا تقم بإرسال ملاحظات‼️\n‼️لا تقم بإخفاء الهوية‼️",
           "buyerPaymentInfo": "0x8AFeFa12d9f411cCe49C5B08dCF4558aA988C773"
