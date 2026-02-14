@@ -2267,7 +2267,7 @@
           "buyerId": 7205436167,
           "sellerId": 5329698405,
           "quantity": 32.5,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAI_DGmQp_5k4rmSTMD6JfPwXf9GSRhjAAKWDWsbRh2JUA76iTq39M-aAQADAgADeQADOgQ"
           ],
