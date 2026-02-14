@@ -368,7 +368,26 @@
         "number": 529
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 557,
+      "editDraft": {
+        "id": 557,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "50",
+        "maxQuantity": "150",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 907,
+        "publicMessageId": 5063,
+        "matchedWith": null,
+        "rated": false,
+        "number": 529
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -3212,7 +3231,12 @@
         "number": 535
       }
     ],
-    "current": {},
+    "current": {
+      "step": "confirm_quantity",
+      "offerId": 562,
+      "offerOwnerId": 983470446,
+      "quantity": 69
+    },
     "verify": {
       "step": null,
       "photos": []
