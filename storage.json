@@ -471,7 +471,10 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAI_sGmQ3MDxmaAD-hHgRdqgtcoHW8SnAAJtDmsb27yIUFdgRGSa5FVdAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAI_z2mQ41X9TvHdYhjB5vIq-KfI1ajKAAJ3DmsbweCJUGEMB-PlVy_cAQADAgADeAADOgQ",
+            "AgACAgQAAxkBAAI_0GmQ41XrCYYGkz3alxfv_gpXTeoTAAIsDWsbwr6JUEmNpcrXsZtLAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771101325154,
           "paymentInfo": "5b1f1548469101422f8375af02415edc"
@@ -1699,7 +1702,11 @@
     "userId": 6768982037,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 578,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
@@ -3573,7 +3580,11 @@
     "phone": "963969978658",
     "userId": 7007954041,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 578,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
