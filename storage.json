@@ -3568,5 +3568,22 @@
       "count": 0,
       "history": []
     }
+  },
+  "7007954041": {
+    "phone": "963969978658",
+    "userId": 7007954041,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Dev | Taim"
   }
 }
