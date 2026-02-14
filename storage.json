@@ -151,7 +151,10 @@
     "phone": "905050096380",
     "userId": 674299839,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
