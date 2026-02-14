@@ -3028,14 +3028,7 @@
     "phone": "963936550998",
     "userId": 7205436167,
     "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "118",
-      "minQuantity": "118",
-      "maxQuantity": "118",
-      "transform_way": "syriatel"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
