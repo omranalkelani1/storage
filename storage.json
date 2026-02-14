@@ -3192,22 +3192,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 523
-      },
-      {
-        "id": 552,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "40",
-        "maxQuantity": "85",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 902,
-        "publicMessageId": 5056,
-        "matchedWith": null,
-        "rated": false,
-        "number": 524
       }
     ],
     "current": {},
