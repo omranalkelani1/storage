@@ -203,7 +203,7 @@
           "buyerId": 5656362998,
           "sellerId": 674299839,
           "quantity": 90,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAI-mGmQcF4pnfzw-NYewJre4aHyHYpcAAKfDGsba4SBUKKVEE3FL0c3AQADAgADeQADOgQ"
           ],
