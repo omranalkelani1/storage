@@ -3324,7 +3324,7 @@
         "status": "approved",
         "userId": 7205436167,
         "checkMessageId": 922,
-        "publicMessageId": null,
+        "publicMessageId": 5079,
         "matchedWith": null,
         "rated": false,
         "number": 544
@@ -3336,7 +3336,13 @@
       "photos": []
     },
     "tradesCount": 1,
-    "ratings": [],
+    "ratings": [
+      {
+        "from": 5329698405,
+        "rate": 5,
+        "date": 1771091349190
+      }
+    ],
     "strikes": {
       "count": 0,
       "history": []
