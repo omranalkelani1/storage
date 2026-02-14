@@ -2249,7 +2249,8 @@
       "step": "askPayment",
       "price": "119.5",
       "minQuantity": "200",
-      "maxQuantity": "300"
+      "maxQuantity": "300",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
@@ -3262,9 +3263,10 @@
       }
     ],
     "current": {
-      "step": "ask_quantity",
+      "step": "confirm_quantity",
       "offerId": 567,
-      "offerOwnerId": 5329698405
+      "offerOwnerId": 5329698405,
+      "quantity": 32.5
     },
     "verify": {
       "step": null,
