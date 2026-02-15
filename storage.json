@@ -3413,22 +3413,6 @@
     "userId": 7205436167,
     "offers": [
       {
-        "id": 594,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "45",
-        "maxQuantity": "45",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 944,
-        "publicMessageId": 5109,
-        "matchedWith": null,
-        "rated": false,
-        "number": 566
-      },
-      {
         "id": 601,
         "operation": "شراء",
         "step": "askPayment",
