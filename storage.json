@@ -2317,13 +2317,14 @@
           "buyerId": 7977160463,
           "sellerId": 983470446,
           "quantity": 69.8,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJARWmRhEl6pMYmSAYpe8it3fSquBygAAIxDWsbX22JUGaVMgiMXPVgAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771144123331
+          "createdAt": 1771144123331,
+          "paymentInfo": "f1497731fc2d8b50097b0fd8107c4f1e"
         },
         "locked": true,
         "lockedBy": 7977160463
