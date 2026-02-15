@@ -323,7 +323,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 87,
+    "tradesCount": 88,
     "ratings": [
       {
         "from": 5129178902,
@@ -1554,32 +1554,13 @@
         "minQuantity": "25.58",
         "maxQuantity": "25.58",
         "transform_way": "haram",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 935,
         "publicMessageId": 5099,
         "matchedWith": null,
         "rated": false,
         "number": 556,
-        "trade": {
-          "tradeId": 159,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 25.58,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJAmmmRiDXeYpuvXrLQGy7QLPUMtFZcAAKTEmsbFpyQSN2u6u9ft2NtAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJAt2mRiq5byeppD0Hlti8iEzNUZ9nEAAJkDGsbweCRUBeQehRfLmIrAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAxkBAAJAzGmRjOPdO44EupwKDAtv3gLQY1aqAAJoDGsbweCRUM7n1EKmlNP7AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771145184809,
-          "paymentInfo": "ريم يحيى دعبول\n0994582939\nاللاذقية\n\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع",
-          "buyerPaymentInfo": "نينيزيويةسمسظسسز"
-        },
         "locked": true,
         "lockedBy": 6768982037
       },
@@ -1690,7 +1671,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 5,
+    "tradesCount": 6,
     "ratings": [
       {
         "from": 872282181,
