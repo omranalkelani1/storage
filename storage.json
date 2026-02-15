@@ -209,12 +209,10 @@
     }
   },
   "758263137": {
-    "phone": null,
+    "phone": "201556050499",
     "userId": 758263137,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -224,7 +222,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "Samer",
+    "last_name": "Durra"
   },
   "769328743": {
     "phone": null,
@@ -368,7 +368,7 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 948,
-        "publicMessageId": null,
+        "publicMessageId": 5114,
         "matchedWith": null,
         "rated": false,
         "number": 570
@@ -3396,7 +3396,11 @@
         "number": 568
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 598,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
