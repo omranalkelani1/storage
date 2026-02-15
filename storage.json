@@ -3429,22 +3429,6 @@
         "number": 566
       },
       {
-        "id": 596,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "45",
-        "maxQuantity": "45",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 946,
-        "publicMessageId": 5112,
-        "matchedWith": null,
-        "rated": false,
-        "number": 568
-      },
-      {
         "id": 601,
         "operation": "شراء",
         "step": "askPayment",
