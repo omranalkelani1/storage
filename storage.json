@@ -3420,32 +3420,13 @@
         "minQuantity": "40",
         "maxQuantity": "40",
         "transform_way": "syriatel",
-        "status": "approved",
+        "status": "done",
         "userId": 7205436167,
         "checkMessageId": 951,
         "publicMessageId": 5117,
         "matchedWith": null,
         "rated": false,
         "number": 573,
-        "trade": {
-          "tradeId": 166,
-          "buyerId": 7205436167,
-          "sellerId": 6279148047,
-          "quantity": 40,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJCdWmR7In01YD409xjx61Mz9jDcJ5xAALzDGsbpvyQUJPFY9oAAYWoyAEAAwIAA3kAAzoE"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJCfGmR7cO0T7il1qZPLTdmzpUVpqNOAAKQDmsbqcGRUEcr8x-xmuHTAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIF42mR9LJ_jpJuGgS21HgyBuZd2GWEAAK1EGsbe0yRUAyzEupYX7Z-AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771170495718,
-          "paymentInfo": "44491412\n5200",
-          "buyerPaymentInfo": "0xa0d9b2139c794ea7a8af4182b45e29108e62564f"
-        },
         "locked": true,
         "lockedBy": 7205436167
       }
@@ -3473,7 +3454,7 @@
           "buyerId": 7205436167,
           "sellerId": 6279148047,
           "quantity": 40,
-          "step": "admin_upload",
+          "step": "done",
           "sellerProofs": [
             "AgACAgQAAxkBAAJCdWmR7In01YD409xjx61Mz9jDcJ5xAALzDGsbpvyQUJPFY9oAAYWoyAEAAwIAA3kAAzoE"
           ],
@@ -3495,7 +3476,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 5329698405,
