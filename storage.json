@@ -228,7 +228,11 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 598,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -1898,7 +1902,10 @@
         "number": 569
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
