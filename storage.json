@@ -573,7 +573,11 @@
     "phone": "963959694273",
     "userId": 892165414,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 588,
+      "offerOwnerId": 6768982037
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -1600,7 +1604,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAJBJGmRoS6MTkK2VXIZB1afp222TmxTAAKmE2sbFpyQSFmAJWl8UZ5AAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJBMGmRolsOWm_TsEUZcoVs_ri8WYL_AAKVDGsbweCRUB_spiID7hgPAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771150994719,
           "paymentInfo": "20 الف هرم\nيسرى عبدالله الهبه \nدمشق:عرطوز\n0962998520\nشركة الهرم، او هرم شام كاش مع فيديو"
