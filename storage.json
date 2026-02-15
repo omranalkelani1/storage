@@ -1210,7 +1210,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 590,
+  "forwardingNum": 591,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -1597,7 +1597,9 @@
           "sellerId": 6768982037,
           "quantity": 170.51,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgIAAxkBAAJBJGmRoS6MTkK2VXIZB1afp222TmxTAAKmE2sbFpyQSFmAJWl8UZ5AAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771150994719
@@ -2287,16 +2289,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 558
+      },
+      {
+        "id": 591,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "119.5",
+        "minQuantity": "300",
+        "maxQuantity": "500",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 5329698405,
+        "checkMessageId": 941,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "119.5",
-      "minQuantity": "300",
-      "maxQuantity": "500",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
