@@ -1658,7 +1658,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAJBTGmRpU6IV6NoExL1XRETl-k_ZQ_3AALCE2sbFpyQSMq1O-QZtC-rAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJBbmmRp8KBnn_6qcZ9P2JLBcvi4f5pAAIrDWsbtAuQUMNdr2i94YWJAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771152130365,
           "paymentInfo": "15000  هرم\nمرح احمد محمود\nحماة \n\n0959498935\nشركة الهرم، او هرم شام كاش مع فيديو"
