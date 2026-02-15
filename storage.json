@@ -3531,7 +3531,7 @@
     "userId": 6977127945,
     "offers": [],
     "current": {
-      "operation": "بيع",
+      "operation": "شراء",
       "step": "askPrice"
     },
     "verify": {
