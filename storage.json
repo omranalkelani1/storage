@@ -212,7 +212,10 @@
     "phone": "201556050499",
     "userId": 758263137,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
