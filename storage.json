@@ -1649,22 +1649,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 561
-      },
-      {
-        "id": 590,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117.3",
-        "minQuantity": "68.21",
-        "maxQuantity": "68.21",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 940,
-        "publicMessageId": 5105,
-        "matchedWith": null,
-        "rated": false,
-        "number": 562
       }
     ],
     "current": {},
