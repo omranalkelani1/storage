@@ -3447,7 +3447,44 @@
         "lockedBy": 7205436167
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 601,
+      "editDraft": {
+        "id": 601,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "130",
+        "minQuantity": "40",
+        "maxQuantity": "40",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 7205436167,
+        "checkMessageId": 951,
+        "publicMessageId": 5117,
+        "matchedWith": null,
+        "rated": false,
+        "number": 573,
+        "trade": {
+          "tradeId": 166,
+          "buyerId": 7205436167,
+          "sellerId": 6279148047,
+          "quantity": 40,
+          "step": "wait_admin_buyer",
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJCdWmR7In01YD409xjx61Mz9jDcJ5xAALzDGsbpvyQUJPFY9oAAYWoyAEAAwIAA3kAAzoE"
+          ],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJCfGmR7cO0T7il1qZPLTdmzpUVpqNOAAKQDmsbqcGRUEcr8x-xmuHTAQADAgADeQADOgQ"
+          ],
+          "adminProofs": [],
+          "createdAt": 1771170495718,
+          "paymentInfo": "44491412\n5200"
+        },
+        "locked": true,
+        "lockedBy": 7205436167
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
