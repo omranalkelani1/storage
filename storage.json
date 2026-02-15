@@ -2406,7 +2406,7 @@
           "buyerId": 7977160463,
           "sellerId": 983470446,
           "quantity": 69.8,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJARWmRhEl6pMYmSAYpe8it3fSquBygAAIxDWsbX22JUGaVMgiMXPVgAQADAgADeQADOgQ"
           ],
