@@ -321,13 +321,14 @@
           "buyerId": 872282181,
           "sellerId": 845923306,
           "quantity": 50,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJBgmmRrpr0SGJUzVrJnR8ToXDByh9yAAIKDWsbJviQUL6-pMq3XukrAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771153261062
+          "createdAt": 1771153261062,
+          "paymentInfo": "639fc227abb8c9c629994e3029a3e8be"
         },
         "locked": true,
         "lockedBy": 872282181
