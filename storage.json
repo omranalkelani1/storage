@@ -323,7 +323,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 85,
+    "tradesCount": 86,
     "ratings": [
       {
         "from": 5129178902,
@@ -1504,32 +1504,13 @@
         "minQuantity": "25.58",
         "maxQuantity": "25.58",
         "transform_way": "haram",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 933,
         "publicMessageId": 5098,
         "matchedWith": null,
         "rated": false,
         "number": 555,
-        "trade": {
-          "tradeId": 158,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 25.58,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJAbGmRhyItQoxiEcbJfMkFEsGj9Y02AAKFEmsbFpyQSHjRSPiVOVhRAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJAnWmRiGvOj18y2WXG0aSuIVmVnRE3AAJbDGsbweCRUHmxO_wKzxmOAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAxkBAAJAnWmRiGvOj18y2WXG0aSuIVmVnRE3AAJbDGsbweCRUHmxO_wKzxmOAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771144850556,
-          "paymentInfo": "3000  \nرويده عبد الحميد العرب\n0993714194\nاللاذقية\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع",
-          "buyerPaymentInfo": "نينيويظيكسكسك"
-        },
         "locked": true,
         "lockedBy": 6768982037
       },
@@ -1610,7 +1591,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 3,
+    "tradesCount": 4,
     "ratings": [
       {
         "from": 872282181,
