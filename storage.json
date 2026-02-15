@@ -3446,9 +3446,8 @@
       }
     ],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 598,
-      "offerOwnerId": 872282181
+      "operation": "شراء",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
