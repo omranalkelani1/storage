@@ -2394,32 +2394,13 @@
         "minQuantity": "50",
         "maxQuantity": "100",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 7977160463,
         "checkMessageId": 930,
         "publicMessageId": 5095,
         "matchedWith": null,
         "rated": false,
         "number": 552,
-        "trade": {
-          "tradeId": 157,
-          "buyerId": 7977160463,
-          "sellerId": 983470446,
-          "quantity": 69.8,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJARWmRhEl6pMYmSAYpe8it3fSquBygAAIxDWsbX22JUGaVMgiMXPVgAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJAdWmRh2namhBifcHg4Ni16GvckZrlAAIuDWsbMLCIULvsjq3bkhv8AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIFm2mRiPVYoEKQrwh4eK-r-GbiMTAwAAKQD2sbe0yRUIOnsLs3vqVFAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771144123331,
-          "paymentInfo": "f1497731fc2d8b50097b0fd8107c4f1e",
-          "buyerPaymentInfo": "0x6c38d80abadbb96bd09bc5b4ead5f90b2a9fc515"
-        },
         "locked": true,
         "lockedBy": 7977160463
       }
@@ -2429,7 +2410,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 3,
+    "tradesCount": 5,
     "ratings": [
       {
         "from": 7892891785,
