@@ -706,7 +706,11 @@
     "userId": 1059889483,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 582,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -1630,12 +1634,14 @@
           "buyerId": 892165414,
           "sellerId": 6768982037,
           "quantity": 127.88,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771152130365
-        }
+        },
+        "locked": true,
+        "lockedBy": 6768982037
       },
       {
         "id": 589,
