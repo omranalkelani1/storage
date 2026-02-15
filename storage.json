@@ -2317,12 +2317,14 @@
           "buyerId": 7977160463,
           "sellerId": 983470446,
           "quantity": 69.8,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771144123331
-        }
+        },
+        "locked": true,
+        "lockedBy": 7977160463
       }
     ],
     "current": {},
