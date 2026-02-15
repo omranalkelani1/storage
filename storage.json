@@ -2289,7 +2289,26 @@
         "number": 558
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 586,
+      "editDraft": {
+        "id": 586,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "300",
+        "maxQuantity": "500",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 5329698405,
+        "checkMessageId": 936,
+        "publicMessageId": 5101,
+        "matchedWith": null,
+        "rated": false,
+        "number": 558
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
