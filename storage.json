@@ -1514,7 +1514,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAJAbGmRhyItQoxiEcbJfMkFEsGj9Y02AAKFEmsbFpyQSHjRSPiVOVhRAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJAnWmRiGvOj18y2WXG0aSuIVmVnRE3AAJbDGsbweCRUHmxO_wKzxmOAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771144850556,
           "paymentInfo": "3000  \nرويده عبد الحميد العرب\n0993714194\nاللاذقية\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع"
