@@ -1543,7 +1543,8 @@
       "step": "askPayment",
       "price": "117.3",
       "minQuantity": "25.58",
-      "maxQuantity": "25.58"
+      "maxQuantity": "25.58",
+      "transform_way": "haram"
     },
     "verify": {
       "step": "waiting_photos",
