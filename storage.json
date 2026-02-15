@@ -323,7 +323,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 86,
+    "tradesCount": 87,
     "ratings": [
       {
         "from": 5129178902,
@@ -1527,32 +1527,13 @@
         "minQuantity": "42.63",
         "maxQuantity": "42.63",
         "transform_way": "fuad",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 934,
         "publicMessageId": 5100,
         "matchedWith": null,
         "rated": false,
         "number": 557,
-        "trade": {
-          "tradeId": 160,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 42.63,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJAsmmRia4rrV8sh0xEXI6EZKO16oSfAAKgEmsbFpyQSJcT7OmDJMMNAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJAzGmRjOPdO44EupwKDAtv3gLQY1aqAAJoDGsbweCRUM7n1EKmlNP7AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIFq2mRjcruTDYICgMbSkcEM7D36_BoAAKFDGsbDWSQUJUX0wvt1CSCAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771145197746,
-          "paymentInfo": "550 االف فؤاد\nعلي عدن بدر \n0996234174\nحمص\nشركة الفؤاد   او فؤاد شام كاش بشرط فيديو لعملية الدفع",
-          "buyerPaymentInfo": "نيزيةظسسكيوةي"
-        },
         "locked": true,
         "lockedBy": 6768982037
       },
@@ -1602,7 +1583,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 4,
+    "tradesCount": 5,
     "ratings": [
       {
         "from": 872282181,
