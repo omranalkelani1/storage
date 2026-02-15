@@ -284,7 +284,26 @@
         "number": 551
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 579,
+      "editDraft": {
+        "id": 579,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.015",
+        "minQuantity": "200",
+        "maxQuantity": "200",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 929,
+        "publicMessageId": 5093,
+        "matchedWith": null,
+        "rated": false,
+        "number": 551
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
