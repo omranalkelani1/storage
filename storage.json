@@ -266,15 +266,24 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.015",
-      "minQuantity": "200",
-      "maxQuantity": "200",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 579,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.015",
+        "minQuantity": "200",
+        "maxQuantity": "200",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 929,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1152,7 +1161,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 578,
+  "forwardingNum": 579,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
