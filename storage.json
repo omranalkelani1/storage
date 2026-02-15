@@ -1543,7 +1543,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAJAsmmRia4rrV8sh0xEXI6EZKO16oSfAAKgEmsbFpyQSJcT7OmDJMMNAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJAzGmRjOPdO44EupwKDAtv3gLQY1aqAAJoDGsbweCRUM7n1EKmlNP7AQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771145197746,
           "paymentInfo": "550 االف فؤاد\nعلي عدن بدر \n0996234174\nحمص\nشركة الفؤاد   او فؤاد شام كاش بشرط فيديو لعملية الدفع"
