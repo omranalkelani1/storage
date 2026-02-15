@@ -614,7 +614,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [
       {
         "from": 872282181,
@@ -1642,32 +1642,13 @@
         "minQuantity": "127.88",
         "maxQuantity": "127.88",
         "transform_way": "haram",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 938,
         "publicMessageId": 5103,
         "matchedWith": null,
         "rated": false,
         "number": 560,
-        "trade": {
-          "tradeId": 162,
-          "buyerId": 892165414,
-          "sellerId": 6768982037,
-          "quantity": 127.88,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJBTGmRpU6IV6NoExL1XRETl-k_ZQ_3AALCE2sbFpyQSMq1O-QZtC-rAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJBbmmRp8KBnn_6qcZ9P2JLBcvi4f5pAAIrDWsbtAuQUMNdr2i94YWJAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIFxGmRqzGS3OEgjtCf15bW40a3FfDOAALLD2sbe0yRUIgZFcxmO-uYAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771152130365,
-          "paymentInfo": "15000  هرم\nمرح احمد محمود\nحماة \n\n0959498935\nشركة الهرم، او هرم شام كاش مع فيديو",
-          "buyerPaymentInfo": "0xdbfd630e030603e823aee260c2320dafa323a4a9"
-        },
         "locked": true,
         "lockedBy": 6768982037
       },
@@ -1715,7 +1696,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 6,
+    "tradesCount": 7,
     "ratings": [
       {
         "from": 872282181,
