@@ -3525,12 +3525,10 @@
     "first_name": "Abdulrahim"
   },
   "6977127945": {
-    "phone": null,
+    "phone": "963945764938",
     "userId": 6977127945,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -3540,7 +3538,8 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "Mahdi Abu Qusay"
   },
   "7007954041": {
     "phone": "963969978658",
