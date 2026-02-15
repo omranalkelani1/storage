@@ -1566,7 +1566,7 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 25.58,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAJAmmmRiDXeYpuvXrLQGy7QLPUMtFZcAAKTEmsbFpyQSN2u6u9ft2NtAQADAgADeQADOgQ"
           ],
@@ -1575,7 +1575,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771145184809,
-          "paymentInfo": "ريم يحيى دعبول\n0994582939\nاللاذقية\n\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع"
+          "paymentInfo": "ريم يحيى دعبول\n0994582939\nاللاذقية\n\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع",
+          "buyerPaymentInfo": "نينيزيويةسمسظسسز"
         },
         "locked": true,
         "lockedBy": 6768982037
