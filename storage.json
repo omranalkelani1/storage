@@ -1525,9 +1525,7 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
-      "price": "117.3",
-      "minQuantity": "25.58"
+      "step": "askPrice"
     },
     "verify": {
       "step": "waiting_photos",
@@ -2351,7 +2349,7 @@
           "buyerId": 7977160463,
           "sellerId": 983470446,
           "quantity": 69.8,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJARWmRhEl6pMYmSAYpe8it3fSquBygAAIxDWsbX22JUGaVMgiMXPVgAQADAgADeQADOgQ"
           ],
