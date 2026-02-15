@@ -1585,7 +1585,9 @@
           "sellerProofs": [
             "AgACAgIAAxkBAAJAmmmRiDXeYpuvXrLQGy7QLPUMtFZcAAKTEmsbFpyQSN2u6u9ft2NtAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJAt2mRiq5byeppD0Hlti8iEzNUZ9nEAAJkDGsbweCRUBeQehRfLmIrAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771145184809,
           "paymentInfo": "ريم يحيى دعبول\n0994582939\nاللاذقية\n\n\nشركة الهرم   او هرم شام كاش بشرط فيديو لعملية الدفع"
