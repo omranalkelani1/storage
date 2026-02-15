@@ -3432,7 +3432,7 @@
           "buyerId": 7205436167,
           "sellerId": 6279148047,
           "quantity": 40,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJCdWmR7In01YD409xjx61Mz9jDcJ5xAALzDGsbpvyQUJPFY9oAAYWoyAEAAwIAA3kAAzoE"
           ],
