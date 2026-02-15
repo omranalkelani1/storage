@@ -322,7 +322,9 @@
           "sellerId": 845923306,
           "quantity": 50,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJBgmmRrpr0SGJUzVrJnR8ToXDByh9yAAIKDWsbJviQUL6-pMq3XukrAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771153261062
