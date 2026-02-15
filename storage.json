@@ -1539,7 +1539,7 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 42.63,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAJAsmmRia4rrV8sh0xEXI6EZKO16oSfAAKgEmsbFpyQSJcT7OmDJMMNAQADAgADeQADOgQ"
           ],
@@ -1548,7 +1548,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771145197746,
-          "paymentInfo": "550 االف فؤاد\nعلي عدن بدر \n0996234174\nحمص\nشركة الفؤاد   او فؤاد شام كاش بشرط فيديو لعملية الدفع"
+          "paymentInfo": "550 االف فؤاد\nعلي عدن بدر \n0996234174\nحمص\nشركة الفؤاد   او فؤاد شام كاش بشرط فيديو لعملية الدفع",
+          "buyerPaymentInfo": "نيزيةظسسكيوةي"
         },
         "locked": true,
         "lockedBy": 6768982037
