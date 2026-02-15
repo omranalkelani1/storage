@@ -1948,7 +1948,10 @@
         "lockedBy": 7970479825
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
