@@ -1693,22 +1693,6 @@
         "number": 562
       },
       {
-        "id": 592,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117.3",
-        "minQuantity": "85.26",
-        "maxQuantity": "85.26",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 942,
-        "publicMessageId": 5107,
-        "matchedWith": null,
-        "rated": false,
-        "number": 564
-      },
-      {
         "id": 593,
         "operation": "بيع",
         "step": "askPayment",
