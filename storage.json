@@ -3530,7 +3530,10 @@
     "phone": "963945764938",
     "userId": 6977127945,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
