@@ -3433,7 +3433,9 @@
           "sellerId": 6279148047,
           "quantity": 40,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJCdWmR7In01YD409xjx61Mz9jDcJ5xAALzDGsbpvyQUJPFY9oAAYWoyAEAAwIAA3kAAzoE"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771170495718
