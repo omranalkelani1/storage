@@ -1511,7 +1511,9 @@
           "sellerId": 6768982037,
           "quantity": 25.58,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgIAAxkBAAJAbGmRhyItQoxiEcbJfMkFEsGj9Y02AAKFEmsbFpyQSHjRSPiVOVhRAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771144850556
