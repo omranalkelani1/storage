@@ -1539,7 +1539,7 @@
           "buyerId": 872282181,
           "sellerId": 6768982037,
           "quantity": 42.63,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgIAAxkBAAJAsmmRia4rrV8sh0xEXI6EZKO16oSfAAKgEmsbFpyQSJcT7OmDJMMNAQADAgADeQADOgQ"
           ],
