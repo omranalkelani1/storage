@@ -276,18 +276,7 @@
         "publicMessageId": 5133,
         "matchedWith": null,
         "rated": false,
-        "number": 583,
-        "trade": {
-          "tradeId": 170,
-          "buyerId": 7253603586,
-          "sellerId": 758263137,
-          "quantity": 50,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771250755665
-        }
+        "number": 583
       }
     ],
     "current": {},
