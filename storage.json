@@ -2366,24 +2366,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 609,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119.5",
-        "minQuantity": "300",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 959,
-        "publicMessageId": 5129,
-        "matchedWith": null,
-        "rated": false,
-        "number": 581
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
