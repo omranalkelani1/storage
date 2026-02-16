@@ -322,7 +322,7 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 955,
-        "publicMessageId": null,
+        "publicMessageId": 5125,
         "matchedWith": null,
         "rated": false,
         "number": 577
@@ -1166,7 +1166,10 @@
     "userId": 6193222237,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
