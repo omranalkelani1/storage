@@ -463,7 +463,7 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "editing_offer",
+      "step": "editPrice",
       "price": "50",
       "editingOfferId": 620,
       "editDraft": {
