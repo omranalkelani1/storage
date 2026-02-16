@@ -228,15 +228,24 @@
   "758263137": {
     "phone": "201556050499",
     "userId": 758263137,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "119",
-      "minQuantity": "50",
-      "maxQuantity": "50",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 611,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "50",
+        "maxQuantity": "50",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 758263137,
+        "checkMessageId": 962,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1330,7 +1339,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 610,
+  "forwardingNum": 611,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
