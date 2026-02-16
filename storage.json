@@ -2008,7 +2008,8 @@
       "step": "askPayment",
       "price": "118",
       "minQuantity": "100",
-      "maxQuantity": "140"
+      "maxQuantity": "140",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
