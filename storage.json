@@ -123,7 +123,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJEMmmTPAyAUhcEL0WKuZnMWxgujLqUAAJkDWsbwriZUOBuHWcIunxkAQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIGDmmTPOhTqE6WMx3X_6FEGuCTPFqyAAKcDWsbaKyZUCQGosALobV8AQADAgADeAADOgQ"
+          ],
           "createdAt": 1771256549960,
           "paymentInfo": "529fb290f41bcfbe5c96ca4f65e32b49",
           "buyerPaymentInfo": "زيزيويزيميميمي"
