@@ -116,7 +116,7 @@
           "buyerId": 872282181,
           "sellerId": 428137624,
           "quantity": 25,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJEKmmTO6JUothmHVKrtFTcL_zHg4f2AAKMDWsb6x2ZUCtoPrpbCUOmAQADAgADeQADOgQ"
           ],
