@@ -3412,7 +3412,9 @@
           "sellerId": 5331932891,
           "quantity": 100,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJDWWmS5vTjObKAaiC9DiB0aCm7m89bAAIYDWsbjb6ZUGhWwaeGhkPjAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771232880514
