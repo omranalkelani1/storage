@@ -2382,22 +2382,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 581
-      },
-      {
-        "id": 612,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.03",
-        "minQuantity": "300",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 963,
-        "publicMessageId": 5134,
-        "matchedWith": null,
-        "rated": false,
-        "number": 584
       }
     ],
     "current": {},
