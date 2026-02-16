@@ -433,12 +433,13 @@
         "minQuantity": "50",
         "maxQuantity": "150",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 872282181,
         "checkMessageId": 971,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 592
       }
     ],
     "current": {},
@@ -1315,7 +1316,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 591,
+  "offerSeq": 592,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
