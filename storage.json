@@ -2022,9 +2022,10 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "121",
-      "minQuantity": "100"
+      "minQuantity": "100",
+      "maxQuantity": "115"
     },
     "verify": {
       "step": null,
