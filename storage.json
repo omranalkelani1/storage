@@ -9,7 +9,8 @@
       "step": "askPayment",
       "price": "120",
       "minQuantity": "1",
-      "maxQuantity": "60"
+      "maxQuantity": "60",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": "waiting_photos",
