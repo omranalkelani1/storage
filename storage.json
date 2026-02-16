@@ -116,7 +116,7 @@
           "buyerId": 872282181,
           "sellerId": 428137624,
           "quantity": 25,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJEKmmTO6JUothmHVKrtFTcL_zHg4f2AAKMDWsb6x2ZUCtoPrpbCUOmAQADAgADeQADOgQ"
           ],
@@ -125,7 +125,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771256549960,
-          "paymentInfo": "529fb290f41bcfbe5c96ca4f65e32b49"
+          "paymentInfo": "529fb290f41bcfbe5c96ca4f65e32b49",
+          "buyerPaymentInfo": "زيزيويزيميميمي"
         },
         "locked": true,
         "lockedBy": 428137624
