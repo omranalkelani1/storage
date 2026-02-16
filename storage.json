@@ -347,7 +347,7 @@
           "buyerId": 872282181,
           "sellerId": 1798522778,
           "quantity": 104.3,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJDBWmSrzZ7L0-5Lc3kNtCSqe3WRWIlAAKLDWsboZ6QUOBznw8QMcp2AQADAgADeQADOgQ"
           ],
