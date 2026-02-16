@@ -240,7 +240,7 @@
         "status": "approved",
         "userId": 758263137,
         "checkMessageId": 962,
-        "publicMessageId": null,
+        "publicMessageId": 5133,
         "matchedWith": null,
         "rated": false,
         "number": 583
@@ -3411,12 +3411,14 @@
           "buyerId": 872282181,
           "sellerId": 5331932891,
           "quantity": 100,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771232880514
-        }
+        },
+        "locked": true,
+        "lockedBy": 5331932891
       }
     ],
     "current": {},
