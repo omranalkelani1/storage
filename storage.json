@@ -418,7 +418,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJD8GmTL782hI9p3Zc432Gjbn4Y48o6AAJPDWsbwriZUKiPgppqTuLLAQADAgADeAADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIGA2mTMIxuq_Polt5-EA9mjFsa_lgFAAJWDWsbaKyZUP3A-RrwJeBgAQADAgADeQADOgQ"
+          ],
           "createdAt": 1771252401539,
           "paymentInfo": "a1f262f353d6b58569515a63767c47f4",
           "buyerPaymentInfo": "زوىزمزرتمورت"
