@@ -21,7 +21,26 @@
         "number": 580
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 608,
+      "editDraft": {
+        "id": 608,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "1",
+        "maxQuantity": "60",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 51970206,
+        "checkMessageId": 958,
+        "publicMessageId": 5128,
+        "matchedWith": null,
+        "rated": false,
+        "number": 580
+      }
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
@@ -879,6 +898,24 @@
     },
     "first_name": "يوسف",
     "last_name": "ابو فهد"
+  },
+  "1386902692": {
+    "phone": null,
+    "userId": 1386902692,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   },
   "1417258778": {
     "phone": "963988599745",
