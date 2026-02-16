@@ -261,24 +261,7 @@
   "758263137": {
     "phone": "201556050499",
     "userId": 758263137,
-    "offers": [
-      {
-        "id": 611,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "50",
-        "maxQuantity": "50",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 758263137,
-        "checkMessageId": 962,
-        "publicMessageId": 5133,
-        "matchedWith": null,
-        "rated": false,
-        "number": 583
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
