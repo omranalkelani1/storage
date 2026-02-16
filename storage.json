@@ -117,7 +117,9 @@
           "sellerId": 428137624,
           "quantity": 25,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJEKmmTO6JUothmHVKrtFTcL_zHg4f2AAKMDWsb6x2ZUCtoPrpbCUOmAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771256549960
@@ -459,30 +461,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 592
-      }
-    ],
-    "current": {
-      "operation": "شراء",
-      "step": "editing_offer",
-      "price": "50",
-      "editingOfferId": 620,
-      "editDraft": {
-        "id": 620,
+      },
+      {
+        "id": 622,
         "operation": "شراء",
         "step": "askPayment",
         "price": "118.5",
         "minQuantity": "50",
         "maxQuantity": "150",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "pending",
         "userId": 872282181,
-        "checkMessageId": 971,
-        "publicMessageId": 5143,
+        "checkMessageId": 973,
+        "publicMessageId": null,
         "matchedWith": null,
-        "rated": false,
-        "number": 592
+        "rated": false
       }
-    },
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1465,7 +1461,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 621,
+  "forwardingNum": 622,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
