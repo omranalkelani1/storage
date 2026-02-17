@@ -4,7 +4,10 @@
     "userId": 51970206,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
@@ -348,7 +351,7 @@
         "publicMessageId": 5153,
         "matchedWith": {
           "userId": 6768982037,
-          "offerId": 628
+          "offerId": 629
         },
         "rated": false,
         "number": 597
@@ -1663,7 +1666,10 @@
         "userId": 6768982037,
         "checkMessageId": 980,
         "publicMessageId": 5157,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "872282181",
+          "offerId": 625
+        },
         "rated": false,
         "number": 601
       }
