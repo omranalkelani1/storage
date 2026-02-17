@@ -238,7 +238,26 @@
         "number": 615
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 644,
+      "editDraft": {
+        "id": 644,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117.5",
+        "minQuantity": "5",
+        "maxQuantity": "7",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 674299839,
+        "checkMessageId": 995,
+        "publicMessageId": 5171,
+        "matchedWith": null,
+        "rated": false,
+        "number": 615
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -419,7 +438,11 @@
         "number": 597
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 644,
+      "offerOwnerId": 674299839
+    },
     "verify": {
       "step": null,
       "photos": [
