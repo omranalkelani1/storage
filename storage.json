@@ -270,7 +270,26 @@
         "number": 617
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 646,
+      "editDraft": {
+        "id": 646,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.05",
+        "minQuantity": "172",
+        "maxQuantity": "172",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 674299839,
+        "checkMessageId": 997,
+        "publicMessageId": 5174,
+        "matchedWith": null,
+        "rated": false,
+        "number": 617
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
