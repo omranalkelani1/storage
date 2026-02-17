@@ -1582,7 +1582,26 @@
         "number": 608
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 635,
+      "editDraft": {
+        "id": 635,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "220.5",
+        "maxQuantity": "220.5",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 5924567969,
+        "checkMessageId": 986,
+        "publicMessageId": 5164,
+        "matchedWith": null,
+        "rated": false,
+        "number": 608
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
