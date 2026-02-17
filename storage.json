@@ -1914,7 +1914,10 @@
         "number": 600
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
