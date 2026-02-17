@@ -3612,7 +3612,10 @@
     "phone": "26879912650",
     "userId": 7893512835,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
