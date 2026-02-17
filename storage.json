@@ -346,7 +346,10 @@
         "userId": 872282181,
         "checkMessageId": 976,
         "publicMessageId": 5153,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 6768982037,
+          "offerId": 628
+        },
         "rated": false,
         "number": 597
       }
@@ -1641,12 +1644,37 @@
         "userId": 6768982037,
         "checkMessageId": 979,
         "publicMessageId": 5156,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "872282181",
+          "offerId": 625
+        },
         "rated": false,
         "number": 600
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 628,
+      "editDraft": {
+        "id": 628,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "25.54",
+        "maxQuantity": "25.54",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6768982037,
+        "checkMessageId": 979,
+        "publicMessageId": 5156,
+        "matchedWith": {
+          "userId": "872282181",
+          "offerId": 625
+        },
+        "rated": false,
+        "number": 600
+      }
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
