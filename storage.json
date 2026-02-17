@@ -1726,7 +1726,26 @@
         "number": 622
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 652,
+      "editDraft": {
+        "id": 652,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.03",
+        "minQuantity": "95",
+        "maxQuantity": "95",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 5924567969,
+        "checkMessageId": 1003,
+        "publicMessageId": 5180,
+        "matchedWith": null,
+        "rated": false,
+        "number": 622
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
