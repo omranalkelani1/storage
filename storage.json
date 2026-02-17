@@ -225,12 +225,14 @@
           "buyerId": 7977160463,
           "sellerId": 674299839,
           "quantity": 120,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771325512169
-        }
+        },
+        "locked": true,
+        "lockedBy": 674299839
       }
     ],
     "current": {},
