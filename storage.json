@@ -1620,7 +1620,10 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJFfGmUWOJUoqJUVsvM-OhbvoVKTl89AAIHDWsbk-qgUKz15E8HFSfuAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJFlGmUXiv7dQET-QZU9sec4tZ6fZ8hAAIdDWsbwrihUFSFZHzUjOVOAQADAgADeQADOgQ",
+            "AgACAgQAAxkBAAJFlWmUXivR0AET-gfIi8WdWyGFvv_iAAIeDWsbwrihUOtnti21NqTVAQADAgADeAADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771329655249,
           "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
