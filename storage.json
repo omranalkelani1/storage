@@ -12,7 +12,7 @@
         "minQuantity": "1",
         "maxQuantity": "60",
         "transform_way": "syriatel",
-        "status": "approved",
+        "status": "rejected",
         "userId": 51970206,
         "checkMessageId": 981,
         "publicMessageId": 5158,
