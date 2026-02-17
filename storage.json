@@ -217,13 +217,16 @@
         "status": "approved",
         "userId": 674299839,
         "checkMessageId": 988,
-        "publicMessageId": null,
+        "publicMessageId": 5165,
         "matchedWith": null,
         "rated": false,
         "number": 609
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
