@@ -64,7 +64,9 @@
             "AgACAgQAAxkBAAJGFWmUjyF2IJYRwBkTEm7R5SeWqzZNAAIjD2sbpmmoUCxzE7nvDkkMAQADAgADeAADOgQ",
             "AgACAgQAAxkBAAJGF2mUj37gYRZ1hzYylL0q5euaBDIIAAIkD2sbpmmoUFOWm5aWvCCwAQADAgADeAADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIGMmmUkC_DSNIJFr7uSFN2Xy8ipWcuAALsDWsbaKyhUMg4KQLxlnomAQADAgADeQADOgQ"
+          ],
           "createdAt": 1771342677748,
           "paymentInfo": "02671614 كود اول \n5000 مبلغ \n....\n54032328 كود ثاني \n2260 مبلغ",
           "buyerPaymentInfo": "0x32df6dfb32ec9def35001ec05dc9143142b738bc"
