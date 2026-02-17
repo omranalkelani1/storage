@@ -56,12 +56,14 @@
           "buyerId": 7743470877,
           "sellerId": 51970206,
           "quantity": 60,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771342677748
-        }
+        },
+        "locked": true,
+        "lockedBy": 51970206
       }
     ],
     "current": {},
