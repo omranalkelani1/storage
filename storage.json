@@ -220,28 +220,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 613
-      }
-    ],
-    "current": {
-      "step": "editQuantity",
-      "editingOfferId": 638,
-      "editDraft": {
-        "id": 638,
+      },
+      {
+        "id": 644,
         "operation": "شراء",
         "step": "askPayment",
         "price": "117.5",
         "minQuantity": "5",
         "maxQuantity": "7",
         "transform_way": "syriatel",
-        "status": "approved",
+        "status": "pending",
         "userId": 674299839,
-        "checkMessageId": 989,
-        "publicMessageId": 5166,
+        "checkMessageId": 995,
+        "publicMessageId": null,
         "matchedWith": null,
-        "rated": false,
-        "number": 610
+        "rated": false
       }
-    },
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1393,7 +1389,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 643,
+  "forwardingNum": 644,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
