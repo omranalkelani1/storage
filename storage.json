@@ -345,7 +345,7 @@
         "status": "approved",
         "userId": 872282181,
         "checkMessageId": 976,
-        "publicMessageId": null,
+        "publicMessageId": 5153,
         "matchedWith": null,
         "rated": false,
         "number": 597
@@ -3351,7 +3351,10 @@
     "phone": "353899432425",
     "userId": 5331932891,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
