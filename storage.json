@@ -1230,7 +1230,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 598,
+  "offerSeq": 599,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1621,12 +1621,13 @@
         "minQuantity": "85.11",
         "maxQuantity": "85.11",
         "transform_way": "fuad",
-        "status": "pending",
+        "status": "approved",
         "userId": 6768982037,
         "checkMessageId": 978,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 599
       }
     ],
     "current": {
@@ -3381,7 +3382,7 @@
         "status": "approved",
         "userId": 5331932891,
         "checkMessageId": 977,
-        "publicMessageId": null,
+        "publicMessageId": 5154,
         "matchedWith": null,
         "rated": false,
         "number": 598
