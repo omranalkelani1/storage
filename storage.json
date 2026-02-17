@@ -44,33 +44,13 @@
         "minQuantity": "2",
         "maxQuantity": "60",
         "transform_way": "syriatel",
-        "status": "approved",
+        "status": "done",
         "userId": 51970206,
         "checkMessageId": 1001,
         "publicMessageId": 5177,
         "matchedWith": null,
         "rated": false,
         "number": 620,
-        "trade": {
-          "tradeId": 177,
-          "buyerId": 7743470877,
-          "sellerId": 51970206,
-          "quantity": 60,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJGDmmUjdSe_rCJSQ07JGy6QgSDqGBmAALaDmsbZW-oUBOE6K747QqMAQADAgADdwADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJGFWmUjyF2IJYRwBkTEm7R5SeWqzZNAAIjD2sbpmmoUCxzE7nvDkkMAQADAgADeAADOgQ",
-            "AgACAgQAAxkBAAJGF2mUj37gYRZ1hzYylL0q5euaBDIIAAIkD2sbpmmoUFOWm5aWvCCwAQADAgADeAADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIGMmmUkC_DSNIJFr7uSFN2Xy8ipWcuAALsDWsbaKyhUMg4KQLxlnomAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771342677748,
-          "paymentInfo": "02671614 كود اول \n5000 مبلغ \n....\n54032328 كود ثاني \n2260 مبلغ",
-          "buyerPaymentInfo": "0x32df6dfb32ec9def35001ec05dc9143142b738bc"
-        },
         "locked": true,
         "lockedBy": 51970206
       }
@@ -80,7 +60,7 @@
       "step": "waiting_photos",
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 2,
     "ratings": [
       {
         "from": 872282181,
@@ -1975,7 +1955,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [],
     "strikes": {
       "count": 0,
