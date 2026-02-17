@@ -172,24 +172,7 @@
   "674299839": {
     "phone": "905050096380",
     "userId": 674299839,
-    "offers": [
-      {
-        "id": 624,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "160",
-        "maxQuantity": "160",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 674299839,
-        "checkMessageId": 975,
-        "publicMessageId": 5152,
-        "matchedWith": null,
-        "rated": false,
-        "number": 596
-      }
-    ],
+    "offers": [],
     "current": {
       "step": "editing_offer",
       "editingOfferId": 624,
