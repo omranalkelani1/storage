@@ -21,7 +21,26 @@
         "number": 602
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 630,
+      "editDraft": {
+        "id": 630,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "1",
+        "maxQuantity": "60",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 51970206,
+        "checkMessageId": 981,
+        "publicMessageId": 5158,
+        "matchedWith": null,
+        "rated": false,
+        "number": 602
+      }
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
