@@ -226,13 +226,14 @@
           "buyerId": 7132461559,
           "sellerId": 674299839,
           "quantity": 50,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJFWGmUVJAVZGStbZEIPOeugafkiancAAJnDGsbPYyhUHUtqDpj6wibAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771328508176
+          "createdAt": 1771328508176,
+          "paymentInfo": "aa73c6434bbde152779f5f5975c298bc"
         },
         "locked": true,
         "lockedBy": 674299839
