@@ -1727,24 +1727,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 652,
-      "editDraft": {
-        "id": 652,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "95",
-        "maxQuantity": "95",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 1003,
-        "publicMessageId": 5180,
-        "matchedWith": null,
-        "rated": false,
-        "number": 622
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "1.01",
+      "minQuantity": "95",
+      "maxQuantity": "95",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
