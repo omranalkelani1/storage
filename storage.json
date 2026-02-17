@@ -1616,12 +1616,14 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 238.5,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771329655249
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
