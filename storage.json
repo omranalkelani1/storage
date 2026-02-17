@@ -2457,15 +2457,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 607
-      },
-      {
-        "id": 647,
-        "status": "pending",
-        "userId": 5329698405,
-        "checkMessageId": 998,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
       }
     ],
     "current": {},
