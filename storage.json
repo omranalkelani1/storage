@@ -56,7 +56,7 @@
           "buyerId": 7743470877,
           "sellerId": 51970206,
           "quantity": 60,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJGDmmUjdSe_rCJSQ07JGy6QgSDqGBmAALaDmsbZW-oUBOE6K747QqMAQADAgADdwADOgQ"
           ],
@@ -66,7 +66,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771342677748,
-          "paymentInfo": "02671614 كود اول \n5000 مبلغ \n....\n54032328 كود ثاني \n2260 مبلغ"
+          "paymentInfo": "02671614 كود اول \n5000 مبلغ \n....\n54032328 كود ثاني \n2260 مبلغ",
+          "buyerPaymentInfo": "0x32df6dfb32ec9def35001ec05dc9143142b738bc"
         },
         "locked": true,
         "lockedBy": 51970206
