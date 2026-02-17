@@ -56,7 +56,7 @@
           "buyerId": 7743470877,
           "sellerId": 51970206,
           "quantity": 60,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJGDmmUjdSe_rCJSQ07JGy6QgSDqGBmAALaDmsbZW-oUBOE6K747QqMAQADAgADdwADOgQ"
           ],
