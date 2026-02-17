@@ -1426,7 +1426,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 646,
+  "forwardingNum": 647,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2457,6 +2457,15 @@
         "matchedWith": null,
         "rated": false,
         "number": 607
+      },
+      {
+        "id": 647,
+        "status": "pending",
+        "userId": 5329698405,
+        "checkMessageId": 998,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
     "current": {},
