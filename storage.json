@@ -15,7 +15,7 @@
         "status": "approved",
         "userId": 51970206,
         "checkMessageId": 981,
-        "publicMessageId": null,
+        "publicMessageId": 5158,
         "matchedWith": null,
         "rated": false,
         "number": 602
@@ -1667,25 +1667,6 @@
         },
         "rated": false,
         "number": 600
-      },
-      {
-        "id": 629,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "25.43",
-        "maxQuantity": "25.43",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 980,
-        "publicMessageId": 5157,
-        "matchedWith": {
-          "userId": "872282181",
-          "offerId": 625
-        },
-        "rated": false,
-        "number": 601
       }
     ],
     "current": {},
