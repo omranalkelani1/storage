@@ -1402,7 +1402,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 640,
+  "forwardingNum": 641,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3611,15 +3611,24 @@
   "7893512835": {
     "phone": "26879912650",
     "userId": 7893512835,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.055",
-      "minQuantity": "40",
-      "maxQuantity": "40",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 641,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.055",
+        "minQuantity": "40",
+        "maxQuantity": "40",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 7893512835,
+        "checkMessageId": 992,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
