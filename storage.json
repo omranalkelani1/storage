@@ -3353,7 +3353,8 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.05"
     },
     "verify": {
       "step": null,
