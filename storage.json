@@ -325,7 +325,26 @@
         "number": 621
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 651,
+      "editDraft": {
+        "id": 651,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.05",
+        "minQuantity": "170",
+        "maxQuantity": "170",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 674299839,
+        "checkMessageId": 1002,
+        "publicMessageId": 5179,
+        "matchedWith": null,
+        "rated": false,
+        "number": 621
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -3766,5 +3785,41 @@
       "history": []
     },
     "first_name": ".."
+  },
+  "6502456808": {
+    "phone": null,
+    "userId": 6502456808,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "8445470993": {
+    "phone": null,
+    "userId": 8445470993,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
