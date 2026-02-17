@@ -38,13 +38,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 633,
       "editDraft": {
         "id": 633,
         "operation": "بيع",
         "step": "askPayment",
-        "price": "122",
+        "price": "121",
         "minQuantity": "2",
         "maxQuantity": "60",
         "transform_way": "syriatel",
