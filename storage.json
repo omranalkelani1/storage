@@ -1635,7 +1635,8 @@
       "step": "askPayment",
       "price": "118",
       "minQuantity": "25.54",
-      "maxQuantity": "25.54"
+      "maxQuantity": "25.54",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": "waiting_photos",
