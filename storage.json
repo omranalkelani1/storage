@@ -60,7 +60,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJGDmmUjdSe_rCJSQ07JGy6QgSDqGBmAALaDmsbZW-oUBOE6K747QqMAQADAgADdwADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJGFWmUjyF2IJYRwBkTEm7R5SeWqzZNAAIjD2sbpmmoUCxzE7nvDkkMAQADAgADeAADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1771342677748,
           "paymentInfo": "02671614 كود اول \n5000 مبلغ \n....\n54032328 كود ثاني \n2260 مبلغ"
