@@ -226,7 +226,7 @@
           "buyerId": 7132461559,
           "sellerId": 674299839,
           "quantity": 50,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJFWGmUVJAVZGStbZEIPOeugafkiancAAJnDGsbPYyhUHUtqDpj6wibAQADAgADeQADOgQ"
           ],
