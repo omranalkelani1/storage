@@ -1230,7 +1230,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 599,
+  "offerSeq": 600,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1637,12 +1637,13 @@
         "minQuantity": "25.54",
         "maxQuantity": "25.54",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 6768982037,
         "checkMessageId": 979,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 600
       }
     ],
     "current": {},
