@@ -220,19 +220,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 606,
-        "trade": {
-          "tradeId": 174,
-          "buyerId": 7977160463,
-          "sellerId": 674299839,
-          "quantity": 120,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771325512169
-        },
-        "locked": true,
-        "lockedBy": 674299839
+        "locked": false
       }
     ],
     "current": {},
@@ -1572,7 +1560,7 @@
         "status": "approved",
         "userId": 5924567969,
         "checkMessageId": 986,
-        "publicMessageId": null,
+        "publicMessageId": 5164,
         "matchedWith": null,
         "rated": false,
         "number": 608
