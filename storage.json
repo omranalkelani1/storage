@@ -2469,7 +2469,7 @@
         "status": "approved",
         "userId": 5329698405,
         "checkMessageId": 999,
-        "publicMessageId": null,
+        "publicMessageId": 5175,
         "matchedWith": null,
         "rated": false,
         "number": 618
