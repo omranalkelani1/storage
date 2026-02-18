@@ -1275,7 +1275,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 640,
+  "offerSeq": 641,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1362,7 +1362,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 671,
+  "forwardingNum": 672,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2158,16 +2158,25 @@
         "matchedWith": null,
         "rated": false,
         "number": 637
+      },
+      {
+        "id": 672,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.020",
+        "minQuantity": "300",
+        "maxQuantity": "300",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 7751710380,
+        "checkMessageId": 1027,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false,
+        "number": 641
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.020",
-      "minQuantity": "300",
-      "maxQuantity": "300",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
