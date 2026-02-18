@@ -2081,7 +2081,7 @@
           "buyerId": 7977160463,
           "sellerId": 7751710380,
           "quantity": 200,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJG-WmVgZ4BuvKQCVDlofkv-SVBsmTFAAK1DWsbcFioUH1CbWzSQKNoAQADAgADeQADOgQ"
           ],
