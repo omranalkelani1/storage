@@ -249,32 +249,13 @@
         "minQuantity": "50.",
         "maxQuantity": "140",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 674299839,
         "checkMessageId": 1029,
         "publicMessageId": 5207,
         "matchedWith": null,
         "rated": false,
         "number": 643,
-        "trade": {
-          "tradeId": 181,
-          "buyerId": 7205436167,
-          "sellerId": 674299839,
-          "quantity": 97,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJH2mmV3j9cgPCnDqN-0SwvVEhRGFqkAALoDGsbR8awUBWL51XAGTmZAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJH5GmV38cBA95GTei1Ff0P-KJ9LnUhAAKqDmsbN7yxUBuPzbptFnWnAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIGYGmV5dqPrxFcCHVojSJ2C3NYla83AAJUDWsb_qaxUIBeVGKmxKb4AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771428137866,
-          "paymentInfo": "aa73c6434bbde152779f5f5975c298bc",
-          "buyerPaymentInfo": "0xa0d9b2139c794ea7a8af4182b45e29108e62564f"
-        },
         "locked": true,
         "lockedBy": 674299839
       }
@@ -286,7 +267,7 @@
         "AgACAgQAAxkBAAI7v2mPCHjJWN5Gafl4_OD3WLEnBy7DAAIsD2sba4R5ULrBFC82s7rpAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 2,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 7970479825,
@@ -3502,7 +3483,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 5,
+    "tradesCount": 6,
     "ratings": [
       {
         "from": 5329698405,
