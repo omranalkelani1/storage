@@ -3422,8 +3422,9 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMinQuantity",
-      "price": "121"
+      "step": "askMaxQuantity",
+      "price": "121",
+      "minQuantity": "95"
     },
     "verify": {
       "step": null,
