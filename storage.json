@@ -274,19 +274,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 646,
-        "trade": {
-          "tradeId": 182,
-          "buyerId": 674299839,
-          "sellerId": 1386902692,
-          "quantity": 110,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771431646743
-        },
-        "locked": true,
-        "lockedBy": 674299839
+        "locked": false
       }
     ],
     "current": {},
