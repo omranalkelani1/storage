@@ -3455,7 +3455,7 @@
           "buyerId": 7205436167,
           "sellerId": 7751710380,
           "quantity": 95,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJHi2mVvwN4p9I3JEu30xnkp6_e5OOEAAIiDmsbcFioUJg3Dg5uI1QNAQADAgADeQADOgQ"
           ],
