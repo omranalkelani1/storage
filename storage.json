@@ -261,7 +261,7 @@
           "buyerId": 7205436167,
           "sellerId": 674299839,
           "quantity": 97,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJH2mmV3j9cgPCnDqN-0SwvVEhRGFqkAALoDGsbR8awUBWL51XAGTmZAQADAgADeQADOgQ"
           ],
