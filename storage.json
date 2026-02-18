@@ -3371,7 +3371,10 @@
     "phone": "963936550998",
     "userId": 7205436167,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
