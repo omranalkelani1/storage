@@ -927,7 +927,10 @@
     "phone": "963945504498",
     "userId": 1386902692,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
