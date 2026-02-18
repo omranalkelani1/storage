@@ -3436,22 +3436,6 @@
     "userId": 7205436167,
     "offers": [
       {
-        "id": 667,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "97",
-        "maxQuantity": "97",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 1022,
-        "publicMessageId": 5200,
-        "matchedWith": null,
-        "rated": false,
-        "number": 636
-      },
-      {
         "id": 670,
         "operation": "شراء",
         "step": "askPayment",
