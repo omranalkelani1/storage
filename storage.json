@@ -2174,22 +2174,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 637
-      },
-      {
-        "id": 672,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.020",
-        "minQuantity": "300",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1027,
-        "publicMessageId": 5205,
-        "matchedWith": null,
-        "rated": false,
-        "number": 641
       }
     ],
     "current": {},
