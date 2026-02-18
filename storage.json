@@ -3471,12 +3471,14 @@
           "buyerId": 7205436167,
           "sellerId": 7751710380,
           "quantity": 95,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771420793582
-        }
+        },
+        "locked": true,
+        "lockedBy": 7205436167
       }
     ],
     "current": {},
