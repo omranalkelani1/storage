@@ -3455,7 +3455,7 @@
           "buyerId": 7205436167,
           "sellerId": 7751710380,
           "quantity": 95,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJHi2mVvwN4p9I3JEu30xnkp6_e5OOEAAIiDmsbcFioUJg3Dg5uI1QNAQADAgADeQADOgQ"
           ],
@@ -3464,7 +3464,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771420793582,
-          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7"
+          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7",
+          "buyerPaymentInfo": "0xa0d9b2139c794ea7a8af4182b45e29108e62564f"
         },
         "locked": true,
         "lockedBy": 7205436167
