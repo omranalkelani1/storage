@@ -2081,7 +2081,7 @@
           "buyerId": 7977160463,
           "sellerId": 7751710380,
           "quantity": 200,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJG-WmVgZ4BuvKQCVDlofkv-SVBsmTFAAK1DWsbcFioUH1CbWzSQKNoAQADAgADeQADOgQ"
           ],
@@ -2090,7 +2090,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771405210308,
-          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7"
+          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7",
+          "buyerPaymentInfo": "0x6c38d80abadbb96bd09bc5b4ead5f90b2a9fc515"
         },
         "locked": true,
         "lockedBy": 7751710380
