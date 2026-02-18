@@ -2346,7 +2346,26 @@
         "number": 632
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 663,
+      "editDraft": {
+        "id": 663,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "123",
+        "minQuantity": "23.5",
+        "maxQuantity": "23.5",
+        "transform_way": "syriatel",
+        "status": "approved",
+        "userId": 5329698405,
+        "checkMessageId": 1018,
+        "publicMessageId": 5196,
+        "matchedWith": null,
+        "rated": false,
+        "number": 632
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
