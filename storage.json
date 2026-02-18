@@ -2098,8 +2098,9 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "1.024"
+      "step": "askMaxQuantity",
+      "price": "1.024",
+      "minQuantity": "300"
     },
     "verify": {
       "step": null,
