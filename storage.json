@@ -2161,24 +2161,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 668,
-      "editDraft": {
-        "id": 668,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.020",
-        "minQuantity": "300",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1023,
-        "publicMessageId": 5201,
-        "matchedWith": null,
-        "rated": false,
-        "number": 637
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "1.020",
+      "minQuantity": "300",
+      "maxQuantity": "300",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
