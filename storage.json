@@ -224,16 +224,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 638
+      },
+      {
+        "id": 671,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.06",
+        "minQuantity": "50.",
+        "maxQuantity": "140",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 674299839,
+        "checkMessageId": 1026,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.06",
-      "minQuantity": "50.",
-      "maxQuantity": "140",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1266,7 +1274,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 638,
+  "offerSeq": 639,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1353,7 +1361,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 670,
+  "forwardingNum": 671,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3434,12 +3442,13 @@
         "minQuantity": "95",
         "maxQuantity": "95",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 7205436167,
         "checkMessageId": 1025,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 639
       }
     ],
     "current": {},
