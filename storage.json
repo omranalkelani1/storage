@@ -372,15 +372,24 @@
   "845923306": {
     "phone": "963935608055",
     "userId": 845923306,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.02",
-      "minQuantity": "500",
-      "maxQuantity": "2000",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 675,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.02",
+        "minQuantity": "500",
+        "maxQuantity": "2000",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 845923306,
+        "checkMessageId": 1030,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1385,7 +1394,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 674,
+  "forwardingNum": 675,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
