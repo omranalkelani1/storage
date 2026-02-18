@@ -2081,13 +2081,14 @@
           "buyerId": 7977160463,
           "sellerId": 7751710380,
           "quantity": 200,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJG-WmVgZ4BuvKQCVDlofkv-SVBsmTFAAK1DWsbcFioUH1CbWzSQKNoAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771405210308
+          "createdAt": 1771405210308,
+          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7"
         },
         "locked": true,
         "lockedBy": 7751710380
