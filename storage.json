@@ -388,24 +388,7 @@
   "845923306": {
     "phone": "963935608055",
     "userId": 845923306,
-    "offers": [
-      {
-        "id": 675,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "500",
-        "maxQuantity": "2000",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 845923306,
-        "checkMessageId": 1030,
-        "publicMessageId": 5208,
-        "matchedWith": null,
-        "rated": false,
-        "number": 644
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
