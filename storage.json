@@ -242,7 +242,26 @@
         "number": 640
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 671,
+      "editDraft": {
+        "id": 671,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.06",
+        "minQuantity": "50.",
+        "maxQuantity": "140",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 674299839,
+        "checkMessageId": 1026,
+        "publicMessageId": 5204,
+        "matchedWith": null,
+        "rated": false,
+        "number": 640
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
