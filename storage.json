@@ -258,16 +258,24 @@
         "number": 643,
         "locked": true,
         "lockedBy": 674299839
+      },
+      {
+        "id": 677,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "30",
+        "maxQuantity": "110",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 674299839,
+        "checkMessageId": 1032,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "30",
-      "maxQuantity": "110",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1409,7 +1417,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 676,
+  "forwardingNum": 677,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
