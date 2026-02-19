@@ -88,7 +88,7 @@
           "buyerId": 428137624,
           "sellerId": 5924567969,
           "quantity": 200,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJIm2mW2UppKPdUcF-Ic1oV49GLlaRSAAIMDWsbGai4UCrIpS2H7eciAQADAgADeQADOgQ"
           ],
@@ -97,7 +97,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1771493630125,
-          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
+          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067",
+          "buyerPaymentInfo": "0x56dd004ab9c4e95c7f2f74b04e29598b0885c0a2"
         },
         "locked": true,
         "lockedBy": 428137624
