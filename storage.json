@@ -2370,24 +2370,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 687,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "40",
-        "maxQuantity": "40",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1042,
-        "publicMessageId": 5229,
-        "matchedWith": null,
-        "rated": false,
-        "number": 656
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
