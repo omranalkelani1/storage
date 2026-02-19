@@ -210,12 +210,13 @@
         "minQuantity": "5",
         "maxQuantity": "40",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1044,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 659
       },
       {
         "id": 690,
@@ -225,12 +226,13 @@
         "minQuantity": "5",
         "maxQuantity": "110",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1045,
-        "publicMessageId": null,
+        "publicMessageId": 5233,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 658
       }
     ],
     "current": {},
@@ -1343,7 +1345,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 657,
+  "offerSeq": 659,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
