@@ -3666,9 +3666,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1",
-      "minQuantity": "400"
+      "minQuantity": "400",
+      "maxQuantity": "2500"
     },
     "verify": {
       "step": null,
