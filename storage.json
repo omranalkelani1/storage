@@ -1490,7 +1490,7 @@
         "status": "approved",
         "userId": 5924567969,
         "checkMessageId": 1037,
-        "publicMessageId": null,
+        "publicMessageId": 5223,
         "matchedWith": null,
         "rated": false,
         "number": 651
