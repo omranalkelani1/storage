@@ -3664,7 +3664,10 @@
     "phone": "962781344774",
     "userId": 8103355876,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
