@@ -378,7 +378,18 @@
         "matchedWith": null,
         "rated": false,
         "number": 650,
-        "locked": false
+        "locked": false,
+        "trade": {
+          "tradeId": 185,
+          "buyerId": 872282181,
+          "sellerId": 5924567969,
+          "quantity": 68,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1771494118226
+        }
       }
     ],
     "current": {},
@@ -1415,7 +1426,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 184,
+  "tradeId": 185,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
