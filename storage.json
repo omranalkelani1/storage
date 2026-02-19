@@ -3613,7 +3613,10 @@
     "phone": "79889227063",
     "userId": 7986638767,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
