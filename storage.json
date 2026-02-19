@@ -322,7 +322,10 @@
     "phone": "963935608055",
     "userId": 845923306,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
