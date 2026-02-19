@@ -88,7 +88,7 @@
           "buyerId": 428137624,
           "sellerId": 5924567969,
           "quantity": 200,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJIm2mW2UppKPdUcF-Ic1oV49GLlaRSAAIMDWsbGai4UCrIpS2H7eciAQADAgADeQADOgQ"
           ],
