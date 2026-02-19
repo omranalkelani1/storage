@@ -1536,22 +1536,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 651
-      },
-      {
-        "id": 683,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "268",
-        "maxQuantity": "268",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 1038,
-        "publicMessageId": 5224,
-        "matchedWith": null,
-        "rated": false,
-        "number": 652
       }
     ],
     "current": {},
