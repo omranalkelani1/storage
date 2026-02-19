@@ -3659,5 +3659,22 @@
       "history": []
     },
     "first_name": "HAWAALH"
+  },
+  "8103355876": {
+    "phone": "962781344774",
+    "userId": 8103355876,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Saif"
   }
 }
