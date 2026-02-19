@@ -1775,24 +1775,7 @@
     "phone": "79964507429",
     "userId": 6768982037,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 686,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "117.5",
-        "minQuantity": "110.64",
-        "maxQuantity": "110.64",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 1041,
-        "publicMessageId": 5228,
-        "matchedWith": null,
-        "rated": false,
-        "number": 655
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": "waiting_photos",
