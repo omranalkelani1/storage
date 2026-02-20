@@ -85,16 +85,24 @@
         "number": 653,
         "locked": true,
         "lockedBy": 428137624
+      },
+      {
+        "id": 696,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "55",
+        "maxQuantity": "55",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 428137624,
+        "checkMessageId": 1051,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "118",
-      "minQuantity": "55",
-      "maxQuantity": "55",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1493,7 +1501,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 695,
+  "forwardingNum": 696,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
