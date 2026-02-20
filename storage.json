@@ -198,6 +198,24 @@
     },
     "first_name": "R"
   },
+  "665976819": {
+    "phone": null,
+    "userId": 665976819,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "674299839": {
     "phone": "905050096380",
     "userId": 674299839,
@@ -1361,7 +1379,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 660,
+  "offerSeq": 661,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -2138,12 +2156,13 @@
         "minQuantity": "200",
         "maxQuantity": "200",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 5134156042,
         "checkMessageId": 1047,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 661
       },
       {
         "id": 693,
@@ -3692,5 +3711,23 @@
       "history": []
     },
     "first_name": "Saif"
+  },
+  "8068803983": {
+    "phone": null,
+    "userId": 8068803983,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
