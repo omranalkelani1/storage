@@ -3738,7 +3738,10 @@
     "phone": "963962134184",
     "userId": 8068803983,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
