@@ -3769,7 +3769,7 @@
           "buyerId": 8068803983,
           "sellerId": 428137624,
           "quantity": 15,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJJ5WmYPUdbf1hwN_1WhSlMTtUzH4oWAAJTDmsb75nBUPvf_ugjpmtnAQADAgADeQADOgQ"
           ],
