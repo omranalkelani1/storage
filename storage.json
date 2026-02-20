@@ -3539,24 +3539,7 @@
   "5331932891": {
     "phone": "353899432425",
     "userId": 5331932891,
-    "offers": [
-      {
-        "id": 699,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "200",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5331932891,
-        "checkMessageId": 1054,
-        "publicMessageId": 5242,
-        "matchedWith": null,
-        "rated": false,
-        "number": 667
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
