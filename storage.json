@@ -101,21 +101,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 665
-      },
-      {
-        "id": 700,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "91",
-        "maxQuantity": "91",
-        "transform_way": "shamSy",
-        "status": "pending",
-        "userId": 428137624,
-        "checkMessageId": 1055,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
       }
     ],
     "current": {},
