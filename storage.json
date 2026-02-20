@@ -979,7 +979,11 @@
     "phone": "963945504498",
     "userId": 1386902692,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 693,
+      "offerOwnerId": 5134156042
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -2148,22 +2152,6 @@
     "userId": 5134156042,
     "category": "🥉 برونزي",
     "offers": [
-      {
-        "id": 692,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.5",
-        "minQuantity": "200",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5134156042,
-        "checkMessageId": 1047,
-        "publicMessageId": 5236,
-        "matchedWith": null,
-        "rated": false,
-        "number": 661
-      },
       {
         "id": 693,
         "operation": "شراء",
