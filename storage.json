@@ -237,22 +237,6 @@
     "userId": 674299839,
     "offers": [
       {
-        "id": 689,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "5",
-        "maxQuantity": "40",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 674299839,
-        "checkMessageId": 1044,
-        "publicMessageId": 5234,
-        "matchedWith": null,
-        "rated": false,
-        "number": 659
-      },
-      {
         "id": 690,
         "operation": "شراء",
         "step": "askPayment",
