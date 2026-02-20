@@ -2151,27 +2151,10 @@
     "phone": "380944698225",
     "userId": 5134156042,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 693,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "123",
-        "minQuantity": "100",
-        "maxQuantity": "200",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5134156042,
-        "checkMessageId": 1048,
-        "publicMessageId": 5237,
-        "matchedWith": null,
-        "rated": false,
-        "number": 662
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 6,
