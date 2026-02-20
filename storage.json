@@ -3758,13 +3758,14 @@
           "buyerId": 8068803983,
           "sellerId": 428137624,
           "quantity": 15,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJJ5WmYPUdbf1hwN_1WhSlMTtUzH4oWAAJTDmsb75nBUPvf_ugjpmtnAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771584613531
+          "createdAt": 1771584613531,
+          "paymentInfo": "529fb290f41bcfbe5c96ca4f65e32b49"
         },
         "locked": true,
         "lockedBy": 8068803983
