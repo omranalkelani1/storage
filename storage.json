@@ -3554,18 +3554,7 @@
         "publicMessageId": 5242,
         "matchedWith": null,
         "rated": false,
-        "number": 667,
-        "trade": {
-          "tradeId": 190,
-          "buyerId": 1975626644,
-          "sellerId": 5331932891,
-          "quantity": 500,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771586416574
-        }
+        "number": 667
       }
     ],
     "current": {},
