@@ -470,16 +470,24 @@
         "rated": false,
         "number": 654,
         "locked": false
+      },
+      {
+        "id": 695,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 1050,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "120",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "syriatel"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1477,7 +1485,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 694,
+  "forwardingNum": 695,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
