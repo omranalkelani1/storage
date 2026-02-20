@@ -3573,7 +3573,10 @@
     "phone": "353899432425",
     "userId": 5331932891,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
