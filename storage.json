@@ -3758,12 +3758,14 @@
           "buyerId": 8068803983,
           "sellerId": 428137624,
           "quantity": 15,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771584613531
-        }
+        },
+        "locked": true,
+        "lockedBy": 8068803983
       }
     ],
     "current": {},
