@@ -3704,25 +3704,7 @@
   "8068803983": {
     "phone": "963962134184",
     "userId": 8068803983,
-    "offers": [
-      {
-        "id": 698,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "15",
-        "maxQuantity": "15",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 8068803983,
-        "checkMessageId": 1053,
-        "publicMessageId": 5243,
-        "matchedWith": null,
-        "rated": false,
-        "number": 668,
-        "locked": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
