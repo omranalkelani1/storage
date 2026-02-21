@@ -2017,24 +2017,7 @@
     "phone": "12056183703",
     "userId": 7970479825,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 719,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "47.83",
-        "maxQuantity": "47.83",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 1074,
-        "publicMessageId": 5274,
-        "matchedWith": null,
-        "rated": false,
-        "number": 687
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
