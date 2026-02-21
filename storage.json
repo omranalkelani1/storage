@@ -234,7 +234,26 @@
         "number": 680
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 711,
+      "editDraft": {
+        "id": 711,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "20",
+        "maxQuantity": "120",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 674299839,
+        "checkMessageId": 1066,
+        "publicMessageId": 5261,
+        "matchedWith": null,
+        "rated": false,
+        "number": 679
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
