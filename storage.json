@@ -260,7 +260,7 @@
         "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1071,
-        "publicMessageId": null,
+        "publicMessageId": 5270,
         "matchedWith": null,
         "rated": false,
         "number": 684
@@ -449,7 +449,10 @@
         "number": 677
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
