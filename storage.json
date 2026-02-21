@@ -2486,7 +2486,9 @@
           "sellerId": 872282181,
           "quantity": 31,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJLBWmZ9oTzQZvd6967ndpMJBjA1CxPAAKlDWsbljrRUPVfeu3d7AugAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771697681626
