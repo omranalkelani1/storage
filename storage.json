@@ -201,7 +201,10 @@
     "phone": "905050096380",
     "userId": 674299839,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -907,7 +910,7 @@
         "status": "approved",
         "userId": 1386902692,
         "checkMessageId": 1065,
-        "publicMessageId": null,
+        "publicMessageId": 5260,
         "matchedWith": null,
         "rated": false,
         "number": 678
