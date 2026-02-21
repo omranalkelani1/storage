@@ -2473,32 +2473,13 @@
         "minQuantity": "31",
         "maxQuantity": "31",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 5129762526,
         "checkMessageId": 1069,
         "publicMessageId": 5268,
         "matchedWith": null,
         "rated": false,
         "number": 682,
-        "trade": {
-          "tradeId": 191,
-          "buyerId": 5129762526,
-          "sellerId": 872282181,
-          "quantity": 31,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJLBWmZ9oTzQZvd6967ndpMJBjA1CxPAAKlDWsbljrRUPVfeu3d7AugAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJLDWmZ_F5GUS9BQOD-YlI5XHPRpxoLAAIcDmsb1WrRUCr0qAcxe_KXAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIGnGmaBkw4DTMfyEO5n_63PSiTtRKyAALoDWsbsejQUDPuwBrH2ko-AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771697681626,
-          "paymentInfo": "285bb01d1287075c274b737c37b909a0",
-          "buyerPaymentInfo": "0x4cdeb4dd21bd220c7f9e9df4e7daad6e20c7771a"
-        },
         "locked": true,
         "lockedBy": 5129762526
       }
@@ -2508,7 +2489,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 2,
     "ratings": [],
     "strikes": {
       "count": 0,
