@@ -1503,7 +1503,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 717,
+  "forwardingNum": 718,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2017,15 +2017,24 @@
     "phone": "12056183703",
     "userId": 7970479825,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "120",
-      "minQuantity": "61.77",
-      "maxQuantity": "61.77",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 718,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "120",
+        "minQuantity": "61.77",
+        "maxQuantity": "61.77",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 7970479825,
+        "checkMessageId": 1073,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
