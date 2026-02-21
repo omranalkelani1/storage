@@ -2432,14 +2432,7 @@
     "userId": 5129762526,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "100",
-      "minQuantity": "30",
-      "maxQuantity": "30",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
