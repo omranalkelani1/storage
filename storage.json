@@ -228,7 +228,7 @@
         "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1067,
-        "publicMessageId": null,
+        "publicMessageId": 5263,
         "matchedWith": null,
         "rated": false,
         "number": 680
@@ -2428,13 +2428,11 @@
     "first_name": "Victor"
   },
   "5129762526": {
-    "phone": null,
+    "phone": "963969313579",
     "userId": 5129762526,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -2444,7 +2442,8 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "وسام"
   },
   "6298027684": {
     "phone": "963985754992",
