@@ -2020,9 +2020,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "120",
-      "minQuantity": "61.77"
+      "minQuantity": "61.77",
+      "maxQuantity": "61.77"
     },
     "verify": {
       "step": null,
