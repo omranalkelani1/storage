@@ -2019,22 +2019,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 718,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "61.77",
-        "maxQuantity": "61.77",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 1073,
-        "publicMessageId": 5273,
-        "matchedWith": null,
-        "rated": false,
-        "number": 686
-      },
-      {
         "id": 719,
         "operation": "بيع",
         "step": "askPayment",
