@@ -1123,7 +1123,7 @@
         "status": "approved",
         "userId": 1869794934,
         "checkMessageId": 1068,
-        "publicMessageId": null,
+        "publicMessageId": 5265,
         "matchedWith": null,
         "rated": false,
         "number": 681
@@ -1364,7 +1364,7 @@
     "first_name": "..."
   },
   "offerSeq": 681,
-  "botEnabled": true,
+  "botEnabled": false,
   "6193222237": {
     "phone": "963960013368",
     "userId": 6193222237,
