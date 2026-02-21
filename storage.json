@@ -895,15 +895,24 @@
   "1386902692": {
     "phone": "963945504498",
     "userId": 1386902692,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "119.5",
-      "minQuantity": "100",
-      "maxQuantity": "200",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 710,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "119.5",
+        "minQuantity": "100",
+        "maxQuantity": "200",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 1386902692,
+        "checkMessageId": 1065,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1390,7 +1399,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 709,
+  "forwardingNum": 710,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
