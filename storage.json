@@ -353,8 +353,7 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMinQuantity",
-      "price": "25"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
