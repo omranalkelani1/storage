@@ -2772,7 +2772,7 @@
           "buyerId": 872282181,
           "sellerId": 5860846249,
           "quantity": 13.5,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJLzmma4y26v4e8CuwIQXXb8AkipCPcAAK5DGsbhXfZUGOd_rLj4A5KAQADAgADeQADOgQ"
           ],
