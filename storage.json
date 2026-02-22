@@ -2772,12 +2772,14 @@
           "buyerId": 872282181,
           "sellerId": 5860846249,
           "quantity": 13.5,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1771757346669
-        }
+        },
+        "locked": true,
+        "lockedBy": 5860846249
       }
     ],
     "current": {},
