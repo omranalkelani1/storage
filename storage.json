@@ -2772,13 +2772,14 @@
           "buyerId": 872282181,
           "sellerId": 5860846249,
           "quantity": 13.5,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJLzmma4y26v4e8CuwIQXXb8AkipCPcAAK5DGsbhXfZUGOd_rLj4A5KAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771757346669
+          "createdAt": 1771757346669,
+          "paymentInfo": "a46f012299ae33264a258101463bf3cd"
         },
         "locked": true,
         "lockedBy": 5860846249
