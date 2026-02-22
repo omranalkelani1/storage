@@ -32,7 +32,10 @@
     "phone": "963999833203",
     "userId": 219509227,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
