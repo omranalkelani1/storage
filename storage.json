@@ -2737,7 +2737,7 @@
     "userId": 5860846249,
     "offers": [],
     "current": {
-      "operation": "بيع",
+      "operation": "شراء",
       "step": "askPrice"
     },
     "verify": {
