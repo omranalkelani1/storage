@@ -368,7 +368,26 @@
         "number": 689
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 721,
+      "editDraft": {
+        "id": 721,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "25",
+        "maxQuantity": "50",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 1076,
+        "publicMessageId": 5280,
+        "matchedWith": null,
+        "rated": false,
+        "number": 689
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
