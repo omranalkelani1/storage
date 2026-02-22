@@ -1792,22 +1792,6 @@
         "number": 696,
         "locked": true,
         "lockedBy": 6768982037
-      },
-      {
-        "id": 730,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "84.75",
-        "maxQuantity": "84.75",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 6768982037,
-        "checkMessageId": 1085,
-        "publicMessageId": 5292,
-        "matchedWith": null,
-        "rated": false,
-        "number": 697
       }
     ],
     "current": {},
