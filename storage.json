@@ -2804,22 +2804,6 @@
     "userId": 5860846249,
     "offers": [
       {
-        "id": 726,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "18",
-        "maxQuantity": "18",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 5860846249,
-        "checkMessageId": 1081,
-        "publicMessageId": 5289,
-        "matchedWith": null,
-        "rated": false,
-        "number": 694
-      },
-      {
         "id": 727,
         "operation": "بيع",
         "step": "askPayment",
