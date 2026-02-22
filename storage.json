@@ -218,7 +218,10 @@
     "phone": "905050096380",
     "userId": 674299839,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -2845,7 +2848,11 @@
     "phone": "963981094421",
     "userId": 5656362998,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 730,
+      "offerOwnerId": 6768982037
+    },
     "verify": {
       "step": null,
       "photos": [
