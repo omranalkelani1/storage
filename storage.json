@@ -424,7 +424,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 101,
+    "tradesCount": 102,
     "ratings": [
       {
         "from": 5129178902,
@@ -1745,32 +1745,13 @@
         "minQuantity": "17",
         "maxQuantity": "17",
         "transform_way": "haram",
-        "status": "approved",
+        "status": "done",
         "userId": 6768982037,
         "checkMessageId": 1084,
         "publicMessageId": 5291,
         "matchedWith": null,
         "rated": false,
         "number": 696,
-        "trade": {
-          "tradeId": 193,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 17,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJMKmmbF-vemJZjqKXD1SQKI0cIXpSPAALCFmsbpGvYSA5g_Ibab10QAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJMMWmbGeqyxtKZbiX_DuVgu54xFRSMAAKWDWsbgkfZUDqGd_fg3pVxAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAxkBAAJMMWmbGeqyxtKZbiX_DuVgu54xFRSMAAKWDWsbgkfZUDqGd_fg3pVxAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771771715871,
-          "paymentInfo": "2000   الهرم\n\nدولت علي ابراهيم\n\n\n0939585242\n\nمطلوب فيديو لعملية الارسال وشكرا",
-          "buyerPaymentInfo": "نيزيويظيظيكي"
-        },
         "locked": true,
         "lockedBy": 6768982037
       },
@@ -1802,7 +1783,7 @@
         "AgACAgIAAxkBAAI7-mmPDS_WcEywF4TK6Y0hYMgPf_ThAAI1GWsbThJ5SObhE0tQseXlAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 7,
+    "tradesCount": 8,
     "ratings": [
       {
         "from": 872282181,
