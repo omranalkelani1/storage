@@ -2811,24 +2811,13 @@
         "minQuantity": "18",
         "maxQuantity": "18",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "rejected",
         "userId": 5860846249,
         "checkMessageId": 1081,
         "publicMessageId": 5289,
         "matchedWith": null,
         "rated": false,
-        "number": 694,
-        "trade": {
-          "tradeId": 194,
-          "buyerId": 5860846249,
-          "sellerId": 7253603586,
-          "quantity": 18,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771785196505
-        }
+        "number": 694
       },
       {
         "id": 727,
