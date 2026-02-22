@@ -1737,14 +1737,7 @@
     "userId": 6768982037,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "17",
-      "minQuantity": "118",
-      "maxQuantity": "118",
-      "transform_way": "haram"
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": [
