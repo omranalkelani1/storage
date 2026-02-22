@@ -1764,7 +1764,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJMMWmbGeqyxtKZbiX_DuVgu54xFRSMAAKWDWsbgkfZUDqGd_fg3pVxAQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAxkBAAJMMWmbGeqyxtKZbiX_DuVgu54xFRSMAAKWDWsbgkfZUDqGd_fg3pVxAQADAgADeQADOgQ"
+          ],
           "createdAt": 1771771715871,
           "paymentInfo": "2000   الهرم\n\nدولت علي ابراهيم\n\n\n0939585242\n\nمطلوب فيديو لعملية الارسال وشكرا",
           "buyerPaymentInfo": "نيزيويظيظيكي"
