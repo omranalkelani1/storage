@@ -218,16 +218,24 @@
         "number": 711,
         "locked": true,
         "lockedBy": 674299839
+      },
+      {
+        "id": 749,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "125",
+        "minQuantity": "75",
+        "maxQuantity": "75",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 674299839,
+        "checkMessageId": 1104,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "125",
-      "minQuantity": "75",
-      "maxQuantity": "75",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1448,7 +1456,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 748,
+  "forwardingNum": 749,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
