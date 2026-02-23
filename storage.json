@@ -2721,7 +2721,10 @@
     "phone": "963991894995",
     "userId": 5860846249,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
