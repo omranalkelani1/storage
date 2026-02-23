@@ -1335,22 +1335,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 705
-      },
-      {
-        "id": 740,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119.5",
-        "minQuantity": "20",
-        "maxQuantity": "50",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 6193222237,
-        "checkMessageId": 1095,
-        "publicMessageId": 5307,
-        "matchedWith": null,
-        "rated": false,
-        "number": 707
       }
     ],
     "current": {},
