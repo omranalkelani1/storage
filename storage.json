@@ -209,33 +209,13 @@
         "minQuantity": "50",
         "maxQuantity": "190",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 674299839,
         "checkMessageId": 1100,
         "publicMessageId": 5312,
         "matchedWith": null,
         "rated": false,
         "number": 711,
-        "trade": {
-          "tradeId": 197,
-          "buyerId": 674299839,
-          "sellerId": 7132461559,
-          "quantity": 102,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJNS2mcfegygDdd0eMdvRGc6ZAzGwPGAALfDWsbEQrgUFwyekIzto9pAQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAJNTWmcfuUPbyGKV1S7oBvrhreIe8XpAALgDWsbEQrgUFBF26qMwK37AQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJNVGmcgIVAlYp0orLUt36YOJQQPK9-AALbDWsbxMnhUOcMZ9jszkuEAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIGz2mcgXLu_PMBmntZaQ_JO1p1u0T5AAL7DWsb5A_oUN-7Pf05T0K4AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1771863358179,
-          "paymentInfo": "f43066d8a68de90aba77dd5175b58669",
-          "buyerPaymentInfo": "0xbb0bd83004ba9208839aacb48ccfd7a280fd008e"
-        },
         "locked": true,
         "lockedBy": 674299839
       }
@@ -247,7 +227,7 @@
         "AgACAgQAAxkBAAI7v2mPCHjJWN5Gafl4_OD3WLEnBy7DAAIsD2sba4R5ULrBFC82s7rpAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 3,
+    "tradesCount": 5,
     "ratings": [
       {
         "from": 7970479825,
