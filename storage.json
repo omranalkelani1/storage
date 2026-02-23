@@ -237,15 +237,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 749,
       "editDraft": {
         "id": 749,
         "operation": "بيع",
         "step": "askPayment",
         "price": "125",
-        "minQuantity": "75",
-        "maxQuantity": "75",
+        "minQuantity": "20",
+        "maxQuantity": "27",
         "transform_way": "shamSy",
         "status": "approved",
         "userId": 674299839,
