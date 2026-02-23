@@ -1335,28 +1335,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 705
-      }
-    ],
-    "current": {
-      "step": "editing_offer",
-      "editingOfferId": 738,
-      "editDraft": {
-        "id": 738,
+      },
+      {
+        "id": 740,
         "operation": "شراء",
         "step": "askPayment",
         "price": "119.5",
         "minQuantity": "20",
         "maxQuantity": "50",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "pending",
         "userId": 6193222237,
-        "checkMessageId": 1093,
-        "publicMessageId": 5305,
+        "checkMessageId": 1095,
+        "publicMessageId": null,
         "matchedWith": null,
-        "rated": false,
-        "number": 705
+        "rated": false
       }
-    },
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1436,7 +1432,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 739,
+  "forwardingNum": 740,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
