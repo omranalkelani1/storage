@@ -367,24 +367,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 739,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "100",
-        "maxQuantity": "120",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1094,
-        "publicMessageId": 5306,
-        "matchedWith": null,
-        "rated": false,
-        "number": 706
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
