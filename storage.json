@@ -3227,18 +3227,7 @@
         "publicMessageId": 5310,
         "matchedWith": null,
         "rated": false,
-        "number": 709,
-        "trade": {
-          "tradeId": 196,
-          "buyerId": 892165414,
-          "sellerId": 7132461559,
-          "quantity": 800,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1771854127834
-        }
+        "number": 709
       }
     ],
     "current": {},
