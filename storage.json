@@ -221,14 +221,15 @@
           "buyerId": 674299839,
           "sellerId": 7132461559,
           "quantity": 102,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJNS2mcfegygDdd0eMdvRGc6ZAzGwPGAALfDWsbEQrgUFwyekIzto9pAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJNTWmcfuUPbyGKV1S7oBvrhreIe8XpAALgDWsbEQrgUFBF26qMwK37AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771863358179
+          "createdAt": 1771863358179,
+          "paymentInfo": "f43066d8a68de90aba77dd5175b58669"
         },
         "locked": true,
         "lockedBy": 674299839
