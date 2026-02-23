@@ -165,24 +165,7 @@
   "647336851": {
     "phone": "963991708666",
     "userId": 647336851,
-    "offers": [
-      {
-        "id": 736,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.025",
-        "minQuantity": "300",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 647336851,
-        "checkMessageId": 1091,
-        "publicMessageId": 5303,
-        "matchedWith": null,
-        "rated": false,
-        "number": 703
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
