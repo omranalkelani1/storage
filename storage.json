@@ -1322,7 +1322,7 @@
           "buyerId": 6193222237,
           "sellerId": 7132461559,
           "quantity": 25,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJMommcIhBSpHBcsKd2F8iIr1c_Whe8AAJvDWsbEQrgUBYTnolslPLXAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJMp2mcIvYpm7g3-kWQvCY3WhUcE-Y6AAJ2DWsbEQrgUOhoic-oV8J3AQADAgADeQADOgQ"
