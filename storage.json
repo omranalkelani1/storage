@@ -350,15 +350,24 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "121",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 734,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "121",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 1089,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1389,7 +1398,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 733,
+  "forwardingNum": 734,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
