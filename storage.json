@@ -223,7 +223,8 @@
           "quantity": 102,
           "step": "seller_upload",
           "sellerProofs": [
-            "AgACAgQAAxkBAAJNS2mcfegygDdd0eMdvRGc6ZAzGwPGAALfDWsbEQrgUFwyekIzto9pAQADAgADeQADOgQ"
+            "AgACAgQAAxkBAAJNS2mcfegygDdd0eMdvRGc6ZAzGwPGAALfDWsbEQrgUFwyekIzto9pAQADAgADeQADOgQ",
+            "AgACAgQAAxkBAAJNTWmcfuUPbyGKV1S7oBvrhreIe8XpAALgDWsbEQrgUFBF26qMwK37AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
