@@ -243,12 +243,13 @@
         "minQuantity": "20",
         "maxQuantity": "27",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1107,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 718
       }
     ],
     "current": {},
@@ -1358,7 +1359,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 717,
+  "offerSeq": 718,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -2037,24 +2038,7 @@
     "phone": "12056183703",
     "userId": 7970479825,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 751,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "217.79",
-        "maxQuantity": "217.79",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 1106,
-        "publicMessageId": 5320,
-        "matchedWith": null,
-        "rated": false,
-        "number": 717
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
