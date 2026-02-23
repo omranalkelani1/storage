@@ -1337,7 +1337,26 @@
         "number": 705
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 738,
+      "editDraft": {
+        "id": 738,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "20",
+        "maxQuantity": "50",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 1093,
+        "publicMessageId": 5305,
+        "matchedWith": null,
+        "rated": false,
+        "number": 705
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
