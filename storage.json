@@ -1358,7 +1358,7 @@
     "first_name": "..."
   },
   "offerSeq": 726,
-  "botEnabled": true,
+  "botEnabled": false,
   "6193222237": {
     "phone": "963960013368",
     "userId": 6193222237,
@@ -3264,7 +3264,11 @@
     "phone": "963958906438",
     "userId": 7132461559,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 759,
+      "offerOwnerId": 674299839
+    },
     "verify": {
       "step": null,
       "photos": []
