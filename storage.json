@@ -304,7 +304,9 @@
         "lockedBy": 681456385
       }
     ],
-    "current": {},
+    "current": {
+      "transform_way": "shamDolar"
+    },
     "verify": {
       "step": null,
       "photos": []
