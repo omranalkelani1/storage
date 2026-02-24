@@ -2546,7 +2546,7 @@
           "buyerId": 7977160463,
           "sellerId": 5331932891,
           "quantity": 300,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJOBmmdjZNLLIqtXY0FDXaTqzsIxZc9AAKKDWsbaM7xUMWZz_W3iMMwAQADAgADeQADOgQ"
           ],
