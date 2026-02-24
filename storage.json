@@ -290,14 +290,15 @@
           "buyerId": 681456385,
           "sellerId": 7132461559,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJOdWmeAAGLkOGdPZ3LulGCTumEjHz47wACLA5rG8jj8FD_1FYHkvdmtwEAAwIAA3kAAzoE",
             "AgACAgQAAxkBAAJOd2meAS6aS_UPTzT06lCRv5t9eBdtAAItDmsbyOPwUBtLV7tjSOq4AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1771962329380
+          "createdAt": 1771962329380,
+          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5"
         },
         "locked": true,
         "lockedBy": 681456385
