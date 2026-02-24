@@ -269,15 +269,24 @@
   "681456385": {
     "phone": "963969659058",
     "userId": 681456385,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "119",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 761,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 681456385,
+        "checkMessageId": 1116,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1429,7 +1438,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 760,
+  "forwardingNum": 761,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
