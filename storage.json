@@ -3803,14 +3803,7 @@
     "phone": "963939711071",
     "userId": 8190948101,
     "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.1",
-      "minQuantity": "10",
-      "maxQuantity": "10",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
