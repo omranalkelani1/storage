@@ -1460,7 +1460,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 199,
+  "tradeId": 200,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -2458,7 +2458,18 @@
         "publicMessageId": 5352,
         "matchedWith": null,
         "rated": false,
-        "number": 736
+        "number": 736,
+        "trade": {
+          "tradeId": 200,
+          "buyerId": 8190948101,
+          "sellerId": 5329698405,
+          "quantity": 200,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1772054769319
+        }
       }
     ],
     "current": {},
