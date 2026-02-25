@@ -2464,7 +2464,7 @@
           "buyerId": 8190948101,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJPSWmfeVBWJfTE-EMeb0QK3rgPklYIAAIeDWsbtGX5UJCHNCsz2HO6AQADAgADeQADOgQ"
           ],
