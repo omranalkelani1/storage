@@ -1744,7 +1744,10 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
