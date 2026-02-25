@@ -2464,12 +2464,14 @@
           "buyerId": 8190948101,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772054769319
-        }
+        },
+        "locked": true,
+        "lockedBy": 5329698405
       }
     ],
     "current": {},
@@ -2917,7 +2919,11 @@
     "phone": "963994898467",
     "userId": 6279148047,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 769,
+      "offerOwnerId": 6768982037
+    },
     "verify": {
       "step": null,
       "photos": []
