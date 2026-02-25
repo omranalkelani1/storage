@@ -3731,5 +3731,23 @@
     },
     "first_name": "راشد",
     "last_name": "الزعبي🇸🇾"
+  },
+  "8419432037": {
+    "phone": "963932410979",
+    "userId": 8419432037,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "بلال",
+    "last_name": "."
   }
 }
