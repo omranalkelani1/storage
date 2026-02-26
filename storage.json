@@ -2079,7 +2079,10 @@
         "lockedBy": 7777539707
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
