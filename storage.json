@@ -394,7 +394,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJP3WmgCmsuBW85fyIK97Tzkpnlkmd8AALmDGsbgEMAAVEFoltrcQYFewEAAwIAA3kAAzoE"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIG_GmgDN7_w-z0sPrQ8RMAAR-p0Z5PQgAC1AxrG7puAVG5eRBjRTMHfgEAAwIAA3kAAzoE"
+          ],
           "createdAt": 1772095447378,
           "paymentInfo": "قم بتحويل المبلغ الى الصورة المرسلة من قبل المشرف",
           "buyerPaymentInfo": "0x7dce28be6807d2a7defd80c04898e311e456db7d"
