@@ -2229,18 +2229,7 @@
         "publicMessageId": 5369,
         "matchedWith": null,
         "rated": false,
-        "number": 750,
-        "trade": {
-          "tradeId": 205,
-          "buyerId": 5134156042,
-          "sellerId": 1193489635,
-          "quantity": 200,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1772108698535
-        }
+        "number": 750
       }
     ],
     "current": {},
