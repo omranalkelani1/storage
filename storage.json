@@ -2122,7 +2122,10 @@
         "userId": 7777539707,
         "checkMessageId": 1135,
         "publicMessageId": 5363,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 5329698405,
+          "offerId": 782
+        },
         "rated": false,
         "number": 744
       }
@@ -2514,7 +2517,10 @@
         "userId": 5329698405,
         "checkMessageId": 1137,
         "publicMessageId": 5365,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7777539707",
+          "offerId": 780
+        },
         "rated": false,
         "number": 746
       }
