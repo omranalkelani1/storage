@@ -376,7 +376,10 @@
         "userId": 872282181,
         "checkMessageId": 1130,
         "publicMessageId": 5358,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7777539707",
+          "offerId": 774
+        },
         "rated": false,
         "number": 739
       }
@@ -2038,7 +2041,10 @@
         "userId": 7777539707,
         "checkMessageId": 1129,
         "publicMessageId": 5357,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 872282181,
+          "offerId": 775
+        },
         "rated": false,
         "number": 738
       }
