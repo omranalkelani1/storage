@@ -2011,7 +2011,8 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "11700"
     },
     "verify": {
       "step": null,
