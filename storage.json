@@ -387,7 +387,7 @@
           "buyerId": 7777539707,
           "sellerId": 872282181,
           "quantity": 20,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJPxmmgB-rEoYPkSNQNpZJgDI5V1OCjAAJVDWsbQTkBUUQqDCCbLV3vAQADAgADeQADOgQ"
           ],
@@ -396,7 +396,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772095447378,
-          "paymentInfo": "قم بتحويل المبلغ الى الصورة المرسلة من قبل المشرف"
+          "paymentInfo": "قم بتحويل المبلغ الى الصورة المرسلة من قبل المشرف",
+          "buyerPaymentInfo": "0x7dce28be6807d2a7defd80c04898e311e456db7d"
         },
         "locked": true,
         "lockedBy": 872282181
