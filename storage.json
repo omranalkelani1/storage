@@ -2481,13 +2481,14 @@
           "buyerId": 8190948101,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJPSWmfeVBWJfTE-EMeb0QK3rgPklYIAAIeDWsbtGX5UJCHNCsz2HO6AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772054769319
+          "createdAt": 1772054769319,
+          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65"
         },
         "locked": true,
         "lockedBy": 5329698405
