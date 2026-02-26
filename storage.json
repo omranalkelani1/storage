@@ -3739,25 +3739,13 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 785,
-      "editDraft": {
-        "id": 785,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.015",
-        "minQuantity": "200",
-        "maxQuantity": "1680",
-        "transform_way": "shamDolar",
-        "locked": false,
-        "status": "approved",
-        "userId": 5331932891,
-        "checkMessageId": 1140,
-        "publicMessageId": 5368,
-        "matchedWith": null,
-        "rated": false,
-        "number": 749
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "1.015",
+      "minQuantity": "200",
+      "maxQuantity": "1680",
+      "transform_way": "shamDolar",
+      "locked": false
     },
     "verify": {
       "step": null,
