@@ -3854,7 +3854,10 @@
     "phone": "963996562551",
     "userId": 5530500518,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
