@@ -3685,22 +3685,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 748,
-        "trade": {
-          "tradeId": 204,
-          "buyerId": 5530500518,
-          "sellerId": 5331932891,
-          "quantity": 500,
-          "step": "buyer_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJQc2mgFZOlBzVEifJQk0jUmRYwqtLFAAI_DGsbec4BUY6EyxDCg9ZAAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1772098796039,
-          "paymentInfo": "49113665104fd996d905d3e0ab8aa30b"
-        },
-        "locked": true,
-        "lockedBy": 5331932891
+        "locked": false
       }
     ],
     "current": {},
