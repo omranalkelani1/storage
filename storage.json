@@ -3739,15 +3739,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 785,
       "editDraft": {
         "id": 785,
         "operation": "بيع",
         "step": "askPayment",
         "price": "1.015",
-        "minQuantity": "500",
-        "maxQuantity": "1800",
+        "minQuantity": "200",
+        "maxQuantity": "1680",
         "transform_way": "shamDolar",
         "locked": false,
         "status": "approved",
