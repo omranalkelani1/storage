@@ -372,7 +372,7 @@
         "minQuantity": "20",
         "maxQuantity": "20",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 872282181,
         "checkMessageId": 1130,
         "publicMessageId": 5358,
@@ -382,25 +382,6 @@
         },
         "rated": false,
         "number": 739,
-        "trade": {
-          "tradeId": 203,
-          "buyerId": 7777539707,
-          "sellerId": 872282181,
-          "quantity": 20,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJPxmmgB-rEoYPkSNQNpZJgDI5V1OCjAAJVDWsbQTkBUUQqDCCbLV3vAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJP3WmgCmsuBW85fyIK97Tzkpnlkmd8AALmDGsbgEMAAVEFoltrcQYFewEAAwIAA3kAAzoE"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIG_GmgDN7_w-z0sPrQ8RMAAR-p0Z5PQgAC1AxrG7puAVG5eRBjRTMHfgEAAwIAA3kAAzoE"
-          ],
-          "createdAt": 1772095447378,
-          "paymentInfo": "قم بتحويل المبلغ الى الصورة المرسلة من قبل المشرف",
-          "buyerPaymentInfo": "0x7dce28be6807d2a7defd80c04898e311e456db7d"
-        },
         "locked": true,
         "lockedBy": 872282181
       }
@@ -412,7 +393,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 102,
+    "tradesCount": 103,
     "ratings": [
       {
         "from": 5129178902,
@@ -2078,7 +2059,7 @@
         "minQuantity": "20",
         "maxQuantity": "20",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 7777539707,
         "checkMessageId": 1129,
         "publicMessageId": 5357,
@@ -2088,17 +2069,6 @@
         },
         "rated": false,
         "number": 738,
-        "trade": {
-          "tradeId": 202,
-          "buyerId": 7777539707,
-          "sellerId": 1193489635,
-          "quantity": 20,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1772094662043
-        },
         "locked": true,
         "lockedBy": 7777539707
       }
@@ -2108,7 +2078,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 2,
     "ratings": [
       {
         "from": 872282181,
