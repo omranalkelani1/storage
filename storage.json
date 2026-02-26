@@ -1758,8 +1758,7 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "34.19"
+      "step": "askPrice"
     },
     "verify": {
       "step": "waiting_photos",
