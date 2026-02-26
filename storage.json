@@ -3729,7 +3729,7 @@
         "maxQuantity": "1800",
         "transform_way": "shamDolar",
         "locked": false,
-        "status": "approved",
+        "status": "rejected",
         "userId": 5331932891,
         "checkMessageId": 1140,
         "publicMessageId": 5368,
