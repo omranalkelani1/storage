@@ -1763,8 +1763,10 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "117"
+      "step": "askPayment",
+      "price": "117",
+      "minQuantity": "170.95",
+      "maxQuantity": "170.95"
     },
     "verify": {
       "step": "waiting_photos",
