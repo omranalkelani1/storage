@@ -3689,7 +3689,7 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 784,
       "editDraft": {
         "id": 784,
@@ -3697,7 +3697,7 @@
         "step": "askPayment",
         "price": "1.015",
         "minQuantity": "500",
-        "maxQuantity": "2000",
+        "maxQuantity": "1800",
         "transform_way": "shamDolar",
         "status": "approved",
         "userId": 5331932891,
