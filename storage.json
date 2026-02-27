@@ -412,13 +412,9 @@
         "matchedWith": null,
         "rated": false,
         "number": 768
-      }
-    ],
-    "current": {
-      "step": "editing_offer",
-      "editingOfferId": 804,
-      "editDraft": {
-        "id": 804,
+      },
+      {
+        "id": 805,
         "operation": "بيع",
         "step": "askPayment",
         "price": "116",
@@ -427,13 +423,14 @@
         "transform_way": "shamSy",
         "status": "approved",
         "userId": 872282181,
-        "checkMessageId": 1162,
-        "publicMessageId": 5394,
+        "checkMessageId": 1163,
+        "publicMessageId": null,
         "matchedWith": null,
         "rated": false,
-        "number": 768
+        "number": 769
       }
-    },
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1379,7 +1376,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 768,
+  "offerSeq": 769,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1475,7 +1472,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 804,
+  "forwardingNum": 805,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
