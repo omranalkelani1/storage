@@ -415,7 +415,7 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
+      "step": "editPrice",
       "editingOfferId": 804,
       "editDraft": {
         "id": 804,
