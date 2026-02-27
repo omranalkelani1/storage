@@ -2059,7 +2059,7 @@
         "minQuantity": "30",
         "maxQuantity": "70",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 7777539707,
         "checkMessageId": 1154,
         "publicMessageId": 5386,
@@ -2095,7 +2095,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 2,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 872282181,
@@ -2737,7 +2737,7 @@
         "minQuantity": "39",
         "maxQuantity": "39",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 7977160463,
         "checkMessageId": 1152,
         "publicMessageId": 5384,
@@ -2747,25 +2747,6 @@
         },
         "rated": false,
         "number": 758,
-        "trade": {
-          "tradeId": 207,
-          "buyerId": 7777539707,
-          "sellerId": 7977160463,
-          "quantity": 39,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJRp2mh5XxtJgkI8H1ic8tNNQKraYH5AAKxDmsbe-IQUSboKPQW_m3zAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJRr2mh54fdEE3U6je2-ixHBAi4NRaCAAJyDmsbTT4QUTJ4oX6kDW4BAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIHH2mh6uEvoPjthihaJxv_OrsYELbNAAIaDmsbSUYIUTwKhMnEVAP-AQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772217284819,
-          "paymentInfo": "f0bbd073f4f715652bd13f1eb3b79ee4",
-          "buyerPaymentInfo": "0x7dce28be6807d2a7defd80c04898e311e456db7d"
-        },
         "locked": true,
         "lockedBy": 7977160463
       }
@@ -2775,7 +2756,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 8,
+    "tradesCount": 9,
     "ratings": [
       {
         "from": 7892891785,
