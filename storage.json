@@ -2020,9 +2020,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "11500",
-      "minQuantity": "30"
+      "minQuantity": "30",
+      "maxQuantity": "70"
     },
     "verify": {
       "step": null,
