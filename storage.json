@@ -4088,7 +4088,10 @@
     "phone": "963996685078",
     "userId": 6537694249,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
