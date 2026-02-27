@@ -1361,7 +1361,7 @@
     "first_name": "..."
   },
   "offerSeq": 770,
-  "botEnabled": true,
+  "botEnabled": false,
   "6193222237": {
     "phone": "963960013368",
     "userId": 6193222237,
@@ -4089,8 +4089,9 @@
     "userId": 6537694249,
     "offers": [],
     "current": {
-      "operation": "بيع",
-      "step": "askPrice"
+      "step": "ask_quantity",
+      "offerId": 802,
+      "offerOwnerId": 674299839
     },
     "verify": {
       "step": "waiting_photos",
@@ -4104,5 +4105,23 @@
     },
     "first_name": "Mohammad Mojtaba",
     "last_name": "Alhelou"
+  },
+  "6870659510": {
+    "phone": null,
+    "userId": 6870659510,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
