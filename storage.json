@@ -2576,7 +2576,10 @@
     "phone": "963988809340",
     "userId": 7977160463,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
