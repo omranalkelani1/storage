@@ -2538,7 +2538,7 @@
           "buyerId": 7253603586,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJRxmmh7DodO6hd4lLLHCqgSBS1bGYIAAKgDWsbqXgRUReGD27ZZIZFAQADAgADeQADOgQ"
           ],
