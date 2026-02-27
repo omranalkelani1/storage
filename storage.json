@@ -2741,13 +2741,14 @@
           "buyerId": 7777539707,
           "sellerId": 7977160463,
           "quantity": 39,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJRp2mh5XxtJgkI8H1ic8tNNQKraYH5AAKxDmsbe-IQUSboKPQW_m3zAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772217284819
+          "createdAt": 1772217284819,
+          "paymentInfo": "f0bbd073f4f715652bd13f1eb3b79ee4"
         },
         "locked": true,
         "lockedBy": 7977160463
