@@ -2521,12 +2521,14 @@
           "buyerId": 7253603586,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772219075681
-        }
+        },
+        "locked": true,
+        "lockedBy": 5329698405
       }
     ],
     "current": {},
