@@ -2770,9 +2770,8 @@
     "userId": 5656362998,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 730,
-      "offerOwnerId": 6768982037
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
