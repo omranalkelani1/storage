@@ -414,7 +414,26 @@
         "number": 768
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 804,
+      "editDraft": {
+        "id": 804,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "117",
+        "minQuantity": "20",
+        "maxQuantity": "20",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 1162,
+        "publicMessageId": 5394,
+        "matchedWith": null,
+        "rated": false,
+        "number": 768
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
