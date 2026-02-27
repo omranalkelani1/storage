@@ -2741,12 +2741,14 @@
           "buyerId": 7777539707,
           "sellerId": 7977160463,
           "quantity": 39,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772217284819
-        }
+        },
+        "locked": true,
+        "lockedBy": 7977160463
       }
     ],
     "current": {},
