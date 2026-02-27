@@ -2537,7 +2537,10 @@
         "lockedBy": 5329698405
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
