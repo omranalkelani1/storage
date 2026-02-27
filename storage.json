@@ -225,12 +225,13 @@
         "minQuantity": "20",
         "maxQuantity": "20",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 674299839,
         "checkMessageId": 1160,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 767
       }
     ],
     "current": {},
@@ -1342,7 +1343,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 766,
+  "offerSeq": 767,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -2081,7 +2082,10 @@
         "userId": 7777539707,
         "checkMessageId": 1161,
         "publicMessageId": 5392,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7866209976",
+          "offerId": 801
+        },
         "rated": false,
         "number": 766
       }
@@ -2490,7 +2494,10 @@
         "userId": 5329698405,
         "checkMessageId": 1155,
         "publicMessageId": 5387,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7777539707,
+          "offerId": 803
+        },
         "rated": false,
         "number": 761
       },
@@ -2992,7 +2999,10 @@
         "userId": 7866209976,
         "checkMessageId": 1159,
         "publicMessageId": 5391,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7777539707,
+          "offerId": 803
+        },
         "rated": false,
         "number": 765
       }
