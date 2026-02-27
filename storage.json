@@ -2030,7 +2030,10 @@
         "userId": 7777539707,
         "checkMessageId": 1154,
         "publicMessageId": 5386,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7977160463",
+          "offerId": 794
+        },
         "rated": false,
         "number": 760
       }
@@ -2622,7 +2625,10 @@
         "userId": 7977160463,
         "checkMessageId": 1152,
         "publicMessageId": 5384,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7777539707,
+          "offerId": 796
+        },
         "rated": false,
         "number": 758
       }
