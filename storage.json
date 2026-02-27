@@ -2875,25 +2875,12 @@
   "5656362998": {
     "phone": "963981094421",
     "userId": 5656362998,
-    "offers": [
-      {
-        "id": 793,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "100",
-        "maxQuantity": "1142",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5656362998,
-        "checkMessageId": 1151,
-        "publicMessageId": 5383,
-        "matchedWith": null,
-        "rated": false,
-        "number": 757
-      }
-    ],
-    "current": {},
+    "offers": [],
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 799,
+      "offerOwnerId": 674299839
+    },
     "verify": {
       "step": null,
       "photos": [
