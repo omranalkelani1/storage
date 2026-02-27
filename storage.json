@@ -2554,7 +2554,7 @@
           "buyerId": 7253603586,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJRxmmh7DodO6hd4lLLHCqgSBS1bGYIAAKgDWsbqXgRUReGD27ZZIZFAQADAgADeQADOgQ"
           ],
@@ -2563,7 +2563,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772219075681,
-          "paymentInfo": "7047d580957551122c0719677cd1d19f"
+          "paymentInfo": "7047d580957551122c0719677cd1d19f",
+          "buyerPaymentInfo": "0xce3c53635111dcef1f47f7ed6a4eb41c78cb9afc"
         },
         "locked": true,
         "lockedBy": 5329698405
