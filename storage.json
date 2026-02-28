@@ -2511,7 +2511,9 @@
         "number": 779
       }
     ],
-    "current": {},
+    "current": {
+      "transform_way": "shamDolar"
+    },
     "verify": {
       "step": null,
       "photos": []
