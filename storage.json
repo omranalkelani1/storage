@@ -2527,14 +2527,14 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 815,
       "editDraft": {
         "id": 815,
         "operation": "بيع",
         "step": "askPayment",
         "price": "120",
-        "minQuantity": "200",
+        "minQuantity": "100",
         "maxQuantity": "300",
         "transform_way": "shamSy",
         "status": "approved",
