@@ -681,7 +681,10 @@
     "phone": "963931472541",
     "userId": 887904203,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
