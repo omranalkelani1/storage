@@ -2254,22 +2254,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 773
-      },
-      {
-        "id": 814,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.020",
-        "minQuantity": "100",
-        "maxQuantity": "350",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1175,
-        "publicMessageId": 5409,
-        "matchedWith": null,
-        "rated": false,
-        "number": 778
       }
     ],
     "current": {},
