@@ -2172,7 +2172,7 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
+      "step": "editQuantity",
       "editingOfferId": 807,
       "editDraft": {
         "id": 807,
