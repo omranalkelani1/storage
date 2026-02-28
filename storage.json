@@ -680,15 +680,24 @@
   "887904203": {
     "phone": "963931472541",
     "userId": 887904203,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "118",
-      "minQuantity": "200",
-      "maxQuantity": "400",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 813,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "200",
+        "maxQuantity": "400",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 887904203,
+        "checkMessageId": 1174,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1465,7 +1474,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 812,
+  "forwardingNum": 813,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
