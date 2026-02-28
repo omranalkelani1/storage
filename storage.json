@@ -2175,13 +2175,14 @@
           "buyerId": 5134156042,
           "sellerId": 1936619837,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJS_mmjMzMz8-61EWlsvSMkfgx70k-NAAKnDGsbbtwZURljMu51PoR-AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772302941300
+          "createdAt": 1772302941300,
+          "paymentInfo": "0936549901\n5000\n0939343984\n5000\n0988985716\n2400"
         },
         "locked": true,
         "lockedBy": 5134156042
@@ -2569,7 +2570,7 @@
         "status": "approved",
         "userId": 5329698405,
         "checkMessageId": 1182,
-        "publicMessageId": null,
+        "publicMessageId": 5416,
         "matchedWith": null,
         "rated": false,
         "number": 784
