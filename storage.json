@@ -2172,24 +2172,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 807,
-      "editDraft": {
-        "id": 807,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "100",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1166,
-        "publicMessageId": 5402,
-        "matchedWith": null,
-        "rated": false,
-        "number": 771
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "118",
+      "minQuantity": "100",
+      "maxQuantity": "200",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
