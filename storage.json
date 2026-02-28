@@ -3971,5 +3971,22 @@
       "count": 0,
       "history": []
     }
+  },
+  "5854490802": {
+    "phone": "963945334061",
+    "userId": 5854490802,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "3lashi"
   }
 }
