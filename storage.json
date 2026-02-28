@@ -2180,7 +2180,9 @@
             "AgACAgQAAxkBAAJS_mmjMzMz8-61EWlsvSMkfgx70k-NAAKnDGsbbtwZURljMu51PoR-AQADAgADeQADOgQ"
           ],
           "buyerProofs": [
-            "AgACAgIAAxkBAAJTEGmjOGTRpz_g5G2x6AfEMrgw7ZvEAAKoGGsb4joZSZ8mUtLWg4DqAQADAgADdwADOgQ"
+            "AgACAgIAAxkBAAJTEGmjOGTRpz_g5G2x6AfEMrgw7ZvEAAKoGGsb4joZSZ8mUtLWg4DqAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJTEWmjOGTxvTu_2zROoavMJpxHt2WUAAKpGGsb4joZSXMm3CwSQEzfAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJTEmmjOGRTcbRR-uSEOPwe-TFBuvK5AAKqGGsb4joZSVhWRGubozRMAQADAgADdwADOgQ"
           ],
           "adminProofs": [],
           "createdAt": 1772302941300,
