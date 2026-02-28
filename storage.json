@@ -2256,7 +2256,26 @@
         "number": 773
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 809,
+      "editDraft": {
+        "id": 809,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.020",
+        "minQuantity": "100",
+        "maxQuantity": "400",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 7751710380,
+        "checkMessageId": 1170,
+        "publicMessageId": 5404,
+        "matchedWith": null,
+        "rated": false,
+        "number": 773
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
