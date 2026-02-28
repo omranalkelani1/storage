@@ -2175,7 +2175,7 @@
           "buyerId": 5134156042,
           "sellerId": 1936619837,
           "quantity": 100,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJS_mmjMzMz8-61EWlsvSMkfgx70k-NAAKnDGsbbtwZURljMu51PoR-AQADAgADeQADOgQ"
           ],
@@ -2187,7 +2187,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772302941300,
-          "paymentInfo": "0936549901\n5000\n0939343984\n5000\n0988985716\n2400"
+          "paymentInfo": "0936549901\n5000\n0939343984\n5000\n0988985716\n2400",
+          "buyerPaymentInfo": "Usdt BEP20 \n\n0x886BB18C62722D0bB1E016d94B20A35818b8fe7F"
         },
         "locked": true,
         "lockedBy": 5134156042
