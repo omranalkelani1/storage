@@ -2182,7 +2182,8 @@
           "buyerProofs": [
             "AgACAgIAAxkBAAJTEGmjOGTRpz_g5G2x6AfEMrgw7ZvEAAKoGGsb4joZSZ8mUtLWg4DqAQADAgADdwADOgQ",
             "AgACAgIAAxkBAAJTEWmjOGTxvTu_2zROoavMJpxHt2WUAAKpGGsb4joZSXMm3CwSQEzfAQADAgADdwADOgQ",
-            "AgACAgIAAxkBAAJTEmmjOGRTcbRR-uSEOPwe-TFBuvK5AAKqGGsb4joZSVhWRGubozRMAQADAgADdwADOgQ"
+            "AgACAgIAAxkBAAJTEmmjOGRTcbRR-uSEOPwe-TFBuvK5AAKqGGsb4joZSVhWRGubozRMAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJTFmmjOI_tYcOpf6bTXJi9azrE3N31AAKsGGsb4joZSdfUxE8vBwdzAQADAgADeQADOgQ"
           ],
           "adminProofs": [],
           "createdAt": 1772302941300,
