@@ -4028,7 +4028,8 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.2"
     },
     "verify": {
       "step": null,
