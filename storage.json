@@ -3970,7 +3970,10 @@
     "phone": "963945334061",
     "userId": 5854490802,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
