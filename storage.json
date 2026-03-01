@@ -680,24 +680,7 @@
   "887904203": {
     "phone": "963931472541",
     "userId": 887904203,
-    "offers": [
-      {
-        "id": 813,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "200",
-        "maxQuantity": "400",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 887904203,
-        "checkMessageId": 1174,
-        "publicMessageId": 5407,
-        "matchedWith": null,
-        "rated": false,
-        "number": 776
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -715,24 +698,7 @@
   "892165414": {
     "phone": "963959694273",
     "userId": 892165414,
-    "offers": [
-      {
-        "id": 811,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.015",
-        "minQuantity": "1000",
-        "maxQuantity": "1000",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 892165414,
-        "checkMessageId": 1172,
-        "publicMessageId": 5406,
-        "matchedWith": null,
-        "rated": false,
-        "number": 775
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -870,24 +836,7 @@
     "phone": "963936452828",
     "userId": 1059889483,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 810,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.2",
-        "minQuantity": "600",
-        "maxQuantity": "600",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 1059889483,
-        "checkMessageId": 1171,
-        "publicMessageId": 5405,
-        "matchedWith": null,
-        "rated": false,
-        "number": 774
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2154,26 +2103,7 @@
     "phone": "380944698225",
     "userId": 5134156042,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 817,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "124",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "syriatel",
-        "status": "done",
-        "userId": 5134156042,
-        "checkMessageId": 1179,
-        "publicMessageId": 5413,
-        "matchedWith": null,
-        "rated": false,
-        "number": 781,
-        "locked": true,
-        "lockedBy": 5134156042
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2246,40 +2176,7 @@
     "phone": "963962893508",
     "userId": 7751710380,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 807,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "100",
-        "maxQuantity": "130",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 7751710380,
-        "checkMessageId": 1166,
-        "publicMessageId": 5402,
-        "matchedWith": null,
-        "rated": false,
-        "number": 771
-      },
-      {
-        "id": 809,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.020",
-        "minQuantity": "100",
-        "maxQuantity": "400",
-        "transform_way": "shamDolar",
-        "status": "rejected",
-        "userId": 7751710380,
-        "checkMessageId": 1170,
-        "publicMessageId": 5404,
-        "matchedWith": null,
-        "rated": false,
-        "number": 773
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2501,72 +2398,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 815,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "200",
-        "maxQuantity": "300",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 5329698405,
-        "checkMessageId": 1177,
-        "publicMessageId": 5411,
-        "matchedWith": null,
-        "rated": false,
-        "number": 779
-      },
-      {
-        "id": 818,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.03",
-        "minQuantity": "100",
-        "maxQuantity": "400",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1180,
-        "publicMessageId": 5414,
-        "matchedWith": null,
-        "rated": false,
-        "number": 782
-      },
-      {
-        "id": 819,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "100",
-        "maxQuantity": "300",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1181,
-        "publicMessageId": 5415,
-        "matchedWith": null,
-        "rated": false,
-        "number": 783
-      },
-      {
-        "id": 820,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.025",
-        "minQuantity": "100",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1182,
-        "publicMessageId": 5416,
-        "matchedWith": null,
-        "rated": false,
-        "number": 784
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4099,24 +3931,7 @@
   "5854490802": {
     "phone": "963945334061",
     "userId": 5854490802,
-    "offers": [
-      {
-        "id": 812,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "1000",
-        "maxQuantity": "2250",
-        "transform_way": "fuad",
-        "status": "approved",
-        "userId": 5854490802,
-        "checkMessageId": 1173,
-        "publicMessageId": 5408,
-        "matchedWith": null,
-        "rated": false,
-        "number": 777
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
