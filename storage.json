@@ -386,22 +386,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 829,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "100",
-        "maxQuantity": "200",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1201,
-        "publicMessageId": 5433,
-        "matchedWith": null,
-        "rated": false,
-        "number": 793
-      },
-      {
         "id": 830,
         "operation": "شراء",
         "step": "askPayment",
