@@ -2467,13 +2467,16 @@
         "status": "approved",
         "userId": 5329698405,
         "checkMessageId": 1195,
-        "publicMessageId": null,
+        "publicMessageId": 5425,
         "matchedWith": null,
         "rated": false,
         "number": 787
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
