@@ -4037,7 +4037,7 @@
         "status": "approved",
         "userId": 5512348806,
         "checkMessageId": 1200,
-        "publicMessageId": null,
+        "publicMessageId": 5432,
         "matchedWith": null,
         "rated": false,
         "number": 792
