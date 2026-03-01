@@ -330,6 +330,24 @@
       "history": []
     }
   },
+  "842757833": {
+    "phone": null,
+    "userId": 842757833,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "845923306": {
     "phone": "963935608055",
     "userId": 845923306,
@@ -2438,7 +2456,10 @@
     "userId": 5329698405,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
