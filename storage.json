@@ -1991,24 +1991,7 @@
     "phone": "12056183703",
     "userId": 7970479825,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 825,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119.5",
-        "minQuantity": "129.43",
-        "maxQuantity": "129.43",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 1197,
-        "publicMessageId": 5428,
-        "matchedWith": null,
-        "rated": false,
-        "number": 789
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2492,7 +2475,10 @@
         "number": 788
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
