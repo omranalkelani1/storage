@@ -4058,24 +4058,7 @@
   "5512348806": {
     "phone": "963991642029",
     "userId": 5512348806,
-    "offers": [
-      {
-        "id": 828,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.2",
-        "minQuantity": "55",
-        "maxQuantity": "55",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5512348806,
-        "checkMessageId": 1200,
-        "publicMessageId": 5432,
-        "matchedWith": null,
-        "rated": false,
-        "number": 792
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
