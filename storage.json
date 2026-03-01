@@ -2009,7 +2009,10 @@
         "number": 785
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
