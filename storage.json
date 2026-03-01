@@ -4026,7 +4026,10 @@
     "phone": "963991642029",
     "userId": 5512348806,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
