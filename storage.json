@@ -2473,22 +2473,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 788
-      },
-      {
-        "id": 826,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "200",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1198,
-        "publicMessageId": 5429,
-        "matchedWith": null,
-        "rated": false,
-        "number": 790
       }
     ],
     "current": {},
