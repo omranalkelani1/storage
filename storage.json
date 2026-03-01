@@ -2441,24 +2441,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 824,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.025",
-        "minQuantity": "100",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1196,
-        "publicMessageId": 5426,
-        "matchedWith": null,
-        "rated": false,
-        "number": 788
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
