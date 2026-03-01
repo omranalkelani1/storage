@@ -2443,22 +2443,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 823,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "100",
-        "maxQuantity": "300",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1195,
-        "publicMessageId": 5425,
-        "matchedWith": null,
-        "rated": false,
-        "number": 787
-      },
-      {
         "id": 824,
         "operation": "بيع",
         "step": "askPayment",
