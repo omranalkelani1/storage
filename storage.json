@@ -421,7 +421,7 @@
           "buyerId": 872282181,
           "sellerId": 7132461559,
           "quantity": 100,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJT3mmkkknVyecGnMi2QfSyW8DLbS5cAALnDGsbLg8pUaY9eWUHgXjuAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJT4GmkkpWfkXhC52lVQ75zfpipDhrWAALpDGsbLg8pUZGPkg8tctg2AQADAgADeQADOgQ",
