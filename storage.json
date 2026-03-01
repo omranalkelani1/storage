@@ -1209,7 +1209,10 @@
     "phone": "963931485695",
     "userId": 2010408574,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
