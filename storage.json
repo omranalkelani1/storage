@@ -452,12 +452,8 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 833,
-      "editDraft": {
-        "minQuantity": "100",
-        "maxQuantity": "167"
-      }
+      "minQuantity": "100",
+      "maxQuantity": "167"
     },
     "verify": {
       "step": null,
