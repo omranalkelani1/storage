@@ -449,12 +449,20 @@
         "matchedWith": null,
         "rated": false,
         "number": 801
+      },
+      {
+        "id": 838,
+        "minQuantity": "100",
+        "maxQuantity": "167",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 1210,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "minQuantity": "100",
-      "maxQuantity": "167"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1541,7 +1549,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 837,
+  "forwardingNum": 838,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
