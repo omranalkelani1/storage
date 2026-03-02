@@ -3259,24 +3259,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 842,
-      "editDraft": {
-        "id": 842,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "14",
-        "maxQuantity": "14",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7253603586,
-        "checkMessageId": 1214,
-        "publicMessageId": 5452,
-        "matchedWith": null,
-        "rated": false,
-        "number": 805
-      }
+      "operation": "شراء",
+      "step": "askPayment",
+      "price": "1.1",
+      "minQuantity": "14",
+      "maxQuantity": "14",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
