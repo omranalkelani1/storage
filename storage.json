@@ -165,15 +165,24 @@
   "647336851": {
     "phone": "963991708666",
     "userId": 647336851,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.025",
-      "minQuantity": "500",
-      "maxQuantity": "500",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 832,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.025",
+        "minQuantity": "500",
+        "maxQuantity": "500",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 647336851,
+        "checkMessageId": 1204,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1479,7 +1488,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 831,
+  "forwardingNum": 832,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
