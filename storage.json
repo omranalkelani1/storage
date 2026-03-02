@@ -484,13 +484,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 839,
       "editDraft": {
         "id": 839,
         "operation": "شراء",
         "step": "askPayment",
-        "price": "1.01",
+        "price": "1.015",
         "minQuantity": "100",
         "maxQuantity": "167",
         "transform_way": "shamDolar",
