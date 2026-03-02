@@ -490,12 +490,13 @@
         "minQuantity": "25",
         "maxQuantity": "25",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 872282181,
         "checkMessageId": 1215,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 806
       }
     ],
     "current": {},
@@ -1489,7 +1490,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 805,
+  "offerSeq": 806,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -1585,7 +1586,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 843,
+  "forwardingNum": 844,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -1676,15 +1677,24 @@
     "phone": "963983663625",
     "userId": 5693992074,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "117.5",
-      "minQuantity": "100",
-      "maxQuantity": "120",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 844,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "117.5",
+        "minQuantity": "100",
+        "maxQuantity": "120",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 5693992074,
+        "checkMessageId": 1216,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
