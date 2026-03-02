@@ -3309,22 +3309,6 @@
         "number": 805
       },
       {
-        "id": 848,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "14",
-        "maxQuantity": "14",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7253603586,
-        "checkMessageId": 1220,
-        "publicMessageId": 5458,
-        "matchedWith": null,
-        "rated": false,
-        "number": 811
-      },
-      {
         "id": 849,
         "operation": "شراء",
         "step": "askPayment",
