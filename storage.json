@@ -835,15 +835,24 @@
   "886198793": {
     "phone": "963995891250",
     "userId": 886198793,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.015",
-      "minQuantity": "200",
-      "maxQuantity": "210",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 850,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.015",
+        "minQuantity": "200",
+        "maxQuantity": "210",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 886198793,
+        "checkMessageId": 1222,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1625,7 +1634,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 849,
+  "forwardingNum": 850,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
