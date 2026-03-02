@@ -2285,7 +2285,10 @@
     "userId": 7777539707,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
