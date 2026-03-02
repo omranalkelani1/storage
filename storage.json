@@ -419,7 +419,26 @@
         "number": 797
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 833,
+      "editDraft": {
+        "id": 833,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "67",
+        "maxQuantity": "67",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 1205,
+        "publicMessageId": 5442,
+        "matchedWith": null,
+        "rated": false,
+        "number": 797
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
