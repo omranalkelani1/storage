@@ -3259,15 +3259,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 842,
       "editDraft": {
         "id": 842,
         "operation": "شراء",
         "step": "askPayment",
         "price": "1.1",
-        "minQuantity": "12",
-        "maxQuantity": "15",
+        "minQuantity": "14",
+        "maxQuantity": "14",
         "transform_way": "shamDolar",
         "status": "approved",
         "userId": 7253603586,
