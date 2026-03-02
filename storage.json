@@ -451,7 +451,10 @@
         "number": 801
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editQuantity",
+      "editingOfferId": 833
+    },
     "verify": {
       "step": null,
       "photos": [
