@@ -1782,7 +1782,7 @@
         "status": "approved",
         "userId": 5924567969,
         "checkMessageId": 1219,
-        "publicMessageId": null,
+        "publicMessageId": 5457,
         "matchedWith": null,
         "rated": false,
         "number": 810
@@ -3258,7 +3258,26 @@
         "number": 805
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 842,
+      "editDraft": {
+        "id": 842,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "12",
+        "maxQuantity": "15",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 7253603586,
+        "checkMessageId": 1214,
+        "publicMessageId": 5452,
+        "matchedWith": null,
+        "rated": false,
+        "number": 805
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
