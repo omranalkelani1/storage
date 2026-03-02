@@ -2560,22 +2560,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 798
-      },
-      {
-        "id": 835,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "200",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1207,
-        "publicMessageId": 5444,
-        "matchedWith": null,
-        "rated": false,
-        "number": 799
       }
     ],
     "current": {},
@@ -4141,5 +4125,23 @@
       "history": []
     },
     "first_name": "....."
+  },
+  "5867295682": {
+    "phone": null,
+    "userId": 5867295682,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
