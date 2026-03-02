@@ -384,42 +384,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 830,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "55",
-        "maxQuantity": "55",
-        "transform_way": "shamDolar",
-        "status": "rejected",
-        "userId": 872282181,
-        "checkMessageId": 1202,
-        "publicMessageId": 5434,
-        "matchedWith": null,
-        "rated": false,
-        "number": 794
-      },
-      {
-        "id": 831,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "25",
-        "maxQuantity": "200",
-        "transform_way": "shamDolar",
-        "status": "done",
-        "userId": 872282181,
-        "checkMessageId": 1203,
-        "publicMessageId": 5435,
-        "matchedWith": null,
-        "rated": false,
-        "number": 795,
-        "locked": true,
-        "lockedBy": 872282181
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2481,24 +2446,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 827,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.03",
-        "minQuantity": "200",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1199,
-        "publicMessageId": 5431,
-        "matchedWith": null,
-        "rated": false,
-        "number": 791
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4032,24 +3980,7 @@
   "5854490802": {
     "phone": "963945334061",
     "userId": 5854490802,
-    "offers": [
-      {
-        "id": 822,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "1250",
-        "maxQuantity": "2250",
-        "transform_way": "fuad",
-        "status": "approved",
-        "userId": 5854490802,
-        "checkMessageId": 1194,
-        "publicMessageId": 5423,
-        "matchedWith": null,
-        "rated": false,
-        "number": 786
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
