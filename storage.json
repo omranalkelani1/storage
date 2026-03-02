@@ -2576,22 +2576,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 799
-      },
-      {
-        "id": 841,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.015",
-        "minQuantity": "100",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1213,
-        "publicMessageId": 5450,
-        "matchedWith": null,
-        "rated": false,
-        "number": 804
       }
     ],
     "current": {},
