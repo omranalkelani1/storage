@@ -490,32 +490,13 @@
         "minQuantity": "100",
         "maxQuantity": "167",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 872282181,
         "checkMessageId": 1217,
         "publicMessageId": 5455,
         "matchedWith": null,
         "rated": false,
         "number": 808,
-        "trade": {
-          "tradeId": 211,
-          "buyerId": 872282181,
-          "sellerId": 6768982037,
-          "quantity": 140,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgIAAxkBAAJU4Gml1Suu__no15dUVuFqR7BFjkkAA2cQaxs3LTFJd0vyYmaq1qQBAAMCAAN5AAM6BA"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJVBmml2FYqKeWtnKVn1GLMrDWBypz5AAKLDGsbMA4xUetLQQVWslHVAQADAgADeAADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIHhmml2YWexFvAeDeOTVz3g3fEIs7_AAIXDWsbW4UwUWKdtOfHlYOoAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772472655388,
-          "paymentInfo": "fc1f1a491289eee8fc6af66903f1a9b8",
-          "buyerPaymentInfo": "نيتيويتيميميكي"
-        },
         "locked": true,
         "lockedBy": 872282181
       }
@@ -527,7 +508,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 105,
+    "tradesCount": 107,
     "ratings": [
       {
         "from": 5129178902,
