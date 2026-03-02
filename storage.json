@@ -3307,21 +3307,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 805
-      },
-      {
-        "id": 849,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "14",
-        "maxQuantity": "14",
-        "transform_way": "shamDolar",
-        "status": "pending",
-        "userId": 7253603586,
-        "checkMessageId": 1221,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
       }
     ],
     "current": {},
