@@ -481,22 +481,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 803
-      },
-      {
-        "id": 843,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "25",
-        "maxQuantity": "25",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1215,
-        "publicMessageId": 5453,
-        "matchedWith": null,
-        "rated": false,
-        "number": 806
       }
     ],
     "current": {},
