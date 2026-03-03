@@ -1464,14 +1464,15 @@
           "buyerId": 6193222237,
           "sellerId": 7132461559,
           "quantity": 200,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJWBmmnAAG1hWIbKqmBb3oiebVvIjhi8gACMA1rGwiUOFEUQhR9Kc3AtgEAAwIAA3kAAzoE",
             "AgACAgQAAxkBAAJWCGmnAaDnp4t61ORDvaSqDuYDdILhAAIxDWsbCJQ4UQ9hkgABveDpNwEAAwIAA3kAAzoE"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772552129503
+          "createdAt": 1772552129503,
+          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5"
         },
         "locked": true,
         "lockedBy": 6193222237
