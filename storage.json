@@ -4182,7 +4182,7 @@
           "buyerId": 872282181,
           "sellerId": 6468487434,
           "quantity": 20,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJVpGmmuW9SMmtOEQcLZO-zyCqYN2V7AAJhDGsb2cE5UegipmUnJg6GAQADAgADeQADOgQ"
           ],
