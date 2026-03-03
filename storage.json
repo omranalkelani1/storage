@@ -2306,24 +2306,7 @@
     "phone": "963962893508",
     "userId": 7751710380,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 856,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "100",
-        "maxQuantity": "136",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1228,
-        "publicMessageId": 5470,
-        "matchedWith": null,
-        "rated": false,
-        "number": 818
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
