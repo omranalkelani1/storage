@@ -823,12 +823,13 @@
         "minQuantity": "678",
         "maxQuantity": "678",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 910478313,
         "checkMessageId": 1239,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 829
       }
     ],
     "current": {},
@@ -1465,7 +1466,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 828,
+  "offerSeq": 829,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
