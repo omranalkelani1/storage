@@ -1918,7 +1918,12 @@
     "userId": 6768982037,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "confirm_quantity",
+      "offerId": 864,
+      "offerOwnerId": 6193222237,
+      "quantity": 297.03
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": [
@@ -2622,10 +2627,7 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askPayment",
-      "price": "125",
-      "minQuantity": "100",
-      "maxQuantity": "100"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
