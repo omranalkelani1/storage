@@ -1452,33 +1452,13 @@
         "minQuantity": "100",
         "maxQuantity": "500",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 6193222237,
         "checkMessageId": 1234,
         "publicMessageId": 5477,
         "matchedWith": null,
         "rated": false,
         "number": 824,
-        "trade": {
-          "tradeId": 213,
-          "buyerId": 6193222237,
-          "sellerId": 7132461559,
-          "quantity": 200,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJWBmmnAAG1hWIbKqmBb3oiebVvIjhi8gACMA1rGwiUOFEUQhR9Kc3AtgEAAwIAA3kAAzoE",
-            "AgACAgQAAxkBAAJWCGmnAaDnp4t61ORDvaSqDuYDdILhAAIxDWsbCJQ4UQ9hkgABveDpNwEAAwIAA3kAAzoE"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJWD2mnBmdGMMSUQYR3hnzlTMvIjRQ9AAJrDWsbWGw5UaeETK57Ox2hAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIHoWmnBwABIxVF804RCng_3YmasMrmAANyDWsb3OY4UW230_UYuZtmAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772552129503,
-          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5",
-          "buyerPaymentInfo": "تانظمموممظمك"
-        },
         "locked": true,
         "lockedBy": 6193222237
       }
@@ -1491,7 +1471,7 @@
         "AgACAgQAAxkBAAIQXWl3pPYrfGT580Zlqj5Z7vxfyu_OAALVDWsb89G4UyQxWMLxmP3AAQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 21,
+    "tradesCount": 23,
     "ratings": [
       {
         "from": 872282181,
