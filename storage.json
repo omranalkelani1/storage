@@ -2569,8 +2569,7 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "100"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
