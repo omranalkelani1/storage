@@ -1438,7 +1438,7 @@
         "status": "approved",
         "userId": 6193222237,
         "checkMessageId": 1234,
-        "publicMessageId": null,
+        "publicMessageId": 5477,
         "matchedWith": null,
         "rated": false,
         "number": 824
