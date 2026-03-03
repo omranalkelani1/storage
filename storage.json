@@ -4189,7 +4189,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJVq2mmuwUogclFnY-hGPyLMmbaNM-0AAJCDGsbMA45Uf4eB0Nb_BzGAQADAgADeAADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAxkBAAJVq2mmuwUogclFnY-hGPyLMmbaNM-0AAJCDGsbMA45Uf4eB0Nb_BzGAQADAgADeAADOgQ"
+          ],
           "createdAt": 1772533979791,
           "paymentInfo": "37ca575ab697eeebff11eae246f9345e",
           "buyerPaymentInfo": "مالنوبيتنظظ"
