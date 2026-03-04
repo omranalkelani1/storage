@@ -1425,7 +1425,7 @@
           "buyerId": 6193222237,
           "sellerId": 887904203,
           "quantity": 250,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJWm2mn4Rjz_UDnnw-9-a2GtGMGRnoNAAKaDGsbWKlAUbc3PFZnOoLsAQADAgADeQADOgQ"
           ],
