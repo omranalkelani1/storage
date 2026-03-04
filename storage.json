@@ -2584,7 +2584,7 @@
           "buyerId": 7977160463,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJW82moQhhPeLMJSm1TT5_mirpLddGNAAJjDGsbNeBAUQMbD4tLJs5qAQADAgADeQADOgQ"
           ],
