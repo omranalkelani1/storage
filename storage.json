@@ -1704,7 +1704,7 @@
         "status": "approved",
         "userId": 5924567969,
         "checkMessageId": 1249,
-        "publicMessageId": null,
+        "publicMessageId": 5500,
         "matchedWith": null,
         "rated": false,
         "number": 839
@@ -1712,7 +1712,8 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "117"
     },
     "verify": {
       "step": null,
