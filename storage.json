@@ -200,15 +200,24 @@
   "674299839": {
     "phone": "905050096380",
     "userId": 674299839,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.010",
-      "minQuantity": "32",
-      "maxQuantity": "32",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 879,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.010",
+        "minQuantity": "32",
+        "maxQuantity": "32",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 674299839,
+        "checkMessageId": 1251,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1537,7 +1546,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 878,
+  "forwardingNum": 879,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
