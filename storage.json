@@ -2584,7 +2584,7 @@
           "buyerId": 7977160463,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJW82moQhhPeLMJSm1TT5_mirpLddGNAAJjDGsbNeBAUQMbD4tLJs5qAQADAgADeQADOgQ"
           ],
@@ -2593,7 +2593,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772634443951,
-          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65"
+          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65",
+          "buyerPaymentInfo": "0x6c38d80abadbb96bd09bc5b4ead5f90b2a9fc515"
         },
         "locked": true,
         "lockedBy": 5329698405
