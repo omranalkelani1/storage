@@ -1729,7 +1729,7 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 32,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJXOGmoXgk_N1aYiAABeRe6LhOh--PX0gACOQxrG4f3SVHTMiq86Wxl-wEAAwIAA3kAAzoE"
           ],
