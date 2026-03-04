@@ -2836,24 +2836,7 @@
   "7977160463": {
     "phone": "963988809340",
     "userId": 7977160463,
-    "offers": [
-      {
-        "id": 872,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "100",
-        "maxQuantity": "198",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7977160463,
-        "checkMessageId": 1244,
-        "publicMessageId": 5493,
-        "matchedWith": null,
-        "rated": false,
-        "number": 834
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
