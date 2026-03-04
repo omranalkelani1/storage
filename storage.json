@@ -1729,12 +1729,14 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 32,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772641725271
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
