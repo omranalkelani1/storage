@@ -1425,12 +1425,14 @@
           "buyerId": 6193222237,
           "sellerId": 887904203,
           "quantity": 250,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772609490657
-        }
+        },
+        "locked": true,
+        "lockedBy": 6193222237
       },
       {
         "id": 870,
