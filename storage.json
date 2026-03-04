@@ -1425,13 +1425,14 @@
           "buyerId": 6193222237,
           "sellerId": 887904203,
           "quantity": 250,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJWm2mn4Rjz_UDnnw-9-a2GtGMGRnoNAAKaDGsbWKlAUbc3PFZnOoLsAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772609490657
+          "createdAt": 1772609490657,
+          "paymentInfo": "877f6062b51856213a6fc83f22a84d40"
         },
         "locked": true,
         "lockedBy": 6193222237
