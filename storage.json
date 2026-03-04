@@ -1428,22 +1428,6 @@
         "number": 831,
         "locked": true,
         "lockedBy": 6193222237
-      },
-      {
-        "id": 870,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "20",
-        "maxQuantity": "90",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 6193222237,
-        "checkMessageId": 1242,
-        "publicMessageId": 5489,
-        "matchedWith": null,
-        "rated": false,
-        "number": 832
       }
     ],
     "current": {},
