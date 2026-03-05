@@ -1716,12 +1716,14 @@
           "buyerId": 219509227,
           "sellerId": 5924567969,
           "quantity": 69,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772702390530
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
