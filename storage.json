@@ -384,24 +384,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 883,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "10",
-        "maxQuantity": "25",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1255,
-        "publicMessageId": 5512,
-        "matchedWith": null,
-        "rated": false,
-        "number": 845
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
