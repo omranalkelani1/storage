@@ -3061,7 +3061,7 @@
           "buyerId": 872282181,
           "sellerId": 5860846249,
           "quantity": 40,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJYVWmpm5R9KQk9RILVIJPyNHjYprtuAAIgDWsbQFNJUQK7Q6Rnht_8AQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJYV2mpm7CW4r-3NKGV1QUqrwbIWm2YAAIhDWsbQFNJUabgQ8uKry2SAQADAgADeQADOgQ"
