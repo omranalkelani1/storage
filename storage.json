@@ -1716,7 +1716,7 @@
           "buyerId": 219509227,
           "sellerId": 5924567969,
           "quantity": 69,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJX-GmpSwJlZ4dbsdMd4LX6JyvQq5CaAAJxDWsbvm5JUSjtIPNs3XkKAQADAgADeQADOgQ"
           ],
