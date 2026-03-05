@@ -4374,5 +4374,22 @@
       "count": 0,
       "history": []
     }
+  },
+  "5988071824": {
+    "phone": "963935566319",
+    "userId": 5988071824,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Fadi"
   }
 }
