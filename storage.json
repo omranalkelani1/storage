@@ -2579,7 +2579,8 @@
     "current": {
       "step": "ask_quantity",
       "offerId": 882,
-      "offerOwnerId": 7757323175
+      "offerOwnerId": 7757323175,
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
