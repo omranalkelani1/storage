@@ -3763,7 +3763,10 @@
     "phone": "963998881834",
     "userId": 5173484801,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
