@@ -2839,7 +2839,7 @@
           "buyerId": 7977160463,
           "sellerId": 5173484801,
           "quantity": 150,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJYWmmpnDnra3YPYHqPCs2-lgnzqO0YAAJGDWsb9s1RUdYLjAg14zxPAQADAgADeQADOgQ"
           ],
