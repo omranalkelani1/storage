@@ -1749,13 +1749,14 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 17.5,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJY0mmp1yeHFGxnOUDM99wuHm8KKYQ9AAImDWsbvm5RUTl1w5H6BP4mAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772738042484
+          "createdAt": 1772738042484,
+          "paymentInfo": "2d6690127a02324ac3f42208d5df537c"
         },
         "locked": true,
         "lockedBy": 5924567969
