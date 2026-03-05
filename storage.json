@@ -2670,24 +2670,13 @@
         "minQuantity": "25",
         "maxQuantity": "25",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "rejected",
         "userId": 5129762526,
         "checkMessageId": 1259,
         "publicMessageId": 5516,
         "matchedWith": null,
         "rated": false,
-        "number": 849,
-        "trade": {
-          "tradeId": 220,
-          "buyerId": 5711339604,
-          "sellerId": 5129762526,
-          "quantity": 25,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1772729452991
-        }
+        "number": 849
       }
     ],
     "current": {},
