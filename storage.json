@@ -402,7 +402,11 @@
         "number": 848
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 892,
+      "offerOwnerId": 5860846249
+    },
     "verify": {
       "step": null,
       "photos": [
@@ -2839,12 +2843,14 @@
           "buyerId": 7977160463,
           "sellerId": 5173484801,
           "quantity": 150,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772722055311
-        }
+        },
+        "locked": true,
+        "lockedBy": 7977160463
       }
     ],
     "current": {},
