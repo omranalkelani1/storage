@@ -2576,12 +2576,7 @@
     "userId": 5129762526,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "step": "ask_quantity",
-      "offerId": 882,
-      "offerOwnerId": 7757323175,
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
