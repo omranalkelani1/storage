@@ -1720,7 +1720,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJX-GmpSwJlZ4dbsdMd4LX6JyvQq5CaAAJxDWsbvm5JUSjtIPNs3XkKAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJYAAFpqUwsgRDINOMDsw28d7ppJVX5pgACJQ1rG9XjSVGf5awUvJAT9AEAAwIAA3kAAzoE"
+          ],
           "adminProofs": [],
           "createdAt": 1772702390530,
           "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
