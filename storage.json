@@ -3010,9 +3010,8 @@
     "userId": 5860846249,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 738,
-      "offerOwnerId": 6193222237
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
