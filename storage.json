@@ -4075,7 +4075,10 @@
     "phone": "963988819626",
     "userId": 5711339604,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
