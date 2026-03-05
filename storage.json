@@ -2164,7 +2164,10 @@
     "userId": 7777539707,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4173,6 +4176,24 @@
   "5144291345": {
     "phone": null,
     "userId": 5144291345,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "7956980808": {
+    "phone": null,
+    "userId": 7956980808,
     "offers": [],
     "current": {
       "step": "askPhone"
