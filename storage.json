@@ -402,11 +402,7 @@
         "number": 848
       }
     ],
-    "current": {
-      "step": "ask_quantity",
-      "offerId": 892,
-      "offerOwnerId": 5860846249
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1595,7 +1591,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 218,
+  "tradeId": 219,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -3057,7 +3053,18 @@
         "publicMessageId": 5522,
         "matchedWith": null,
         "rated": false,
-        "number": 854
+        "number": 854,
+        "trade": {
+          "tradeId": 219,
+          "buyerId": 872282181,
+          "sellerId": 5860846249,
+          "quantity": 40,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1772722808659
+        }
       }
     ],
     "current": {},
