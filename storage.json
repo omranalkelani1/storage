@@ -1697,9 +1697,8 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 872,
-      "offerOwnerId": 7977160463
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
@@ -2175,7 +2174,7 @@
         "status": "approved",
         "userId": 7777539707,
         "checkMessageId": 1260,
-        "publicMessageId": null,
+        "publicMessageId": 5517,
         "matchedWith": null,
         "rated": false,
         "number": 850
