@@ -2320,22 +2320,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 846
-      },
-      {
-        "id": 885,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "200",
-        "maxQuantity": "260",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1257,
-        "publicMessageId": 5514,
-        "matchedWith": null,
-        "rated": false,
-        "number": 847
       }
     ],
     "current": {},
