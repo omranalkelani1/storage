@@ -3765,9 +3765,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1.02",
-      "minQuantity": "50"
+      "minQuantity": "50",
+      "maxQuantity": "1050"
     },
     "verify": {
       "step": null,
