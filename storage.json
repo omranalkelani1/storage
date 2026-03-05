@@ -2712,24 +2712,7 @@
     "phone": "963969313579",
     "userId": 5129762526,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 887,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.2",
-        "minQuantity": "25",
-        "maxQuantity": "25",
-        "transform_way": "shamDolar",
-        "status": "rejected",
-        "userId": 5129762526,
-        "checkMessageId": 1259,
-        "publicMessageId": 5516,
-        "matchedWith": null,
-        "rated": false,
-        "number": 849
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
