@@ -1822,6 +1822,11 @@
         "from": 219509227,
         "rate": 2,
         "date": 1772704652467
+      },
+      {
+        "from": 872282181,
+        "rate": 5,
+        "date": 1772740762563
       }
     ],
     "strikes": {
@@ -3468,7 +3473,11 @@
     "phone": "966501462544",
     "userId": 7426160683,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 899,
+      "offerOwnerId": 1059889483
+    },
     "verify": {
       "step": null,
       "photos": []
