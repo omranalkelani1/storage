@@ -228,13 +228,14 @@
           "buyerId": 7892891785,
           "sellerId": 621993016,
           "quantity": 321.2,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJbImmrNEm7uBljzTIHATF58ScnNxbPAAJ-DWsb8sdYUZZAohkSMA3cAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772827373103
+          "createdAt": 1772827373103,
+          "paymentInfo": "e5af3fa2bacb3c5dffd2c8ef949ef4b7"
         },
         "locked": true,
         "lockedBy": 621993016
