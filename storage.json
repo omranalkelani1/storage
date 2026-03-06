@@ -228,7 +228,7 @@
           "buyerId": 7892891785,
           "sellerId": 621993016,
           "quantity": 321.2,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJbImmrNEm7uBljzTIHATF58ScnNxbPAAJ-DWsb8sdYUZZAohkSMA3cAQADAgADeQADOgQ"
           ],
