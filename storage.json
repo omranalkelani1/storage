@@ -2352,7 +2352,9 @@
           "buyerProofs": [
             "AgACAgIAAxkBAAJaRGmrAyjpQAlLaLH_W5_CvsF8rOALAAIfFmsbwwxZSde1gmqOF_JoAQADAgADdwADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIILWmrBL5ZMGi55HT0OB7rZvRMWwJtAAIYDWsb2HNYUT2e8N6bbI34AQADAgADeQADOgQ"
+          ],
           "createdAt": 1772814859048,
           "paymentInfo": "e5af3fa2bacb3c5dffd2c8ef949ef4b7",
           "buyerPaymentInfo": "Usdt BEP20 \n\n0x886BB18C62722D0bB1E016d94B20A35818b8fe7F"
