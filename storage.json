@@ -2552,32 +2552,13 @@
         "minQuantity": "100",
         "maxQuantity": "500",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 5329698405,
         "checkMessageId": 1275,
         "publicMessageId": 5538,
         "matchedWith": null,
         "rated": false,
         "number": 865,
-        "trade": {
-          "tradeId": 224,
-          "buyerId": 5711339604,
-          "sellerId": 5329698405,
-          "quantity": 175,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJZmGmqzQGwE_7RK19R75gKD0x9p-c3AAKnDWsb8DhQUXx_C2fD3X3uAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJZn2mqzxJsyNZF_s7-tMwjUTInVq9JAAL6DGsbsDNZUensYv0ZOFB7AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIC2mq0bWHDfqufCl6M_j__qPSn1wcAAIlDWsb6PRYUXh_gV1z5YnHAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772800832520,
-          "paymentInfo": "7047d580957551122c0719677cd1d19f",
-          "buyerPaymentInfo": "0xf754decec4e7d5e113474ad7f7ecc813fd5c9d5c"
-        },
         "locked": true,
         "lockedBy": 5329698405
       },
@@ -2619,7 +2600,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 6,
+    "tradesCount": 7,
     "ratings": [
       {
         "from": 872282181,
@@ -4001,7 +3982,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [],
     "strikes": {
       "count": 0,
