@@ -216,32 +216,13 @@
         "minQuantity": "300",
         "maxQuantity": "400",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 621993016,
         "checkMessageId": 1289,
         "publicMessageId": 5552,
         "matchedWith": null,
         "rated": false,
         "number": 879,
-        "trade": {
-          "tradeId": 229,
-          "buyerId": 7892891785,
-          "sellerId": 621993016,
-          "quantity": 321.2,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJbImmrNEm7uBljzTIHATF58ScnNxbPAAJ-DWsb8sdYUZZAohkSMA3cAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJbPWmrNNo_Kvj2bSrUqw1lRIstA1tmAAK3DWsbXWVZUYgMr03Uq9bbAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIRGmrNix3aeGAVP3nw7cqxBSUYiQNAAJADWsb2HNYUYwXfG1VA5nEAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772827373103,
-          "paymentInfo": "e5af3fa2bacb3c5dffd2c8ef949ef4b7",
-          "buyerPaymentInfo": "0x381ff77eabeb792ad000d06e3002e4fc4a8211f5"
-        },
         "locked": true,
         "lockedBy": 621993016
       },
@@ -267,7 +248,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [],
     "strikes": {
       "count": 0,
@@ -2533,7 +2514,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 2,
     "ratings": [
       {
         "from": 7977160463,
