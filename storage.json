@@ -3334,7 +3334,7 @@
           "buyerId": 2134053545,
           "sellerId": 7426160683,
           "quantity": 100,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJZaWmqwnc7aMw6cLkDEFDeF6xsJFFMAAIsDmsbcXdZUUaJz-PhGRe-AQADAgADeQADOgQ"
           ],
