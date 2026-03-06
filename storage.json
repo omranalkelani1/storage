@@ -771,7 +771,9 @@
           "sellerId": 886198793,
           "quantity": 500,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJZ32mq6TGG8EryBoTjmTKMuZdXLfwGAAIbDWsbeWhZUSIS6wmhGhHOAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772807281469
