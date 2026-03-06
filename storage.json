@@ -201,7 +201,10 @@
         "userId": 621993016,
         "checkMessageId": 1283,
         "publicMessageId": 5546,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7777539707,
+          "offerId": 923
+        },
         "rated": false,
         "number": 873
       },
@@ -2314,7 +2317,10 @@
         "userId": 7777539707,
         "checkMessageId": 1295,
         "publicMessageId": 5558,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "7751710380",
+          "offerId": 920
+        },
         "rated": false,
         "number": 885
       }
@@ -2533,7 +2539,10 @@
         "userId": 7751710380,
         "checkMessageId": 1292,
         "publicMessageId": 5556,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7777539707,
+          "offerId": 923
+        },
         "rated": false,
         "number": 883
       }
