@@ -265,7 +265,7 @@
         "AgACAgQAAxkBAAI7v2mPCHjJWN5Gafl4_OD3WLEnBy7DAAIsD2sba4R5ULrBFC82s7rpAQADAgADeQADOgQ"
       ]
     },
-    "tradesCount": 5,
+    "tradesCount": 6,
     "ratings": [
       {
         "from": 7970479825,
@@ -4324,32 +4324,13 @@
         "minQuantity": "20",
         "maxQuantity": "20",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 6468487434,
         "checkMessageId": 1282,
         "publicMessageId": 5545,
         "matchedWith": null,
         "rated": false,
         "number": 872,
-        "trade": {
-          "tradeId": 226,
-          "buyerId": 674299839,
-          "sellerId": 6468487434,
-          "quantity": 20,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJaKGmrAStiTz3BILH8cAyDqCsBznFIAAJUDWsbnlZYUTs9RTPaCBSdAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJaPWmrAscDSmsaVR-gvgx3Q7stGsPYAAKIDWsb9i5YUfGNLFqohbg0AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIK2mrA9GXa1Xw4pIRTeeAh1mldCElAAIRDWsb2HNYUc2TaZ1F15hKAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772814439527,
-          "paymentInfo": "37ca575ab697eeebff11eae246f9345e",
-          "buyerPaymentInfo": "0x7425dea1612cd1c9e726cfc5dd1afd700a268b91"
-        },
         "locked": true,
         "lockedBy": 6468487434
       }
@@ -4359,7 +4340,7 @@
       "step": "waiting_photos",
       "photos": []
     },
-    "tradesCount": 1,
+    "tradesCount": 2,
     "ratings": [
       {
         "from": 872282181,
