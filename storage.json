@@ -1658,7 +1658,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 922,
+  "forwardingNum": 923,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2301,15 +2301,24 @@
     "phone": "963957762733",
     "userId": 7777539707,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "11700",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 923,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "11700",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 7777539707,
+        "checkMessageId": 1295,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
