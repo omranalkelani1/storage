@@ -2564,7 +2564,7 @@
           "buyerId": 5711339604,
           "sellerId": 5329698405,
           "quantity": 175,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJZmGmqzQGwE_7RK19R75gKD0x9p-c3AAKnDWsb8DhQUXx_C2fD3X3uAQADAgADeQADOgQ"
           ],
