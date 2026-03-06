@@ -3813,7 +3813,8 @@
       "step": "askPayment",
       "price": "1.02",
       "minQuantity": "50",
-      "maxQuantity": "280"
+      "maxQuantity": "280",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
