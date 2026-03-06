@@ -2547,12 +2547,14 @@
           "buyerId": 5711339604,
           "sellerId": 5329698405,
           "quantity": 175,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772800832520
-        }
+        },
+        "locked": true,
+        "lockedBy": 5329698405
       },
       {
         "id": 904,
