@@ -2406,7 +2406,7 @@
           "buyerId": 5134156042,
           "sellerId": 6279148047,
           "quantity": 100,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJbB2mrL_44u80mf-LVjDZzW4jXkPjvAAJuDWsbRq9YURDgvWeb0dEjAQADAgADeQADOgQ"
           ],
