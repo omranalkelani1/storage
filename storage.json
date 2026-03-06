@@ -1665,13 +1665,11 @@
     }
   },
   "6866161662": {
-    "phone": null,
+    "phone": "46769281310",
     "userId": 6866161662,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1681,7 +1679,8 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "Yasser"
   },
   "6714332897": {
     "phone": "491796919450",
