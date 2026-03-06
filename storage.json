@@ -3329,19 +3329,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 863,
-        "trade": {
-          "tradeId": 222,
-          "buyerId": 2134053545,
-          "sellerId": 7426160683,
-          "quantity": 200,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1772796863270
-        },
-        "locked": true,
-        "lockedBy": 7426160683
+        "locked": false
       },
       {
         "id": 902,
