@@ -2253,7 +2253,7 @@
           "buyerId": 674299839,
           "sellerId": 7970479825,
           "quantity": 42.1,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgEAAxkBAAJbrmmrTyVMLIGFIAji5NdbRbuZddZkAAKkC2sbxx1ZRTjkvOeouR9MAQADAgADeQADOgQ"
           ],
