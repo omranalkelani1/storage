@@ -3451,9 +3451,8 @@
     "userId": 7747316413,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 791,
-      "offerOwnerId": 674299839
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
