@@ -3482,7 +3482,9 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "transform_way": "shamDolar"
+    },
     "verify": {
       "step": null,
       "photos": []
