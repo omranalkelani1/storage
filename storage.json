@@ -4318,7 +4318,7 @@
           "buyerId": 674299839,
           "sellerId": 6468487434,
           "quantity": 20,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJaKGmrAStiTz3BILH8cAyDqCsBznFIAAJUDWsbnlZYUTs9RTPaCBSdAQADAgADeQADOgQ"
           ],
