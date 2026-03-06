@@ -2553,27 +2553,7 @@
     "phone": "963962893508",
     "userId": 7751710380,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 920,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1292,
-        "publicMessageId": 5556,
-        "matchedWith": {
-          "userId": 7777539707,
-          "offerId": 923
-        },
-        "rated": false,
-        "number": 883
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
