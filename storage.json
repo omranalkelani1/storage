@@ -4336,7 +4336,7 @@
           "buyerId": 674299839,
           "sellerId": 6468487434,
           "quantity": 20,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJaKGmrAStiTz3BILH8cAyDqCsBznFIAAJUDWsbnlZYUTs9RTPaCBSdAQADAgADeQADOgQ"
           ],
@@ -4345,7 +4345,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772814439527,
-          "paymentInfo": "37ca575ab697eeebff11eae246f9345e"
+          "paymentInfo": "37ca575ab697eeebff11eae246f9345e",
+          "buyerPaymentInfo": "0x7425dea1612cd1c9e726cfc5dd1afd700a268b91"
         },
         "locked": true,
         "lockedBy": 6468487434
