@@ -770,14 +770,15 @@
           "buyerId": 7892891785,
           "sellerId": 886198793,
           "quantity": 500,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJZ32mq6TGG8EryBoTjmTKMuZdXLfwGAAIbDWsbeWhZUSIS6wmhGhHOAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJZ4Wmq6brf6uNf1mnSIOm62d8QMt4FAAIdDWsbeWhZUUfpZNhTai_HAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772807281469
+          "createdAt": 1772807281469,
+          "paymentInfo": "3463f600cf3f23a838471c1861a010a3"
         },
         "locked": true,
         "lockedBy": 886198793
