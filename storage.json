@@ -3329,25 +3329,7 @@
   "7426160683": {
     "phone": "966501462544",
     "userId": 7426160683,
-    "offers": [
-      {
-        "id": 902,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7426160683,
-        "checkMessageId": 1274,
-        "publicMessageId": 5537,
-        "matchedWith": null,
-        "rated": false,
-        "number": 864,
-        "locked": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
