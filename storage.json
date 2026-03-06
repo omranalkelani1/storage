@@ -747,6 +747,15 @@
         "publicMessageId": null,
         "matchedWith": null,
         "rated": false
+      },
+      {
+        "id": 908,
+        "status": "pending",
+        "userId": 886198793,
+        "checkMessageId": 1280,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
     "current": {},
@@ -1538,7 +1547,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 907,
+  "forwardingNum": 908,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
