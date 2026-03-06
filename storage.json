@@ -2222,7 +2222,8 @@
       "step": "askPayment",
       "price": "1.02",
       "minQuantity": "42.1",
-      "maxQuantity": "42.1"
+      "maxQuantity": "42.1",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
@@ -2445,7 +2446,10 @@
             "AgACAgQAAxkBAAJbB2mrL_44u80mf-LVjDZzW4jXkPjvAAJuDWsbRq9YURDgvWeb0dEjAQADAgADeQADOgQ"
           ],
           "buyerProofs": [
-            "AgACAgIAAxkBAAJbMmmrNJ_IsTCmxy8vcYTm4PpvLRQ_AAIdGGsbwwxZSTAYY63b-P3PAQADAgADdwADOgQ"
+            "AgACAgIAAxkBAAJbMmmrNJ_IsTCmxy8vcYTm4PpvLRQ_AAIdGGsbwwxZSTAYY63b-P3PAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJbM2mrNJ_NiR4UIBtWi9UX6_s51qHBAAIeGGsbwwxZSS_XMYYnBLknAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJbNGmrNJ8fUGzGB5mP0kUTgD2vBcGFAAIfGGsbwwxZSW6kieaES0-lAQADAgADdwADOgQ",
+            "AgACAgIAAxkBAAJbNWmrNJ_d2cINexTWCqkJiVho9YDJAAIgGGsbwwxZSV89CGQI8egXAQADAgADdwADOgQ"
           ],
           "adminProofs": [],
           "createdAt": 1772826206087,
