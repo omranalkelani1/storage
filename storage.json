@@ -2345,7 +2345,7 @@
           "buyerId": 5134156042,
           "sellerId": 621993016,
           "quantity": 400,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJaOWmrAqTxXHBJphcthuCdX8Hv3cVzAAJlDWsb8sdYUb7CQSCk56ZAAQADAgADeQADOgQ"
           ],
