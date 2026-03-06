@@ -2444,7 +2444,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJbB2mrL_44u80mf-LVjDZzW4jXkPjvAAJuDWsbRq9YURDgvWeb0dEjAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgIAAxkBAAJbMmmrNJ_IsTCmxy8vcYTm4PpvLRQ_AAIdGGsbwwxZSTAYY63b-P3PAQADAgADdwADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1772826206087,
           "paymentInfo": "0993638646\n5450\n0996853496\n5450\n0992636038\n1300"
