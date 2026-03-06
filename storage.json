@@ -770,7 +770,7 @@
           "buyerId": 7892891785,
           "sellerId": 886198793,
           "quantity": 500,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJZ32mq6TGG8EryBoTjmTKMuZdXLfwGAAIbDWsbeWhZUSIS6wmhGhHOAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJZ4Wmq6brf6uNf1mnSIOm62d8QMt4FAAIdDWsbeWhZUUfpZNhTai_HAQADAgADeQADOgQ"
