@@ -2545,8 +2545,9 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "120"
+      "step": "askMaxQuantity",
+      "price": "120",
+      "minQuantity": "200"
     },
     "verify": {
       "step": null,
@@ -3341,7 +3342,7 @@
         "status": "approved",
         "userId": 7426160683,
         "checkMessageId": 1274,
-        "publicMessageId": null,
+        "publicMessageId": 5537,
         "matchedWith": null,
         "rated": false,
         "number": 864
