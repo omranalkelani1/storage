@@ -4494,7 +4494,10 @@
     "phone": "905540191192",
     "userId": 6097321901,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
