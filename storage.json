@@ -3334,13 +3334,14 @@
           "buyerId": 2134053545,
           "sellerId": 7426160683,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJZaWmqwnc7aMw6cLkDEFDeF6xsJFFMAAIsDmsbcXdZUUaJz-PhGRe-AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772797825436
+          "createdAt": 1772797825436,
+          "paymentInfo": "78819d8c8287834ac8358603319b07ec"
         },
         "locked": true,
         "lockedBy": 7426160683
