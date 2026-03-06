@@ -118,7 +118,10 @@
     "phone": "963937068134",
     "userId": 451331228,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
