@@ -117,15 +117,24 @@
   "451331228": {
     "phone": "963937068134",
     "userId": 451331228,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.01",
-      "minQuantity": "400",
-      "maxQuantity": "500",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 909,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "400",
+        "maxQuantity": "500",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 451331228,
+        "checkMessageId": 1281,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1571,7 +1580,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 908,
+  "forwardingNum": 909,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
