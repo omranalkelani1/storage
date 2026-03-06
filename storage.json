@@ -1673,7 +1673,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 926,
+  "forwardingNum": 927,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -2473,16 +2473,24 @@
         "number": 881,
         "locked": true,
         "lockedBy": 5134156042
+      },
+      {
+        "id": 927,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "100",
+        "maxQuantity": "250",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 5134156042,
+        "checkMessageId": 1299,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "100",
-      "maxQuantity": "250",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
