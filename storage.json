@@ -1645,7 +1645,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 920,
+  "forwardingNum": 921,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3480,11 +3480,19 @@
         "publicMessageId": null,
         "matchedWith": null,
         "rated": false
+      },
+      {
+        "id": 921,
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 7747316413,
+        "checkMessageId": 1293,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
