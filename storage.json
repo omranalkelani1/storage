@@ -2545,7 +2545,11 @@
     "userId": 7892891785,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 918,
+      "offerOwnerId": 621993016
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -2849,7 +2853,8 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.02"
     },
     "verify": {
       "step": null,
