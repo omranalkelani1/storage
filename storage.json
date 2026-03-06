@@ -117,24 +117,7 @@
   "451331228": {
     "phone": "963937068134",
     "userId": 451331228,
-    "offers": [
-      {
-        "id": 909,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "400",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 451331228,
-        "checkMessageId": 1281,
-        "publicMessageId": 5543,
-        "matchedWith": null,
-        "rated": false,
-        "number": 870
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
