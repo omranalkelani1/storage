@@ -2464,35 +2464,13 @@
         "minQuantity": "100",
         "maxQuantity": "105",
         "transform_way": "syriatel",
-        "status": "approved",
+        "status": "done",
         "userId": 5134156042,
         "checkMessageId": 1294,
         "publicMessageId": 5554,
         "matchedWith": null,
         "rated": false,
         "number": 881,
-        "trade": {
-          "tradeId": 228,
-          "buyerId": 5134156042,
-          "sellerId": 6279148047,
-          "quantity": 100,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJbB2mrL_44u80mf-LVjDZzW4jXkPjvAAJuDWsbRq9YURDgvWeb0dEjAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgIAAxkBAAJbMmmrNJ_IsTCmxy8vcYTm4PpvLRQ_AAIdGGsbwwxZSTAYY63b-P3PAQADAgADdwADOgQ",
-            "AgACAgIAAxkBAAJbM2mrNJ_NiR4UIBtWi9UX6_s51qHBAAIeGGsbwwxZSS_XMYYnBLknAQADAgADdwADOgQ",
-            "AgACAgIAAxkBAAJbNGmrNJ8fUGzGB5mP0kUTgD2vBcGFAAIfGGsbwwxZSW6kieaES0-lAQADAgADdwADOgQ",
-            "AgACAgIAAxkBAAJbNWmrNJ_d2cINexTWCqkJiVho9YDJAAIgGGsbwwxZSV89CGQI8egXAQADAgADdwADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIRmmrOA99IlIzgCSSGIR9Ntxpyjp5AAJBDWsb2HNYUWNc-M9nVhKUAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772826206087,
-          "paymentInfo": "0993638646\n5450\n0996853496\n5450\n0992636038\n1300",
-          "buyerPaymentInfo": "Usdt BEP20 \n\n0x886BB18C62722D0bB1E016d94B20A35818b8fe7F"
-        },
         "locked": true,
         "lockedBy": 5134156042
       }
@@ -2502,7 +2480,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 10,
+    "tradesCount": 12,
     "ratings": [
       {
         "from": 5134156042,
