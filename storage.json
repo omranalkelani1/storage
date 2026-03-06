@@ -222,7 +222,11 @@
         "number": 879
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 916,
+      "offerOwnerId": 7892891785
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -2413,24 +2417,7 @@
     "phone": "963941552003",
     "userId": 7892891785,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 916,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "841.6",
-        "maxQuantity": "841.6",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7892891785,
-        "checkMessageId": 1288,
-        "publicMessageId": 5550,
-        "matchedWith": null,
-        "rated": false,
-        "number": 877
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
