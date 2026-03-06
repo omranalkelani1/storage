@@ -4301,12 +4301,14 @@
           "buyerId": 674299839,
           "sellerId": 6468487434,
           "quantity": 20,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772814439527
-        }
+        },
+        "locked": true,
+        "lockedBy": 6468487434
       }
     ],
     "current": {},
