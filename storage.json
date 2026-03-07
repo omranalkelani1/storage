@@ -2560,7 +2560,26 @@
         "number": 903
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 941,
+      "editDraft": {
+        "id": 941,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "300",
+        "maxQuantity": "542.85",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 7892891785,
+        "checkMessageId": 1313,
+        "publicMessageId": 5581,
+        "matchedWith": null,
+        "rated": false,
+        "number": 903
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
