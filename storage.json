@@ -4656,24 +4656,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 943,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "42",
-        "maxQuantity": "60",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1315,
-        "publicMessageId": 5583,
-        "matchedWith": null,
-        "rated": false,
-        "number": 905
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
