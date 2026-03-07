@@ -2561,24 +2561,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 941,
-      "editDraft": {
-        "id": 941,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "200",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7892891785,
-        "checkMessageId": 1313,
-        "publicMessageId": 5581,
-        "matchedWith": null,
-        "rated": false,
-        "number": 903
-      }
+      "operation": "شراء",
+      "step": "askPayment",
+      "price": "119",
+      "minQuantity": "200",
+      "maxQuantity": "200",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
