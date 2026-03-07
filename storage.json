@@ -2615,7 +2615,26 @@
         "number": 907
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 945,
+      "editDraft": {
+        "id": 945,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "260.65",
+        "maxQuantity": "260.65",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 7892891785,
+        "checkMessageId": 1317,
+        "publicMessageId": 5585,
+        "matchedWith": null,
+        "rated": false,
+        "number": 907
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
