@@ -1244,7 +1244,9 @@
           "sellerId": 1798522778,
           "quantity": 24,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJcy2msJbAYvzcpfMmcK7QltDwO66_PAAK5DGsb6v9gUaZbMCjKVp3gAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772889385431
@@ -1253,7 +1255,11 @@
         "lockedBy": 1798522778
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 937,
+      "offerOwnerId": 5329698405
+    },
     "verify": {
       "step": null,
       "photos": []
