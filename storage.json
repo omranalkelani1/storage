@@ -2606,7 +2606,7 @@
         "minQuantity": "260.65",
         "maxQuantity": "260.65",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "rejected",
         "userId": 7892891785,
         "checkMessageId": 1317,
         "publicMessageId": 5585,
