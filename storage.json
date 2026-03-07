@@ -2521,24 +2521,7 @@
     "phone": "380944698225",
     "userId": 5134156042,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 946,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "200",
-        "maxQuantity": "395",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5134156042,
-        "checkMessageId": 1318,
-        "publicMessageId": 5590,
-        "matchedWith": null,
-        "rated": false,
-        "number": 912
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
