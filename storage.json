@@ -4443,7 +4443,10 @@
     "phone": "963993360412",
     "userId": 6468487434,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
