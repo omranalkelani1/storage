@@ -2616,15 +2616,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 945,
       "editDraft": {
         "id": 945,
         "operation": "شراء",
         "step": "askPayment",
         "price": "1.01",
-        "minQuantity": "260.65",
-        "maxQuantity": "260.65",
+        "minQuantity": "181.45",
+        "maxQuantity": "181.45",
         "transform_way": "shamDolar",
         "status": "approved",
         "userId": 7892891785,
