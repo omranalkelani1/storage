@@ -3022,7 +3022,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJeGGmsl-jhJw8Bo35G17JXajKJXx5zAAL4DGsbyBZpUYVwoerxDqu_AQADAgADeQADOgQ"
           ],
@@ -3031,7 +3031,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772918207549,
-          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65"
+          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65",
+          "buyerPaymentInfo": "0xb2b1b7a516892b78c9ee6218108db688ec7974bf"
         },
         "locked": true,
         "lockedBy": 5329698405
