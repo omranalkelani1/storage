@@ -1222,15 +1222,24 @@
     "phone": "963993189926",
     "userId": 1798522778,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "118",
-      "minQuantity": "24",
-      "maxQuantity": "24",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 938,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "118",
+        "minQuantity": "24",
+        "maxQuantity": "24",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 1798522778,
+        "checkMessageId": 1310,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1673,7 +1682,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 937,
+  "forwardingNum": 938,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
