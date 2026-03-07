@@ -2581,7 +2581,7 @@
           "buyerId": 7892891785,
           "sellerId": 872282181,
           "quantity": 200,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAyEFAATQ7aVFAAIIn2msOaT42S9XT6RB-_U0AAFPzrY8BAACcw1rG9hzYFGx08fUhVShEQEAAwIAA3kAAzoE"
           ],
@@ -2590,7 +2590,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772894790960,
-          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5"
+          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5",
+          "buyerPaymentInfo": "0x381ff77eabeb792ad000d06e3002e4fc4a8211f5"
         },
         "locked": true,
         "lockedBy": 7892891785
