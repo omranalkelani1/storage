@@ -204,16 +204,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 894
+      },
+      {
+        "id": 948,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "12400",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 621993016,
+        "checkMessageId": 1320,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "12400",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "syriatel"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1734,7 +1742,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 947,
+  "forwardingNum": 948,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
