@@ -485,7 +485,9 @@
           "sellerId": 7132461559,
           "quantity": 200,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJdAWmsNPF7KJJtvfLAqrkWY6N8mU5tAAIfDWsbVNdhUf7ynzo2eg6XAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772893297153
