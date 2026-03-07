@@ -2474,7 +2474,7 @@
           "buyerId": 7777539707,
           "sellerId": 7751710380,
           "quantity": 118,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJcJGmr_R6_whcwhuuX9J9tFf-By2wMAAKHDWsbxS1gUQXuCqwIzJ8tAQADAgADeQADOgQ"
           ],
@@ -2483,7 +2483,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1772878501201,
-          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7"
+          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7",
+          "buyerPaymentInfo": "0x56548e0c0a352547135fe6aab9ae43615ef3c07b"
         },
         "locked": true,
         "lockedBy": 7751710380
