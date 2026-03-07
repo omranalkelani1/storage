@@ -2630,9 +2630,13 @@
     "userId": 7629073303,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 934,
+      "offerOwnerId": 872282181
+    },
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 0,
