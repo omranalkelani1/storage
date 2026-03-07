@@ -2580,7 +2580,7 @@
           "buyerId": 7892891785,
           "sellerId": 872282181,
           "quantity": 200,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAyEFAATQ7aVFAAIIn2msOaT42S9XT6RB-_U0AAFPzrY8BAACcw1rG9hzYFGx08fUhVShEQEAAwIAA3kAAzoE"
           ],
