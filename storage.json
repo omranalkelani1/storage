@@ -3013,7 +3013,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJeGGmsl-jhJw8Bo35G17JXajKJXx5zAAL4DGsbyBZpUYVwoerxDqu_AQADAgADeQADOgQ"
           ],
