@@ -3006,7 +3006,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJeGGmsl-jhJw8Bo35G17JXajKJXx5zAAL4DGsbyBZpUYVwoerxDqu_AQADAgADeQADOgQ"
           ],
