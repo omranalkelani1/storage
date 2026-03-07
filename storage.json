@@ -489,7 +489,9 @@
             "AgACAgQAAxkBAAJdAWmsNPF7KJJtvfLAqrkWY6N8mU5tAAIfDWsbVNdhUf7ynzo2eg6XAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJdA2msNdAnUdXRo4TWlXQCdkMij0QqAAI1DWsbVNdhUeSTFPRN7ckNAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIIn2msOaT42S9XT6RB-_U0AAFPzrY8BAACcw1rG9hzYFGx08fUhVShEQEAAwIAA3kAAzoE"
+          ],
           "adminProofs": [],
           "createdAt": 1772893297153,
           "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5"
