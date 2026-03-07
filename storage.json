@@ -2285,7 +2285,7 @@
           "buyerId": 7777539707,
           "sellerId": 524736457,
           "quantity": 35,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJcIWmr_Pqql3i4-UABcHBaHQ1ji5YYAAKpDGsbj-xhUYy2u0yYSs4RAQADAgADeQADOgQ"
           ],
