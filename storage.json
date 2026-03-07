@@ -1542,7 +1542,7 @@
           "buyerId": 6193222237,
           "sellerId": 621993016,
           "quantity": 40,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJcgmmsFsay-UT0_9XQiJrCm9dywnNTAAIqDWsb8sdgUfHg86Gnrr2pAQADAgADeQADOgQ"
           ],
