@@ -1243,12 +1243,14 @@
           "buyerId": 872282181,
           "sellerId": 1798522778,
           "quantity": 24,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772889385431
-        }
+        },
+        "locked": true,
+        "lockedBy": 1798522778
       }
     ],
     "current": {},
