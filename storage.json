@@ -2561,15 +2561,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 941,
       "editDraft": {
         "id": 941,
         "operation": "شراء",
         "step": "askPayment",
         "price": "119",
-        "minQuantity": "300",
-        "maxQuantity": "542.85",
+        "minQuantity": "200",
+        "maxQuantity": "200",
         "transform_way": "shamSy",
         "status": "approved",
         "userId": 7892891785,
