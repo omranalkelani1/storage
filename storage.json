@@ -2549,32 +2549,13 @@
         "minQuantity": "200",
         "maxQuantity": "200",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 7892891785,
         "checkMessageId": 1314,
         "publicMessageId": 5582,
         "matchedWith": null,
         "rated": false,
         "number": 904,
-        "trade": {
-          "tradeId": 239,
-          "buyerId": 7892891785,
-          "sellerId": 872282181,
-          "quantity": 200,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIn2msOaT42S9XT6RB-_U0AAFPzrY8BAACcw1rG9hzYFGx08fUhVShEQEAAwIAA3kAAzoE"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJdT2msPV4P58PnNmWYYd9qC2t0AAEWUQACCg1rG11lYVEz67lP0LeO1AEAAwIAA3kAAzoE"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIsWmsPk628WnMq4UJWK4DX7l3dnSjAAJ3DWsb2HNgUVDo4RlrcyngAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772894790960,
-          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5",
-          "buyerPaymentInfo": "0x381ff77eabeb792ad000d06e3002e4fc4a8211f5"
-        },
         "locked": true,
         "lockedBy": 7892891785
       }
@@ -2584,7 +2565,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 3,
+    "tradesCount": 5,
     "ratings": [
       {
         "from": 7977160463,
