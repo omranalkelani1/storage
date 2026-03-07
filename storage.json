@@ -477,7 +477,18 @@
         "publicMessageId": 5574,
         "matchedWith": null,
         "rated": false,
-        "number": 896
+        "number": 896,
+        "trade": {
+          "tradeId": 235,
+          "buyerId": 872282181,
+          "sellerId": 7132461559,
+          "quantity": 200,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1772886424567
+        }
       }
     ],
     "current": {},
@@ -1716,7 +1727,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 234,
+  "tradeId": 235,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -3619,11 +3630,7 @@
     "phone": "963958906438",
     "userId": 7132461559,
     "offers": [],
-    "current": {
-      "step": "ask_quantity",
-      "offerId": 900,
-      "offerOwnerId": 5988071824
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
