@@ -4496,7 +4496,7 @@
           "buyerId": 7977160463,
           "sellerId": 6468487434,
           "quantity": 100,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJdDmmsNnHI2_XCD3ULHcLtD0HrhC7LAALKDWsbnlZgUUtc3wt_BrMaAQADAgADeQADOgQ"
           ],
