@@ -4496,13 +4496,14 @@
           "buyerId": 7977160463,
           "sellerId": 6468487434,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJdDmmsNnHI2_XCD3ULHcLtD0HrhC7LAALKDWsbnlZgUUtc3wt_BrMaAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772893667560
+          "createdAt": 1772893667560,
+          "paymentInfo": "37ca575ab697eeebff11eae246f9345e"
         },
         "locked": true,
         "lockedBy": 6468487434
