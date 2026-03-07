@@ -1243,7 +1243,7 @@
           "buyerId": 872282181,
           "sellerId": 1798522778,
           "quantity": 24,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJcy2msJbAYvzcpfMmcK7QltDwO66_PAAK5DGsb6v9gUaZbMCjKVp3gAQADAgADeQADOgQ"
           ],
