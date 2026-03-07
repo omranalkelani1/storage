@@ -2303,7 +2303,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 3,
+    "tradesCount": 4,
     "ratings": [
       {
         "from": 872282181,
@@ -2462,32 +2462,13 @@
         "minQuantity": "118",
         "maxQuantity": "118",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 7751710380,
         "checkMessageId": 1303,
         "publicMessageId": 5571,
         "matchedWith": null,
         "rated": false,
         "number": 893,
-        "trade": {
-          "tradeId": 232,
-          "buyerId": 7777539707,
-          "sellerId": 7751710380,
-          "quantity": 118,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJcJGmr_R6_whcwhuuX9J9tFf-By2wMAAKHDWsbxS1gUQXuCqwIzJ8tAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJcLmmr_lcJYKDu2qkZL4I4XDqBO0ENAAJoDmsbMJdgUWb0SZdvnQWdAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIIcGmr_6YX3wf7sfFs1_JjZ1_vebbLAAJTDWsb2HNgURb4IpbCDbHwAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1772878501201,
-          "paymentInfo": "ad74be317a92f7d1e0fb3be4b00216a7",
-          "buyerPaymentInfo": "0x56548e0c0a352547135fe6aab9ae43615ef3c07b"
-        },
         "locked": true,
         "lockedBy": 7751710380
       }
@@ -2497,7 +2478,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 2,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 1975626644,
