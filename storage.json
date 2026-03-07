@@ -2285,12 +2285,14 @@
           "buyerId": 7777539707,
           "sellerId": 524736457,
           "quantity": 35,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772878926797
-        }
+        },
+        "locked": true,
+        "lockedBy": 7777539707
       }
     ],
     "current": {},
