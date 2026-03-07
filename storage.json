@@ -3022,7 +3022,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 100,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJeGGmsl-jhJw8Bo35G17JXajKJXx5zAAL4DGsbyBZpUYVwoerxDqu_AQADAgADeQADOgQ"
           ],
