@@ -370,12 +370,10 @@
     "first_name": "أبو عبد الصمد"
   },
   "713076584": {
-    "phone": null,
+    "phone": "963996804150",
     "userId": 713076584,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -385,7 +383,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "Abdullah",
+    "last_name": "❄"
   },
   "758263137": {
     "phone": "201556050499",
