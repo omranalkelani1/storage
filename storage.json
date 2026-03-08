@@ -1258,24 +1258,7 @@
     "phone": "963993189926",
     "userId": 1798522778,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 960,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "115.74",
-        "maxQuantity": "115.74",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 1798522778,
-        "checkMessageId": 1332,
-        "publicMessageId": 5604,
-        "matchedWith": null,
-        "rated": false,
-        "number": 921
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
