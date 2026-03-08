@@ -189,7 +189,10 @@
     "phone": "963992162743",
     "userId": 621993016,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4432,5 +4435,23 @@
       "history": []
     },
     "first_name": "ابو زيد.نعيمي"
+  },
+  "8397072258": {
+    "phone": null,
+    "userId": 8397072258,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
