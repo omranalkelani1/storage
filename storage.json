@@ -4444,24 +4444,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 957,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "93",
-        "maxQuantity": "93",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1329,
-        "publicMessageId": 5600,
-        "matchedWith": null,
-        "rated": false,
-        "number": 918
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
