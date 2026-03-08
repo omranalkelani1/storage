@@ -4472,7 +4472,10 @@
     "phone": "963935566319",
     "userId": 5988071824,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
