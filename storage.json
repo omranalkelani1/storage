@@ -1035,15 +1035,24 @@
   "1070093576": {
     "phone": "963988469437",
     "userId": 1070093576,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.03",
-      "minQuantity": "300",
-      "maxQuantity": "300",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 965,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.03",
+        "minQuantity": "300",
+        "maxQuantity": "300",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 1070093576,
+        "checkMessageId": 1337,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1680,7 +1689,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 964,
+  "forwardingNum": 965,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
