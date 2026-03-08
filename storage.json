@@ -209,12 +209,14 @@
           "buyerId": 7205436167,
           "sellerId": 621993016,
           "quantity": 100,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1772976417548
-        }
+        },
+        "locked": true,
+        "lockedBy": 621993016
       },
       {
         "id": 961,
