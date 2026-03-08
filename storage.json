@@ -4488,24 +4488,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 963,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1335,
-        "publicMessageId": 5608,
-        "matchedWith": null,
-        "rated": false,
-        "number": 924
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
