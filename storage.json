@@ -209,7 +209,7 @@
           "buyerId": 7205436167,
           "sellerId": 621993016,
           "quantity": 100,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJe5GmtfCcQ_EaHBrYtJSWvf0_VXgp0AAL4DGsbZQABcFGqaJgZ2DwQrgEAAwIAA3kAAzoE"
           ],
