@@ -3894,7 +3894,7 @@
           "buyerId": 7205436167,
           "sellerId": 886198793,
           "quantity": 90,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJfBGmtobQwSpfwLWaNKdiS_JOl0EQfAAIVDWsbpGRwUSEV4eMal_drAQADAgADeQADOgQ"
           ],
