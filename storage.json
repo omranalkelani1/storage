@@ -188,15 +188,24 @@
   "621993016": {
     "phone": "963992162743",
     "userId": 621993016,
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.015",
-      "minQuantity": "100",
-      "maxQuantity": "1000",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 956,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.015",
+        "minQuantity": "100",
+        "maxQuantity": "1000",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 621993016,
+        "checkMessageId": 1328,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1650,7 +1659,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 955,
+  "forwardingNum": 956,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
