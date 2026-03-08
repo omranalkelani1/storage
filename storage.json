@@ -4504,22 +4504,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 924
-      },
-      {
-        "id": 964,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.03",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1336,
-        "publicMessageId": 5609,
-        "matchedWith": null,
-        "rated": false,
-        "number": 925
       }
     ],
     "current": {},
