@@ -3887,13 +3887,14 @@
           "buyerId": 7205436167,
           "sellerId": 886198793,
           "quantity": 90,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJfBGmtobQwSpfwLWaNKdiS_JOl0EQfAAIVDWsbpGRwUSEV4eMal_drAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1772986333900
+          "createdAt": 1772986333900,
+          "paymentInfo": "3463f600cf3f23a838471c1861a010a3"
         },
         "locked": true,
         "lockedBy": 7205436167
