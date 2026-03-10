@@ -2575,22 +2575,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 975,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "100",
-        "maxQuantity": "140",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1347,
-        "publicMessageId": 5626,
-        "matchedWith": null,
-        "rated": false,
-        "number": 935
-      },
-      {
         "id": 977,
         "operation": "بيع",
         "step": "askPayment",
