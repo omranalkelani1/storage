@@ -2813,7 +2813,7 @@
         "minQuantity": "200",
         "maxQuantity": "500",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "rejected",
         "userId": 5329698405,
         "checkMessageId": 1353,
         "publicMessageId": 5632,
