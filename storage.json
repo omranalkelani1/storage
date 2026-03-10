@@ -4672,24 +4672,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 988,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118.3",
-        "minQuantity": "30",
-        "maxQuantity": "88.5",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1360,
-        "publicMessageId": 5639,
-        "matchedWith": null,
-        "rated": false,
-        "number": 948
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
