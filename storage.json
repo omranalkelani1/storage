@@ -2822,22 +2822,6 @@
         "number": 919
       },
       {
-        "id": 959,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "200",
-        "maxQuantity": "400",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1331,
-        "publicMessageId": 5603,
-        "matchedWith": null,
-        "rated": false,
-        "number": 920
-      },
-      {
         "id": 981,
         "operation": "بيع",
         "step": "askPayment",
