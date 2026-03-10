@@ -1704,7 +1704,26 @@
         "number": 950
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 990,
+      "editDraft": {
+        "id": 990,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "25",
+        "maxQuantity": "25",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 1362,
+        "publicMessageId": 5641,
+        "matchedWith": null,
+        "rated": false,
+        "number": 950
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
