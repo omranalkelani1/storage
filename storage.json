@@ -1688,7 +1688,26 @@
         "number": 929
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 968,
+      "editDraft": {
+        "id": 968,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "20",
+        "maxQuantity": "35",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 6193222237,
+        "checkMessageId": 1340,
+        "publicMessageId": 5619,
+        "matchedWith": null,
+        "rated": false,
+        "number": 929
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
