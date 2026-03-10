@@ -2837,40 +2837,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 941
-      },
-      {
-        "id": 983,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "121",
-        "minQuantity": "200",
-        "maxQuantity": "400",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1355,
-        "publicMessageId": 5634,
-        "matchedWith": null,
-        "rated": false,
-        "number": 943,
-        "trade": {
-          "tradeId": 247,
-          "buyerId": 713076584,
-          "sellerId": 5329698405,
-          "quantity": 200,
-          "step": "buyer_payment_info",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJglmmwS4WGiol7IEDlZsFwlSufGeqfAALlDGsbGlSAUXwaWqYwLKyDAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJgqGmwTX3mbED2WiaBOO7FS1TX0ehFAAJXDWsboQGAUR1Go8CLK42-AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [],
-          "createdAt": 1773160619035,
-          "paymentInfo": "68eda26d5f64e5e2e6987026dfd90b65"
-        },
-        "locked": true,
-        "lockedBy": 5329698405
       }
     ],
     "current": {},
