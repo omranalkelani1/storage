@@ -4584,22 +4584,6 @@
     "userId": 5988071824,
     "offers": [
       {
-        "id": 971,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "fuad",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1343,
-        "publicMessageId": 5622,
-        "matchedWith": null,
-        "rated": false,
-        "number": 932
-      },
-      {
         "id": 973,
         "operation": "شراء",
         "step": "askPayment",
@@ -4614,22 +4598,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 933
-      },
-      {
-        "id": 979,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1351,
-        "publicMessageId": 5630,
-        "matchedWith": null,
-        "rated": false,
-        "number": 939
       }
     ],
     "current": {},
