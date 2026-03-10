@@ -32,7 +32,11 @@
     "phone": "963999833203",
     "userId": 219509227,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 961,
+      "offerOwnerId": 621993016
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -3205,7 +3209,10 @@
     "phone": "963991894995",
     "userId": 5860846249,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -3236,8 +3243,8 @@
     "offers": [],
     "current": {
       "step": "ask_quantity",
-      "offerId": 799,
-      "offerOwnerId": 674299839
+      "offerId": 966,
+      "offerOwnerId": 621993016
     },
     "verify": {
       "step": null,
@@ -4579,6 +4586,24 @@
   "5522366824": {
     "phone": null,
     "userId": 5522366824,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "7732203162": {
+    "phone": null,
+    "userId": 7732203162,
     "offers": [],
     "current": {
       "step": "askPhone"
