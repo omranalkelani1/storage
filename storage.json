@@ -1049,12 +1049,13 @@
         "minQuantity": "303",
         "maxQuantity": "303",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 1055088306,
         "checkMessageId": 1356,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 944
       }
     ],
     "current": {},
@@ -1646,7 +1647,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 943,
+  "offerSeq": 944,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -2873,7 +2874,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "buyer_upload",
+          "step": "wait_admin_buyer",
           "sellerProofs": [
             "AgACAgQAAxkBAAJglmmwS4WGiol7IEDlZsFwlSufGeqfAALlDGsbGlSAUXwaWqYwLKyDAQADAgADeQADOgQ"
           ],
