@@ -2832,7 +2832,7 @@
         "status": "approved",
         "userId": 5329698405,
         "checkMessageId": 1354,
-        "publicMessageId": null,
+        "publicMessageId": 5633,
         "matchedWith": null,
         "rated": false,
         "number": 942
@@ -2843,7 +2843,8 @@
       "step": "askPayment",
       "price": "121",
       "minQuantity": "200",
-      "maxQuantity": "400"
+      "maxQuantity": "400",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
