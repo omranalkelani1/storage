@@ -4550,7 +4550,7 @@
     "userId": 5988071824,
     "offers": [],
     "current": {
-      "operation": "شراء",
+      "operation": "بيع",
       "step": "askPrice"
     },
     "verify": {
