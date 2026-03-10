@@ -4616,22 +4616,6 @@
         "number": 933
       },
       {
-        "id": 974,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "119.5",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1346,
-        "publicMessageId": 5624,
-        "matchedWith": null,
-        "rated": false,
-        "number": 934
-      },
-      {
         "id": 979,
         "operation": "شراء",
         "step": "askPayment",
