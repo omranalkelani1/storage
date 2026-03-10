@@ -2822,7 +2822,26 @@
         "number": 941
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 981,
+      "editDraft": {
+        "id": 981,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.025",
+        "minQuantity": "200",
+        "maxQuantity": "500",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 5329698405,
+        "checkMessageId": 1353,
+        "publicMessageId": 5632,
+        "matchedWith": null,
+        "rated": false,
+        "number": 941
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
