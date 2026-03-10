@@ -4399,7 +4399,7 @@
           "buyerId": 872282181,
           "sellerId": 6537694249,
           "quantity": 8,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJfwmmvl7PS8ocyv-RCKVnsYw8ry-d9AALIDGsbCxeAURk-1H6YfKzwAQADAgADeQADOgQ"
           ],
