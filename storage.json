@@ -4377,9 +4377,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "118",
-      "minQuantity": "8"
+      "minQuantity": "8",
+      "maxQuantity": "8"
     },
     "verify": {
       "step": "waiting_photos",
