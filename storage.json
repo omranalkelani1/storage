@@ -1630,7 +1630,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 930,
+  "offerSeq": 931,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -3707,7 +3707,11 @@
     "phone": "963958906438",
     "userId": 7132461559,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 968,
+      "offerOwnerId": 6193222237
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4383,12 +4387,13 @@
         "minQuantity": "8",
         "maxQuantity": "8",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 6537694249,
         "checkMessageId": 1342,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 931
       }
     ],
     "current": {},
