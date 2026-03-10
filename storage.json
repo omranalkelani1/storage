@@ -290,7 +290,7 @@
     ],
     "current": {},
     "verify": {
-      "step": "confirm",
+      "step": null,
       "photos": [
         "AgACAgQAAxkBAAJhDWmwkDQgskez99DZFHMIUdyKkPYWAAKjDmsbf42JUT-5IjZQDzX3AQADAgADeQADOgQ"
       ]
@@ -301,7 +301,8 @@
       "count": 0,
       "history": []
     },
-    "first_name": "R"
+    "first_name": "R",
+    "verified": true
   },
   "665976819": {
     "phone": null,
