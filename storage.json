@@ -1066,24 +1066,13 @@
         "minQuantity": "303",
         "maxQuantity": "303",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "rejected",
         "userId": 1055088306,
         "checkMessageId": 1356,
         "publicMessageId": 5635,
         "matchedWith": null,
         "rated": false,
-        "number": 944,
-        "trade": {
-          "tradeId": 248,
-          "buyerId": 647336851,
-          "sellerId": 1055088306,
-          "quantity": 303,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1773170288760
-        }
+        "number": 944
       }
     ],
     "current": {},
