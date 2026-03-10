@@ -4740,7 +4740,10 @@
     "phone": "963985389562",
     "userId": 8531499254,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
