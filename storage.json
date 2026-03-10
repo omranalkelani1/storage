@@ -4582,24 +4582,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 973,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "120",
-        "maxQuantity": "120",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1345,
-        "publicMessageId": 5623,
-        "matchedWith": null,
-        "rated": false,
-        "number": 933
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
