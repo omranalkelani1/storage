@@ -1401,7 +1401,10 @@
     "phone": "963935194356",
     "userId": 1861526321,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
