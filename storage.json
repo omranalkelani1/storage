@@ -2873,7 +2873,7 @@
           "buyerId": 713076584,
           "sellerId": 5329698405,
           "quantity": 200,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJglmmwS4WGiol7IEDlZsFwlSufGeqfAALlDGsbGlSAUXwaWqYwLKyDAQADAgADeQADOgQ"
           ],
