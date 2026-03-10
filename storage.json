@@ -291,7 +291,9 @@
     "current": {},
     "verify": {
       "step": "waiting_photos",
-      "photos": []
+      "photos": [
+        "AgACAgQAAxkBAAJhDWmwkDQgskez99DZFHMIUdyKkPYWAAKjDmsbf42JUT-5IjZQDzX3AQADAgADeQADOgQ"
+      ]
     },
     "tradesCount": 0,
     "ratings": [],
