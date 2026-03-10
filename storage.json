@@ -4399,12 +4399,14 @@
           "buyerId": 872282181,
           "sellerId": 6537694249,
           "quantity": 8,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773115171560
-        }
+        },
+        "locked": true,
+        "lockedBy": 6537694249
       }
     ],
     "current": {},
