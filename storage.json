@@ -4735,5 +4735,23 @@
       "count": 0,
       "history": []
     }
+  },
+  "8531499254": {
+    "phone": "963985389562",
+    "userId": 8531499254,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "SAFI",
+    "last_name": "Salama"
   }
 }
