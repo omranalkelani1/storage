@@ -2839,22 +2839,6 @@
         "number": 941
       },
       {
-        "id": 982,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.023",
-        "minQuantity": "200",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1354,
-        "publicMessageId": 5633,
-        "matchedWith": null,
-        "rated": false,
-        "number": 942
-      },
-      {
         "id": 983,
         "operation": "بيع",
         "step": "askPayment",
