@@ -4378,25 +4378,7 @@
   "6537694249": {
     "phone": "963996685078",
     "userId": 6537694249,
-    "offers": [
-      {
-        "id": 970,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118",
-        "minQuantity": "8",
-        "maxQuantity": "8",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 6537694249,
-        "checkMessageId": 1342,
-        "publicMessageId": 5621,
-        "matchedWith": null,
-        "rated": false,
-        "number": 931,
-        "locked": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": "waiting_photos",
