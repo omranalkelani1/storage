@@ -4376,9 +4376,8 @@
     "userId": 6537694249,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 802,
-      "offerOwnerId": 674299839
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": "waiting_photos",
