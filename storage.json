@@ -2531,15 +2531,15 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 995,
       "editDraft": {
         "id": 995,
         "operation": "بيع",
         "step": "askPayment",
         "price": "118.5",
-        "minQuantity": "100",
-        "maxQuantity": "132",
+        "minQuantity": "200",
+        "maxQuantity": "330",
         "transform_way": "shamSy",
         "status": "approved",
         "userId": 7751710380,
