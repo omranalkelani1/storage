@@ -2528,22 +2528,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 955
-      },
-      {
-        "id": 996,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "200",
-        "maxQuantity": "330",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1371,
-        "publicMessageId": 5652,
-        "matchedWith": null,
-        "rated": false,
-        "number": 956
       }
     ],
     "current": {},
