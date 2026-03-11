@@ -4527,7 +4527,8 @@
       "step": "askPayment",
       "price": "1",
       "minQuantity": "300",
-      "maxQuantity": "300"
+      "maxQuantity": "300",
+      "transform_way": "fuad"
     },
     "verify": {
       "step": null,
