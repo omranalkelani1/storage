@@ -1619,7 +1619,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 959,
+  "offerSeq": 960,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
@@ -4529,15 +4529,19 @@
         "minQuantity": "300",
         "maxQuantity": "300",
         "transform_way": "fuad",
-        "status": "pending",
+        "status": "approved",
         "userId": 5988071824,
         "checkMessageId": 1375,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 960
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
