@@ -4341,9 +4341,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1.2",
-      "minQuantity": "40"
+      "minQuantity": "40",
+      "maxQuantity": "40"
     },
     "verify": {
       "step": "waiting_photos",
