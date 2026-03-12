@@ -4485,9 +4485,10 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1",
-      "minQuantity": "45"
+      "minQuantity": "45",
+      "maxQuantity": "45"
     },
     "verify": {
       "step": "waiting_photos",
