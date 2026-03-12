@@ -4493,7 +4493,7 @@
         "status": "approved",
         "userId": 6468487434,
         "checkMessageId": 1391,
-        "publicMessageId": null,
+        "publicMessageId": 5678,
         "matchedWith": null,
         "rated": false,
         "number": 976
