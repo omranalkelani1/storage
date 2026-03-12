@@ -3225,7 +3225,7 @@
           "buyerId": 6279148047,
           "sellerId": 7205436167,
           "quantity": 100,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiPWmymIAXQwUoUe1xUiiL69VTUEPfAALyDGsbSZuRUaESYK7iBl2IAQADAgADeQADOgQ"
           ],
