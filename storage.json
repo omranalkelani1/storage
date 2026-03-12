@@ -2022,10 +2022,8 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "step": "confirm_quantity",
-      "offerId": 864,
-      "offerOwnerId": 6193222237,
-      "quantity": 297.03
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": "waiting_photos",
@@ -4556,7 +4554,7 @@
           "buyerId": 5988071824,
           "sellerId": 6468487434,
           "quantity": 46.5,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiwGmy1AbZV1X0eT__fnU7oAzxyOzVAAK7DGsb_EGZUWV5oGpJzf4SAQADAgADeQADOgQ"
           ],
@@ -4565,7 +4563,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1773326880249,
-          "paymentInfo": "37ca575ab697eeebff11eae246f9345e"
+          "paymentInfo": "37ca575ab697eeebff11eae246f9345e",
+          "buyerPaymentInfo": "0x5076ebd26cb711dab8ff113cf845407b54340b5f"
         },
         "locked": true,
         "lockedBy": 5988071824
