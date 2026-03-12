@@ -3414,13 +3414,14 @@
           "buyerId": 7253603586,
           "sellerId": 6468487434,
           "quantity": 30,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiJ2myitmh9ITaYotVFOT_PkAhhmisAAJ4DGsb_EGZURz6xtCphXOaAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1773308199434
+          "createdAt": 1773308199434,
+          "paymentInfo": "37ca575ab697eeebff11eae246f9345e"
         },
         "locked": true,
         "lockedBy": 7253603586
