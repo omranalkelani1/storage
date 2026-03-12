@@ -4522,9 +4522,10 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "117",
-      "minQuantity": "46.75"
+      "minQuantity": "46.75",
+      "maxQuantity": "46.75"
     },
     "verify": {
       "step": null,
