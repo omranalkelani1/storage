@@ -1734,7 +1734,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 248,
+  "tradeId": 249,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -3408,7 +3408,18 @@
         "publicMessageId": 5668,
         "matchedWith": null,
         "rated": false,
-        "number": 967
+        "number": 967,
+        "trade": {
+          "tradeId": 249,
+          "buyerId": 7253603586,
+          "sellerId": 6468487434,
+          "quantity": 30,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1773308199434
+        }
       }
     ],
     "current": {},
@@ -4407,12 +4418,7 @@
         "number": 964
       }
     ],
-    "current": {
-      "step": "confirm_quantity",
-      "offerId": 1007,
-      "offerOwnerId": 7253603586,
-      "quantity": 30
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": []
@@ -4513,9 +4519,10 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "120",
-      "minQuantity": "355"
+      "minQuantity": "355",
+      "maxQuantity": "355"
     },
     "verify": {
       "step": null,
