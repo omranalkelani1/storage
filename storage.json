@@ -3414,7 +3414,7 @@
           "buyerId": 7253603586,
           "sellerId": 6468487434,
           "quantity": 30,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiJ2myitmh9ITaYotVFOT_PkAhhmisAAJ4DGsb_EGZURz6xtCphXOaAQADAgADeQADOgQ"
           ],
