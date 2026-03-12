@@ -4407,7 +4407,11 @@
         "number": 964
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1007,
+      "offerOwnerId": 7253603586
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
@@ -4508,7 +4512,8 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "120"
     },
     "verify": {
       "step": null,
