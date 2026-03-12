@@ -4535,25 +4535,11 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 1010,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117",
-        "minQuantity": "46.75",
-        "maxQuantity": "46.75",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1385,
-        "publicMessageId": 5671,
-        "matchedWith": null,
-        "rated": false,
-        "number": 970
-      }
-    ],
-    "current": {},
+    "offers": [],
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
