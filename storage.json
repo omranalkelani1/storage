@@ -4251,12 +4251,14 @@
           "buyerId": 713076584,
           "sellerId": 5711339604,
           "quantity": 50,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773340554364
-        }
+        },
+        "locked": true,
+        "lockedBy": 5711339604
       }
     ],
     "current": {},
