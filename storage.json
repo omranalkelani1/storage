@@ -3503,7 +3503,7 @@
       "price": "120",
       "minQuantity": "50",
       "maxQuantity": "50",
-      "transform_way": "shamDolar"
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
