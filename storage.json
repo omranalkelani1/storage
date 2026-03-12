@@ -3901,24 +3901,7 @@
   "7205436167": {
     "phone": "963936550998",
     "userId": 7205436167,
-    "offers": [
-      {
-        "id": 1005,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "1",
-        "maxQuantity": "100",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7205436167,
-        "checkMessageId": 1380,
-        "publicMessageId": 5666,
-        "matchedWith": null,
-        "rated": false,
-        "number": 965
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
