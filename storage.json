@@ -220,24 +220,7 @@
   "647336851": {
     "phone": "963991708666",
     "userId": 647336851,
-    "offers": [
-      {
-        "id": 993,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.005",
-        "minQuantity": "500",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 647336851,
-        "checkMessageId": 1368,
-        "publicMessageId": 5647,
-        "matchedWith": null,
-        "rated": false,
-        "number": 953
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -475,24 +458,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1002,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.03",
-        "minQuantity": "33",
-        "maxQuantity": "33",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1377,
-        "publicMessageId": 5658,
-        "matchedWith": null,
-        "rated": false,
-        "number": 962
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2529,24 +2495,7 @@
     "phone": "963962893508",
     "userId": 7751710380,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 995,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "100",
-        "maxQuantity": "132",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 7751710380,
-        "checkMessageId": 1370,
-        "publicMessageId": 5651,
-        "matchedWith": null,
-        "rated": false,
-        "number": 955
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4170,24 +4119,7 @@
   "5711339604": {
     "phone": "963988819626",
     "userId": 5711339604,
-    "offers": [
-      {
-        "id": 997,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.1",
-        "minQuantity": "50",
-        "maxQuantity": "50",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5711339604,
-        "checkMessageId": 1372,
-        "publicMessageId": 5653,
-        "matchedWith": null,
-        "rated": false,
-        "number": 957
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4488,56 +4420,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 994,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.2",
-        "minQuantity": "20",
-        "maxQuantity": "46",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1369,
-        "publicMessageId": 5649,
-        "matchedWith": null,
-        "rated": false,
-        "number": 954
-      },
-      {
-        "id": 1000,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "300",
-        "maxQuantity": "300",
-        "transform_way": "fuad",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1375,
-        "publicMessageId": 5656,
-        "matchedWith": null,
-        "rated": false,
-        "number": 960
-      },
-      {
-        "id": 1001,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.5",
-        "minQuantity": "46.5",
-        "maxQuantity": "46.5",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1376,
-        "publicMessageId": 5657,
-        "matchedWith": null,
-        "rated": false,
-        "number": 961
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
