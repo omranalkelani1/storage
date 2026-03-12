@@ -3377,7 +3377,10 @@
     "phone": "963962992842",
     "userId": 7253603586,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
