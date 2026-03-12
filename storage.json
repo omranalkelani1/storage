@@ -2023,8 +2023,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "1"
+      "step": "askPayment",
+      "price": "1",
+      "minQuantity": "10",
+      "maxQuantity": "10"
     },
     "verify": {
       "step": "waiting_photos",
