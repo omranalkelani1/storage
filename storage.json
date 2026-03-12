@@ -493,7 +493,26 @@
         "number": 977
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1017,
+      "editDraft": {
+        "id": 1017,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "118.5",
+        "minQuantity": "38",
+        "maxQuantity": "38",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 1392,
+        "publicMessageId": 5679,
+        "matchedWith": null,
+        "rated": false,
+        "number": 977
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
