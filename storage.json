@@ -4556,32 +4556,13 @@
         "minQuantity": "46.5",
         "maxQuantity": "46.5",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 5988071824,
         "checkMessageId": 1388,
         "publicMessageId": 5675,
         "matchedWith": null,
         "rated": false,
         "number": 973,
-        "trade": {
-          "tradeId": 252,
-          "buyerId": 5988071824,
-          "sellerId": 6468487434,
-          "quantity": 46.5,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJiwGmy1AbZV1X0eT__fnU7oAzxyOzVAAK7DGsb_EGZUWV5oGpJzf4SAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJix2my2CwJauh_2q33PCFgqYTM0DCkAAJ0DWsbRVSYUYHj-M3EqvQNAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIJC2my2P-tcCxmyCYZTjHCOLnP7TSzAAK6DmsbBcqZUetVdyoZ-1WQAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1773326880249,
-          "paymentInfo": "37ca575ab697eeebff11eae246f9345e",
-          "buyerPaymentInfo": "0x5076ebd26cb711dab8ff113cf845407b54340b5f"
-        },
         "locked": true,
         "lockedBy": 5988071824
       }
@@ -4591,8 +4572,14 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
-    "ratings": [],
+    "tradesCount": 2,
+    "ratings": [
+      {
+        "from": 6468487434,
+        "rate": 5,
+        "date": 1773328660508
+      }
+    ],
     "strikes": {
       "count": 0,
       "history": []
