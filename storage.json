@@ -4344,7 +4344,8 @@
       "step": "askPayment",
       "price": "1.2",
       "minQuantity": "40",
-      "maxQuantity": "40"
+      "maxQuantity": "40",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": "waiting_photos",
