@@ -4556,12 +4556,14 @@
           "buyerId": 5988071824,
           "sellerId": 6468487434,
           "quantity": 46.5,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773326880249
-        }
+        },
+        "locked": true,
+        "lockedBy": 5988071824
       }
     ],
     "current": {},
