@@ -3226,7 +3226,9 @@
           "sellerId": 7205436167,
           "quantity": 100,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJiPWmymIAXQwUoUe1xUiiL69VTUEPfAALyDGsbSZuRUaESYK7iBl2IAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773310848891
