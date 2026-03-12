@@ -3225,13 +3225,14 @@
           "buyerId": 6279148047,
           "sellerId": 7205436167,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiPWmymIAXQwUoUe1xUiiL69VTUEPfAALyDGsbSZuRUaESYK7iBl2IAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1773310848891
+          "createdAt": 1773310848891,
+          "paymentInfo": "4d5135e7ddafc7f84b4f3f8de7d82857"
         },
         "locked": true,
         "lockedBy": 6279148047
