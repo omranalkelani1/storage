@@ -3428,22 +3428,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 967,
-        "trade": {
-          "tradeId": 249,
-          "buyerId": 7253603586,
-          "sellerId": 6468487434,
-          "quantity": 30,
-          "step": "buyer_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJiJ2myitmh9ITaYotVFOT_PkAhhmisAAJ4DGsb_EGZURz6xtCphXOaAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1773308199434,
-          "paymentInfo": "37ca575ab697eeebff11eae246f9345e"
-        },
-        "locked": true,
-        "lockedBy": 7253603586
+        "locked": false
       }
     ],
     "current": {},
