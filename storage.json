@@ -3230,32 +3230,13 @@
         "minQuantity": "100",
         "maxQuantity": "148",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 6279148047,
         "checkMessageId": 1381,
         "publicMessageId": 5667,
         "matchedWith": null,
         "rated": false,
         "number": 966,
-        "trade": {
-          "tradeId": 250,
-          "buyerId": 6279148047,
-          "sellerId": 7205436167,
-          "quantity": 100,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJiPWmymIAXQwUoUe1xUiiL69VTUEPfAALyDGsbSZuRUaESYK7iBl2IAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJiTmmymg2xpRBnTyWBQk9jl43qJ16yAAIsDWsbLwKZUVt1zUdeteVWAQADAgADeAADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAII_GmympbTucDBv2uzQ3ijv8Oy3hzhAAKuDWsb0buZUXnaHM8w-6ZhAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1773310848891,
-          "paymentInfo": "4d5135e7ddafc7f84b4f3f8de7d82857",
-          "buyerPaymentInfo": "0xde9eaa9f9276779d3c1e504032e63038c532190a"
-        },
         "locked": true,
         "lockedBy": 6279148047
       }
@@ -3265,7 +3246,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 2,
     "ratings": [],
     "strikes": {
       "count": 0,
