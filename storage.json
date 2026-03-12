@@ -4556,7 +4556,7 @@
           "buyerId": 5988071824,
           "sellerId": 6468487434,
           "quantity": 46.5,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJiwGmy1AbZV1X0eT__fnU7oAzxyOzVAAK7DGsb_EGZUWV5oGpJzf4SAQADAgADeQADOgQ"
           ],
