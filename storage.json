@@ -3415,7 +3415,9 @@
           "sellerId": 6468487434,
           "quantity": 30,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJiJ2myitmh9ITaYotVFOT_PkAhhmisAAJ4DGsb_EGZURz6xtCphXOaAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773308199434
