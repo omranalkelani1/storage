@@ -4408,9 +4408,10 @@
       }
     ],
     "current": {
-      "step": "ask_quantity",
+      "step": "confirm_quantity",
       "offerId": 1007,
-      "offerOwnerId": 7253603586
+      "offerOwnerId": 7253603586,
+      "quantity": 30
     },
     "verify": {
       "step": "waiting_photos",
@@ -4512,8 +4513,9 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "120"
+      "step": "askMaxQuantity",
+      "price": "120",
+      "minQuantity": "355"
     },
     "verify": {
       "step": null,
