@@ -4517,18 +4517,7 @@
         "publicMessageId": 5664,
         "matchedWith": null,
         "rated": false,
-        "number": 963,
-        "trade": {
-          "tradeId": 251,
-          "buyerId": 5988071824,
-          "sellerId": 6468487434,
-          "quantity": 46.75,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1773314863018
-        }
+        "number": 963
       },
       {
         "id": 1008,
