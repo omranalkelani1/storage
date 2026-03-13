@@ -2807,7 +2807,10 @@
         "number": 982
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4766,5 +4769,23 @@
       "history": []
     },
     "first_name": "27"
+  },
+  "7489631893": {
+    "phone": null,
+    "userId": 7489631893,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
