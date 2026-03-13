@@ -2662,7 +2662,8 @@
       "step": "askPayment",
       "price": "123",
       "minQuantity": "1.2",
-      "maxQuantity": "1.2"
+      "maxQuantity": "1.2",
+      "transform_way": "syriatel"
     },
     "verify": {
       "step": "waiting_photos",
