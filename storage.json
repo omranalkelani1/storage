@@ -2656,23 +2656,7 @@
     "phone": "12893682997",
     "userId": 7629073303,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1027,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "123",
-        "minQuantity": "1.2",
-        "maxQuantity": "1.2",
-        "transform_way": "syriatel",
-        "status": "pending",
-        "userId": 7629073303,
-        "checkMessageId": 1402,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": "waiting_photos",
