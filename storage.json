@@ -4403,7 +4403,8 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "116"
     },
     "verify": {
       "step": "waiting_photos",
