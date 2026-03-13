@@ -4687,14 +4687,7 @@
     "phone": "56995149411",
     "userId": 8524918246,
     "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "1000",
-      "maxQuantity": "1000",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
