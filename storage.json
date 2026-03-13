@@ -2659,8 +2659,7 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMinQuantity",
-      "price": "1.2"
+      "step": "askPrice"
     },
     "verify": {
       "step": "waiting_photos",
