@@ -4687,7 +4687,10 @@
     "phone": "56995149411",
     "userId": 8524918246,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
