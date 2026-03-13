@@ -4664,5 +4664,23 @@
       "history": []
     },
     "first_name": "ابو عمر"
+  },
+  "5560260537": {
+    "phone": "963932537167",
+    "userId": 5560260537,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "أبو",
+    "last_name": "اليمان"
   }
 }
