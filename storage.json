@@ -866,7 +866,10 @@
     "phone": "963995891250",
     "userId": 886198793,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
