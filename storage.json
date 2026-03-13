@@ -4635,5 +4635,22 @@
     },
     "first_name": "SAFI",
     "last_name": "Salama"
+  },
+  "8161861904": {
+    "phone": "963930079257",
+    "userId": 8161861904,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "ابو عمر"
   }
 }
