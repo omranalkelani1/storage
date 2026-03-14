@@ -4584,7 +4584,7 @@
       }
     ],
     "current": {
-      "operation": "شراء",
+      "operation": "بيع",
       "step": "askPrice"
     },
     "verify": {
