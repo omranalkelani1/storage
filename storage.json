@@ -4613,22 +4613,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 984
-      },
-      {
-        "id": 1033,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.6",
-        "minQuantity": "400",
-        "maxQuantity": "400",
-        "transform_way": "haram",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1408,
-        "publicMessageId": 5698,
-        "matchedWith": null,
-        "rated": false,
-        "number": 991
       }
     ],
     "current": {},
