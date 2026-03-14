@@ -2742,24 +2742,7 @@
     "phone": "963980569403",
     "userId": 7485416695,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1045,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "120",
-        "maxQuantity": "120",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7485416695,
-        "checkMessageId": 1420,
-        "publicMessageId": 5705,
-        "matchedWith": null,
-        "rated": false,
-        "number": 997
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
