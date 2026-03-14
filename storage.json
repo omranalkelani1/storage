@@ -2596,7 +2596,7 @@
       }
     ],
     "current": {
-      "step": "editQuantity",
+      "step": "editing_offer",
       "editingOfferId": 1037,
       "editDraft": {
         "id": 1037,
@@ -2604,7 +2604,7 @@
         "step": "askPayment",
         "price": "118.75",
         "minQuantity": "200",
-        "maxQuantity": "287",
+        "maxQuantity": "235",
         "transform_way": "shamSy",
         "status": "pending",
         "userId": 7751710380,
