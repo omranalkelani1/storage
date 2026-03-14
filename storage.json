@@ -897,24 +897,7 @@
   "886198793": {
     "phone": "963995891250",
     "userId": 886198793,
-    "offers": [
-      {
-        "id": 1031,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.015",
-        "minQuantity": "300",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 886198793,
-        "checkMessageId": 1406,
-        "publicMessageId": 5695,
-        "matchedWith": null,
-        "rated": false,
-        "number": 988
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
