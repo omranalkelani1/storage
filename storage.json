@@ -327,7 +327,7 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 1028,
       "editDraft": {
         "id": 1028,
