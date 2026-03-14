@@ -2593,22 +2593,6 @@
         "publicMessageId": null,
         "matchedWith": null,
         "rated": false
-      },
-      {
-        "id": 1040,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.60",
-        "minQuantity": "150",
-        "maxQuantity": "200",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 7751710380,
-        "checkMessageId": 1415,
-        "publicMessageId": 5699,
-        "matchedWith": null,
-        "rated": false,
-        "number": 992
       }
     ],
     "current": {},
