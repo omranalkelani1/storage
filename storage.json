@@ -1664,7 +1664,7 @@
           "buyerId": 2134053545,
           "sellerId": 886198793,
           "quantity": 138.5,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJkrmm1c9rWaj4ynwuj6IJfHfTcONIIAAL0DGsbTuupUcWC4lW00lgsAQADAgADeQADOgQ"
           ],
@@ -1673,7 +1673,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1773499170790,
-          "paymentInfo": "3463f600cf3f23a838471c1861a010a3"
+          "paymentInfo": "3463f600cf3f23a838471c1861a010a3",
+          "buyerPaymentInfo": "0x2a6ae0b252a51b43f530ea50d844b50d0cd7a52c"
         },
         "locked": true,
         "lockedBy": 2134053545
