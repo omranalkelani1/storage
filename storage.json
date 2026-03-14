@@ -1664,7 +1664,7 @@
           "buyerId": 2134053545,
           "sellerId": 886198793,
           "quantity": 138.5,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJkrmm1c9rWaj4ynwuj6IJfHfTcONIIAAL0DGsbTuupUcWC4lW00lgsAQADAgADeQADOgQ"
           ],
