@@ -4864,7 +4864,10 @@
     "phone": "963995884391",
     "userId": 8232747284,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
