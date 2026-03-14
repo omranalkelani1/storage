@@ -2743,7 +2743,10 @@
     "userId": 7485416695,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4881,7 +4884,11 @@
         "number": 996
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1041,
+      "offerOwnerId": 674299839
+    },
     "verify": {
       "step": null,
       "photos": []
