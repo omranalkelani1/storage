@@ -1787,7 +1787,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1043,
+  "forwardingNum": 1044,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -4863,15 +4863,24 @@
   "8232747284": {
     "phone": "963995884391",
     "userId": 8232747284,
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "60",
-      "maxQuantity": "60",
-      "transform_way": "shamDolar"
-    },
+    "offers": [
+      {
+        "id": 1044,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "60",
+        "maxQuantity": "60",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 8232747284,
+        "checkMessageId": 1419,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
