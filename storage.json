@@ -2596,23 +2596,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 1037,
-      "editDraft": {
-        "id": 1037,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "118.75",
-        "minQuantity": "200",
-        "maxQuantity": "235",
-        "transform_way": "shamSy",
-        "status": "pending",
-        "userId": 7751710380,
-        "checkMessageId": 1412,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "118.75",
+      "minQuantity": "200",
+      "maxQuantity": "235",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
