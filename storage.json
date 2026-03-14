@@ -2725,9 +2725,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "125",
-      "minQuantity": "2"
+      "minQuantity": "2",
+      "maxQuantity": "2"
     },
     "verify": {
       "step": "waiting_photos",
