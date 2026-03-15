@@ -222,7 +222,7 @@
     "userId": 647336851,
     "offers": [],
     "current": {
-      "operation": "بيع",
+      "operation": "شراء",
       "step": "askPrice"
     },
     "verify": {
