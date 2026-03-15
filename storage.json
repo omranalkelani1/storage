@@ -4649,9 +4649,8 @@
     "userId": 8232747284,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 1041,
-      "offerOwnerId": 674299839
+      "operation": "شراء",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
