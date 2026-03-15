@@ -485,35 +485,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 1049,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "100",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1424,
-        "publicMessageId": 5713,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1000,
-        "trade": {
-          "tradeId": 255,
-          "buyerId": 872282181,
-          "sellerId": 5560260537,
-          "quantity": 500,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1773572921918
-        },
-        "locked": true,
-        "lockedBy": 872282181
-      },
-      {
         "id": 1054,
         "operation": "شراء",
         "step": "askPayment",
@@ -1888,8 +1859,9 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "operation": "بيع",
-      "step": "askPrice"
+      "step": "ask_quantity",
+      "offerId": 1053,
+      "offerOwnerId": 7426160683
     },
     "verify": {
       "step": null,
