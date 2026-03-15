@@ -233,7 +233,10 @@
         "userId": 647336851,
         "checkMessageId": 1426,
         "publicMessageId": 5715,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": 7426160683,
+          "offerId": 1053
+        },
         "rated": false,
         "number": 1002
       }
@@ -3602,7 +3605,10 @@
         "userId": 7426160683,
         "checkMessageId": 1428,
         "publicMessageId": 5717,
-        "matchedWith": null,
+        "matchedWith": {
+          "userId": "647336851",
+          "offerId": 1051
+        },
         "rated": false,
         "number": 1004
       }
