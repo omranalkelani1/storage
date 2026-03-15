@@ -3629,7 +3629,29 @@
         "number": 1004
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1053,
+      "editDraft": {
+        "id": 1053,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1",
+        "minQuantity": "400",
+        "maxQuantity": "1000",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 7426160683,
+        "checkMessageId": 1428,
+        "publicMessageId": 5717,
+        "matchedWith": {
+          "userId": "647336851",
+          "offerId": 1051
+        },
+        "rated": false,
+        "number": 1004
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
