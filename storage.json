@@ -3587,7 +3587,7 @@
           "buyerId": 872282181,
           "sellerId": 7426160683,
           "quantity": 300,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJleWm2uPD2vv1ceOCXJMreiXIiR98UAAKNDWsbJKGwUUmvOjsh5tqAAQADAgADeQADOgQ"
           ],
@@ -3596,7 +3596,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1773582199313,
-          "paymentInfo": "78819d8c8287834ac8358603319b07ec"
+          "paymentInfo": "78819d8c8287834ac8358603319b07ec",
+          "buyerPaymentInfo": "ناتمزةمكظظوم"
         },
         "locked": true,
         "lockedBy": 7426160683
