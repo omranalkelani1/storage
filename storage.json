@@ -1056,7 +1056,7 @@
           "buyerId": 7461137650,
           "sellerId": 1055088306,
           "quantity": 124,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJnCWm4YLzdk-wP73ycemPTt96x9x2SAAJeDWsbfVjAUQS_g3nf4rc2AQADAgADeQADOgQ"
           ],
