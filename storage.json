@@ -1051,22 +1051,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 1017,
-        "trade": {
-          "tradeId": 261,
-          "buyerId": 7461137650,
-          "sellerId": 1055088306,
-          "quantity": 124,
-          "step": "buyer_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJnCWm4YLzdk-wP73ycemPTt96x9x2SAAJeDWsbfVjAUQS_g3nf4rc2AQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1773689232402,
-          "paymentInfo": "2d36869a50d1116d02af6a0d36503d3a\n\nZaid abo alharth"
-        },
-        "locked": true,
-        "lockedBy": 1055088306
+        "locked": false
       }
     ],
     "current": {},
