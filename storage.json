@@ -1640,22 +1640,6 @@
         "lockedBy": 2134053545
       },
       {
-        "id": 1063,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "85.12",
-        "maxQuantity": "85.12",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1438,
-        "publicMessageId": 5735,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1014
-      },
-      {
         "id": 1064,
         "operation": "شراء",
         "step": "askPayment",
