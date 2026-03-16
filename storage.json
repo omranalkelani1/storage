@@ -4906,9 +4906,13 @@
         "number": 1012
       }
     ],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1064,
+      "offerOwnerId": 2134053545
+    },
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 0,
