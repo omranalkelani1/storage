@@ -2008,7 +2008,10 @@
         "lockedBy": 5924567969
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
