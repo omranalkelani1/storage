@@ -1993,7 +1993,7 @@
           "buyerId": 1975626644,
           "sellerId": 5924567969,
           "quantity": 242.5,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmAmm30o78mdgG0vUu-mVMlZCqbe71AAKQDGsb1TbAUSR3XVhcO4LgAQADAgADeQADOgQ"
           ],
@@ -4908,8 +4908,8 @@
     ],
     "current": {
       "step": "ask_quantity",
-      "offerId": 1064,
-      "offerOwnerId": 2134053545
+      "offerId": 1059,
+      "offerOwnerId": 5988071824
     },
     "verify": {
       "step": null,
