@@ -1662,22 +1662,6 @@
         "number": 1013,
         "locked": true,
         "lockedBy": 2134053545
-      },
-      {
-        "id": 1064,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "131.7",
-        "maxQuantity": "131.7",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1439,
-        "publicMessageId": 5736,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1015
       }
     ],
     "current": {},
