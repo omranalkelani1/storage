@@ -1057,7 +1057,9 @@
           "sellerId": 1055088306,
           "quantity": 124,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJnCWm4YLzdk-wP73ycemPTt96x9x2SAAJeDWsbfVjAUQS_g3nf4rc2AQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773689232402
