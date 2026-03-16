@@ -4912,7 +4912,7 @@
       "offerOwnerId": 2134053545
     },
     "verify": {
-      "step": "waiting_photos",
+      "step": "confirm",
       "photos": [
         "AgACAgQAAxkBAAJmq2m4F0T6iotJdHMuebL27A3tdQAB-AACSw1rG9IzwVEZ-zKO6-K3zwEAAwIAA3kAAzoE",
         "AgACAgQAAxkBAAJmrGm4F0QTNU8OK1yEc_w9046pim3BAAJMDWsb0jPBUTUMWkx1IAfdAQADAgADeQADOgQ"
