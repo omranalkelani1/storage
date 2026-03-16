@@ -1652,7 +1652,10 @@
         "number": 1014
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
