@@ -1916,7 +1916,7 @@
           "buyerId": 1975626644,
           "sellerId": 5924567969,
           "quantity": 242.5,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmAmm30o78mdgG0vUu-mVMlZCqbe71AAKQDGsb1TbAUSR3XVhcO4LgAQADAgADeQADOgQ"
           ],
