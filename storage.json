@@ -220,27 +220,7 @@
   "647336851": {
     "phone": "963991708666",
     "userId": 647336851,
-    "offers": [
-      {
-        "id": 1051,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.005",
-        "minQuantity": "500",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 647336851,
-        "checkMessageId": 1426,
-        "publicMessageId": 5715,
-        "matchedWith": {
-          "userId": 7426160683,
-          "offerId": 1053
-        },
-        "rated": false,
-        "number": 1002
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -483,24 +463,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1055,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "54",
-        "maxQuantity": "54",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1430,
-        "publicMessageId": 5719,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1006
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2191,24 +2154,7 @@
     "phone": "963996545922",
     "userId": 7743470877,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1048,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "50",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 7743470877,
-        "checkMessageId": 1423,
-        "publicMessageId": 5712,
-        "matchedWith": null,
-        "rated": false,
-        "number": 999
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -3562,45 +3508,7 @@
   "7426160683": {
     "phone": "966501462544",
     "userId": 7426160683,
-    "offers": [
-      {
-        "id": 1052,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "200",
-        "maxQuantity": "300",
-        "transform_way": "shamDolar",
-        "status": "done",
-        "userId": 7426160683,
-        "checkMessageId": 1427,
-        "publicMessageId": 5716,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1003,
-        "locked": true,
-        "lockedBy": 7426160683
-      },
-      {
-        "id": 1053,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "400",
-        "maxQuantity": "1000",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7426160683,
-        "checkMessageId": 1428,
-        "publicMessageId": 5717,
-        "matchedWith": {
-          "userId": "647336851",
-          "offerId": 1051
-        },
-        "rated": false,
-        "number": 1004
-      }
-    ],
+    "offers": [],
     "current": {
       "step": "editQuantity",
       "editingOfferId": 1053,
@@ -4568,24 +4476,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 1050,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.7",
-        "minQuantity": "100",
-        "maxQuantity": "400",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1425,
-        "publicMessageId": 5714,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1001
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4790,24 +4681,7 @@
   "8232747284": {
     "phone": "963995884391",
     "userId": 8232747284,
-    "offers": [
-      {
-        "id": 1047,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "50",
-        "maxQuantity": "60",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 8232747284,
-        "checkMessageId": 1422,
-        "publicMessageId": 5711,
-        "matchedWith": null,
-        "rated": false,
-        "number": 998
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
