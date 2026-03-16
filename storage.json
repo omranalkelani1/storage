@@ -1611,16 +1611,24 @@
         "number": 1011,
         "locked": true,
         "lockedBy": 2134053545
+      },
+      {
+        "id": 1062,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "208",
+        "maxQuantity": "208",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 2134053545,
+        "checkMessageId": 1437,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.01",
-      "minQuantity": "208",
-      "maxQuantity": "208",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1761,7 +1769,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1061,
+  "forwardingNum": 1062,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
