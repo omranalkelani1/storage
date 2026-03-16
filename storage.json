@@ -1056,12 +1056,14 @@
           "buyerId": 7461137650,
           "sellerId": 1055088306,
           "quantity": 124,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773689232402
-        }
+        },
+        "locked": true,
+        "lockedBy": 1055088306
       }
     ],
     "current": {},
