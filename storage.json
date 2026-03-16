@@ -1917,7 +1917,9 @@
           "sellerId": 5924567969,
           "quantity": 242.5,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJmAmm30o78mdgG0vUu-mVMlZCqbe71AAKQDGsb1TbAUSR3XVhcO4LgAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773654097405
@@ -3712,7 +3714,11 @@
     "phone": "963958906438",
     "userId": 7132461559,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1057,
+      "offerOwnerId": 647336851
+    },
     "verify": {
       "step": null,
       "photos": []
