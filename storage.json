@@ -4843,9 +4843,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "118",
-      "minQuantity": "25"
+      "minQuantity": "25",
+      "maxQuantity": "50"
     },
     "verify": {
       "step": null,
