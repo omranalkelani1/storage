@@ -4912,7 +4912,7 @@
       "offerOwnerId": 2134053545
     },
     "verify": {
-      "step": "confirm",
+      "step": null,
       "photos": [
         "AgACAgQAAxkBAAJmq2m4F0T6iotJdHMuebL27A3tdQAB-AACSw1rG9IzwVEZ-zKO6-K3zwEAAwIAA3kAAzoE",
         "AgACAgQAAxkBAAJmrGm4F0QTNU8OK1yEc_w9046pim3BAAJMDWsb0jPBUTUMWkx1IAfdAQADAgADeQADOgQ"
@@ -4925,6 +4925,7 @@
       "history": []
     },
     "first_name": "nasim",
-    "last_name": "ali"
+    "last_name": "ali",
+    "verified": true
   }
 }
