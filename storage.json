@@ -4940,7 +4940,10 @@
     "phone": "967777374381",
     "userId": 7461137650,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
