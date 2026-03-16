@@ -4942,9 +4942,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "130",
-      "minQuantity": "150"
+      "minQuantity": "150",
+      "maxQuantity": "150"
     },
     "verify": {
       "step": null,
