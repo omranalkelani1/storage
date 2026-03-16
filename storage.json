@@ -1633,7 +1633,9 @@
           "sellerId": 887904203,
           "quantity": 208,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJmcWm4AAGPAnabatMhvXLDQX3kITqaLgACOg1rG2A1wFGTi9G5Hu-GiwEAAwIAA3kAAzoE"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773666289166
