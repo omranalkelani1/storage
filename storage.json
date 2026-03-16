@@ -4841,7 +4841,10 @@
     "phone": "963945310852",
     "userId": 6059489238,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
