@@ -1609,12 +1609,14 @@
           "buyerId": 2134053545,
           "sellerId": 887904203,
           "quantity": 100,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773658763923
-        }
+        },
+        "locked": true,
+        "lockedBy": 2134053545
       }
     ],
     "current": {},
