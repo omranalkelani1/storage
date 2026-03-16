@@ -1916,13 +1916,14 @@
           "buyerId": 1975626644,
           "sellerId": 5924567969,
           "quantity": 242.5,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmAmm30o78mdgG0vUu-mVMlZCqbe71AAKQDGsb1TbAUSR3XVhcO4LgAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1773654097405
+          "createdAt": 1773654097405,
+          "paymentInfo": "18d7f7f84065a25d26fbfdc92eb4b1b0"
         },
         "locked": true,
         "lockedBy": 5924567969
