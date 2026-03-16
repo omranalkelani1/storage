@@ -1609,7 +1609,7 @@
           "buyerId": 2134053545,
           "sellerId": 887904203,
           "quantity": 100,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmL2m34uNsJ6MPw6CqNp_lQaVnMRsXAAIrDWsbYDXAUXV_GC7rp2PYAQADAgADeQADOgQ"
           ],
