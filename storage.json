@@ -4836,5 +4836,23 @@
       "count": 0,
       "history": []
     }
+  },
+  "6059489238": {
+    "phone": "963945310852",
+    "userId": 6059489238,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "nasim",
+    "last_name": "ali"
   }
 }
