@@ -1632,7 +1632,7 @@
           "buyerId": 2134053545,
           "sellerId": 887904203,
           "quantity": 208,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmcWm4AAGPAnabatMhvXLDQX3kITqaLgACOg1rG2A1wFGTi9G5Hu-GiwEAAwIAA3kAAzoE"
           ],
@@ -1641,7 +1641,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1773666289166,
-          "paymentInfo": "877f6062b51856213a6fc83f22a84d40"
+          "paymentInfo": "877f6062b51856213a6fc83f22a84d40",
+          "buyerPaymentInfo": "0x2a6ae0b252a51b43f530ea50d844b50d0cd7a52c"
         },
         "locked": true,
         "lockedBy": 2134053545
