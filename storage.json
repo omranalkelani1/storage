@@ -2011,9 +2011,10 @@
     ],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "122",
-      "minQuantity": "98.5"
+      "minQuantity": "98.5",
+      "maxQuantity": "98.5"
     },
     "verify": {
       "step": null,
