@@ -1044,12 +1044,13 @@
         "minQuantity": "124",
         "maxQuantity": "124",
         "transform_way": "shamDolar",
-        "status": "pending",
+        "status": "approved",
         "userId": 1055088306,
         "checkMessageId": 1445,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 1017
       }
     ],
     "current": {},
@@ -1723,7 +1724,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 1016,
+  "offerSeq": 1017,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
