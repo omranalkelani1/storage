@@ -1916,7 +1916,7 @@
           "buyerId": 1975626644,
           "sellerId": 5924567969,
           "quantity": 242.5,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJmAmm30o78mdgG0vUu-mVMlZCqbe71AAKQDGsb1TbAUSR3XVhcO4LgAQADAgADeQADOgQ"
           ],
@@ -4252,6 +4252,11 @@
         "from": 5329698405,
         "rate": 5,
         "date": 1772803477797
+      },
+      {
+        "from": 713076584,
+        "rate": 5,
+        "date": 1773655912302
       }
     ],
     "strikes": {
