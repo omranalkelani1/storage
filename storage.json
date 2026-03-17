@@ -1595,9 +1595,10 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "119",
-      "minQuantity": "201.68"
+      "minQuantity": "201.68",
+      "maxQuantity": "201.68"
     },
     "verify": {
       "step": null,
