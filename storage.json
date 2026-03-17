@@ -4549,25 +4549,11 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 1070,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "118.5",
-        "minQuantity": "43.88",
-        "maxQuantity": "43.88",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1449,
-        "publicMessageId": 5748,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1021
-      }
-    ],
-    "current": {},
+    "offers": [],
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
