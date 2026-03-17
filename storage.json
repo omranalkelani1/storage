@@ -4551,22 +4551,6 @@
     "userId": 5988071824,
     "offers": [
       {
-        "id": 1068,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "117.5",
-        "minQuantity": "200",
-        "maxQuantity": "401",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1447,
-        "publicMessageId": 5746,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1019
-      },
-      {
         "id": 1070,
         "operation": "شراء",
         "step": "askPayment",
