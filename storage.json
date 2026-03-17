@@ -4517,7 +4517,10 @@
     "phone": "963935566319",
     "userId": 5988071824,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
