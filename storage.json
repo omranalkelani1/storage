@@ -1593,7 +1593,26 @@
         "number": 1022
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1071,
+      "editDraft": {
+        "id": 1071,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "119",
+        "minQuantity": "401.68",
+        "maxQuantity": "401.68",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 2134053545,
+        "checkMessageId": 1450,
+        "publicMessageId": 5750,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1022
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
