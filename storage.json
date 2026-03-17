@@ -1037,22 +1037,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 1079,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "159",
-        "maxQuantity": "159",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 1055088306,
-        "checkMessageId": 1458,
-        "publicMessageId": 5758,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1029
-      },
-      {
         "id": 1080,
         "operation": "بيع",
         "step": "askPayment",
