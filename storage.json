@@ -4549,24 +4549,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 1074,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "395.75",
-        "maxQuantity": "395.75",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1453,
-        "publicMessageId": 5752,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1024
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4845,5 +4828,23 @@
       "history": []
     },
     "first_name": "بيع وشراء العملات الرقميه"
+  },
+  "7790220345": {
+    "phone": null,
+    "userId": 7790220345,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
