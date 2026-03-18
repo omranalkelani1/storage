@@ -4852,7 +4852,10 @@
     "phone": "963942256524",
     "userId": 7454965727,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
