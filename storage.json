@@ -4942,5 +4942,22 @@
       "count": 0,
       "history": []
     }
+  },
+  "5902692341": {
+    "phone": "963985859767",
+    "userId": 5902692341,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "ADEL"
   }
 }
