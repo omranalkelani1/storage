@@ -1760,7 +1760,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1092,
+  "forwardingNum": 1093,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -1851,15 +1851,24 @@
     "phone": "963983663625",
     "userId": 5693992074,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "121",
-      "minQuantity": "50",
-      "maxQuantity": "125",
-      "transform_way": "syriatel"
-    },
+    "offers": [
+      {
+        "id": 1093,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "121",
+        "minQuantity": "50",
+        "maxQuantity": "125",
+        "transform_way": "syriatel",
+        "status": "pending",
+        "userId": 5693992074,
+        "checkMessageId": 1472,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
