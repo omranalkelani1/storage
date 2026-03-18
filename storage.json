@@ -220,42 +220,7 @@
   "647336851": {
     "phone": "963991708666",
     "userId": 647336851,
-    "offers": [
-      {
-        "id": 1085,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "500",
-        "maxQuantity": "500",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 647336851,
-        "checkMessageId": 1464,
-        "publicMessageId": 5769,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1034,
-        "trade": {
-          "tradeId": 263,
-          "buyerId": 872282181,
-          "sellerId": 647336851,
-          "quantity": 500,
-          "step": "buyer_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJoo2m6s_Pn-XjUhaRBzBrhAnlTWpelAAILDWsbv9nRUerVJKyvzqXmAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJouGm6t8kn4mjN5TM4GV51u_BobfUmAAKtDGsbEufZUTnQpNQUk9NnAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [],
-          "createdAt": 1773843247078,
-          "paymentInfo": "df7b965097da9138e438cb75caa2b077\n\nمنار ابراهيم شمالي"
-        },
-        "locked": true,
-        "lockedBy": 647336851
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
