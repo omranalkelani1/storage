@@ -4854,7 +4854,8 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askPrice"
+      "step": "askMinQuantity",
+      "price": "1.19"
     },
     "verify": {
       "step": null,
