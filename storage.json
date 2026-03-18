@@ -4851,23 +4851,7 @@
   "7454965727": {
     "phone": "963942256524",
     "userId": 7454965727,
-    "offers": [
-      {
-        "id": 1087,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.5",
-        "minQuantity": "1.000",
-        "maxQuantity": "14.000",
-        "transform_way": "shamDolar",
-        "status": "pending",
-        "userId": 7454965727,
-        "checkMessageId": 1466,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
