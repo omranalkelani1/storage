@@ -4868,7 +4868,9 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "transform_way": "kadmos"
+    },
     "verify": {
       "step": null,
       "photos": []
