@@ -1910,7 +1910,10 @@
     "userId": 5924567969,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4897,5 +4900,23 @@
       "history": []
     },
     "first_name": "Mahd"
+  },
+  "8019565737": {
+    "phone": null,
+    "userId": 8019565737,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
   }
 }
