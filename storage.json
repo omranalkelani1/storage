@@ -2317,14 +2317,7 @@
     "userId": 7970479825,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.01",
-      "minQuantity": "45",
-      "maxQuantity": "45",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
