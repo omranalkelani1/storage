@@ -1946,12 +1946,16 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 98,
-          "step": "owner_pending_accept",
-          "sellerProofs": [],
+          "step": "seller_upload",
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJogGm6qReLfuBdEDoc49eswlU4AsIgAAJVDmsbhArZUQcMqZLr3mPlAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773840599238
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
