@@ -241,7 +241,7 @@
           "buyerId": 872282181,
           "sellerId": 647336851,
           "quantity": 500,
-          "step": "wait_admin_seller",
+          "step": "seller_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJoo2m6s_Pn-XjUhaRBzBrhAnlTWpelAAILDWsbv9nRUerVJKyvzqXmAQADAgADeQADOgQ"
           ],
