@@ -4853,7 +4853,8 @@
     "userId": 7454965727,
     "offers": [],
     "current": {
-      "transform_way": "kadmos"
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
