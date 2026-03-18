@@ -4761,7 +4761,8 @@
       "step": "askPayment",
       "price": "1",
       "minQuantity": "50",
-      "maxQuantity": "57"
+      "maxQuantity": "57",
+      "transform_way": "shamDolar"
     },
     "verify": {
       "step": null,
