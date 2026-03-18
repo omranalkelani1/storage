@@ -245,7 +245,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJoo2m6s_Pn-XjUhaRBzBrhAnlTWpelAAILDWsbv9nRUerVJKyvzqXmAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJouGm6t8kn4mjN5TM4GV51u_BobfUmAAKtDGsbEufZUTnQpNQUk9NnAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1773843247078,
           "paymentInfo": "df7b965097da9138e438cb75caa2b077\n\nمنار ابراهيم شمالي"
