@@ -1595,7 +1595,18 @@
         "publicMessageId": 5788,
         "matchedWith": null,
         "rated": false,
-        "number": 1046
+        "number": 1046,
+        "trade": {
+          "tradeId": 264,
+          "buyerId": 2134053545,
+          "sellerId": 7426160683,
+          "quantity": 200,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1773924187248
+        }
       }
     ],
     "current": {},
@@ -1807,7 +1818,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 263,
+  "tradeId": 264,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
@@ -3584,29 +3595,7 @@
     "phone": "966501462544",
     "userId": 7426160683,
     "offers": [],
-    "current": {
-      "step": "editQuantity",
-      "editingOfferId": 1053,
-      "editDraft": {
-        "id": 1053,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "400",
-        "maxQuantity": "1000",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7426160683,
-        "checkMessageId": 1428,
-        "publicMessageId": 5717,
-        "matchedWith": {
-          "userId": "647336851",
-          "offerId": 1051
-        },
-        "rated": false,
-        "number": 1004
-      }
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
