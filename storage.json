@@ -4564,12 +4564,10 @@
     "first_name": "....."
   },
   "5867295682": {
-    "phone": null,
+    "phone": "963935748982",
     "userId": 5867295682,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -4579,7 +4577,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "bashar",
+    "last_name": "obaid"
   },
   "6468487434": {
     "phone": "963993360412",
