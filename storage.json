@@ -1631,7 +1631,26 @@
         "number": 1051
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1104,
+      "editDraft": {
+        "id": 1104,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "121",
+        "minQuantity": "140",
+        "maxQuantity": "140",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 2134053545,
+        "checkMessageId": 1483,
+        "publicMessageId": 5793,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1051
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
