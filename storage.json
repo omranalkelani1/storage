@@ -1679,23 +1679,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1051
-      },
-      {
-        "id": 1105,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "121",
-        "minQuantity": "100",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1484,
-        "publicMessageId": 5794,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1052,
-        "locked": false
       }
     ],
     "current": {},
