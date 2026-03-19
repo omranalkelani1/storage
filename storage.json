@@ -139,24 +139,7 @@
     "phone": "963991045572",
     "userId": 453328157,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1107,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "119",
-        "minQuantity": "132",
-        "maxQuantity": "132",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 453328157,
-        "checkMessageId": 1486,
-        "publicMessageId": 5796,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1054
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
