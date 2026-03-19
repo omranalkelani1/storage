@@ -141,22 +141,6 @@
     "category": "🥉 برونزي",
     "offers": [
       {
-        "id": 1106,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "41.5",
-        "maxQuantity": "41.5",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 453328157,
-        "checkMessageId": 1485,
-        "publicMessageId": 5795,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1053
-      },
-      {
         "id": 1107,
         "operation": "شراء",
         "step": "askPayment",
