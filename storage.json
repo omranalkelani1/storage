@@ -1602,7 +1602,9 @@
           "sellerId": 7426160683,
           "quantity": 200,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJpRWm78RzQEWgOBLgck91HHou_osk3AAKpDGsb0-DhUS9clUtq3uvbAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1773924187248
