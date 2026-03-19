@@ -1580,43 +1580,7 @@
   "2134053545": {
     "phone": "963953275296",
     "userId": 2134053545,
-    "offers": [
-      {
-        "id": 1099,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "100",
-        "maxQuantity": "750",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1478,
-        "publicMessageId": 5788,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1046,
-        "trade": {
-          "tradeId": 264,
-          "buyerId": 2134053545,
-          "sellerId": 7426160683,
-          "quantity": 200,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJpRWm78RzQEWgOBLgck91HHou_osk3AAKpDGsb0-DhUS9clUtq3uvbAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJpTGm79eS9Fwl5RJzIvW7SMJthTCdXAALBDGsbNPfhUeREw9-0BXuGAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [],
-          "createdAt": 1773924187248,
-          "paymentInfo": "46c20b15ef9a983cb4c01ce13cb02749",
-          "buyerPaymentInfo": "0x2a6ae0b252a51b43f530ea50d844b50d0cd7a52c"
-        },
-        "locked": true,
-        "lockedBy": 2134053545
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
