@@ -463,24 +463,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1103,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "200",
-        "maxQuantity": "400",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1482,
-        "publicMessageId": 5792,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1050
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -842,24 +825,7 @@
   "886198793": {
     "phone": "963995891250",
     "userId": 886198793,
-    "offers": [
-      {
-        "id": 1108,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "70",
-        "maxQuantity": "75",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 886198793,
-        "checkMessageId": 1487,
-        "publicMessageId": 5797,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1055
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -1614,40 +1580,7 @@
   "2134053545": {
     "phone": "963953275296",
     "userId": 2134053545,
-    "offers": [
-      {
-        "id": 1101,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "100",
-        "maxQuantity": "1000",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1480,
-        "publicMessageId": 5791,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1049
-      },
-      {
-        "id": 1104,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "121",
-        "minQuantity": "140",
-        "maxQuantity": "140",
-        "transform_way": "shamSy",
-        "status": "rejected",
-        "userId": 2134053545,
-        "checkMessageId": 1483,
-        "publicMessageId": 5793,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1051
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2846,24 +2779,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1098,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "125",
-        "minQuantity": "21",
-        "maxQuantity": "21",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1477,
-        "publicMessageId": 5787,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1045
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -2917,24 +2833,7 @@
     "phone": "963969313579",
     "userId": 5129762526,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1102,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "21",
-        "maxQuantity": "21",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5129762526,
-        "checkMessageId": 1481,
-        "publicMessageId": 5790,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1048
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -4605,24 +4504,7 @@
   "5988071824": {
     "phone": "963935566319",
     "userId": 5988071824,
-    "offers": [
-      {
-        "id": 1100,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "120",
-        "minQuantity": "10",
-        "maxQuantity": "137.25",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1479,
-        "publicMessageId": 5789,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1047
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
