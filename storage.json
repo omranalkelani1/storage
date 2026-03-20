@@ -496,22 +496,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1058
-      },
-      {
-        "id": 1117,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.015",
-        "minQuantity": "355",
-        "maxQuantity": "355",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1496,
-        "publicMessageId": 5811,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1064
       }
     ],
     "current": {},
