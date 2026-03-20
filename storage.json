@@ -498,7 +498,26 @@
         "number": 1058
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1111,
+      "editDraft": {
+        "id": 1111,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.01",
+        "minQuantity": "200",
+        "maxQuantity": "370",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 872282181,
+        "checkMessageId": 1490,
+        "publicMessageId": 5805,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1058
+      }
+    },
     "verify": {
       "step": null,
       "photos": [
