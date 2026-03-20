@@ -496,16 +496,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 1058
+      },
+      {
+        "id": 1117,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "1.015",
+        "minQuantity": "355",
+        "maxQuantity": "355",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 872282181,
+        "checkMessageId": 1496,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "1.015",
-      "minQuantity": "355",
-      "maxQuantity": "355",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": [
@@ -1785,7 +1793,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1116,
+  "forwardingNum": 1117,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
