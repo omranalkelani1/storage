@@ -4573,14 +4573,7 @@
     "phone": "963935566319",
     "userId": 5988071824,
     "offers": [],
-    "current": {
-      "operation": "شراء",
-      "step": "askPayment",
-      "price": "122",
-      "minQuantity": "10",
-      "maxQuantity": "135",
-      "transform_way": "mtn"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
