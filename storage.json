@@ -2055,7 +2055,7 @@
         "id": 1132,
         "operation": "شراء",
         "step": "askPayment",
-        "price": "121",
+        "price": "120",
         "minQuantity": "150",
         "maxQuantity": "500",
         "transform_way": "shamSy",
