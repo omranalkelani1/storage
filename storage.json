@@ -508,22 +508,6 @@
         "number": 1074,
         "locked": true,
         "lockedBy": 872282181
-      },
-      {
-        "id": 1128,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "20",
-        "maxQuantity": "90",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1507,
-        "publicMessageId": 5826,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1075
       }
     ],
     "current": {},
