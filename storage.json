@@ -1091,13 +1091,14 @@
           "buyerId": 5134156042,
           "sellerId": 1055088306,
           "quantity": 117,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJra2m-s-KXX55d4rChpmg70ueT450GAAKvDGsbMCTwUS3tMSuhULR0AQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774104483153
+          "createdAt": 1774104483153,
+          "paymentInfo": "2d36869a50d1116d02af6a0d36503d3a\n\nZaid abo alharth"
         },
         "locked": true,
         "lockedBy": 1055088306
