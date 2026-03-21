@@ -2063,7 +2063,25 @@
         "rated": false
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1136,
+      "editDraft": {
+        "id": 1136,
+        "operation": "شراء",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "150",
+        "maxQuantity": "500",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 5924567969,
+        "checkMessageId": 1515,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
