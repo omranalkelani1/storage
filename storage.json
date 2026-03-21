@@ -1091,7 +1091,7 @@
           "buyerId": 5134156042,
           "sellerId": 1055088306,
           "quantity": 117,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJra2m-s-KXX55d4rChpmg70ueT450GAAKvDGsbMCTwUS3tMSuhULR0AQADAgADeQADOgQ"
           ],
