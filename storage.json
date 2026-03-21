@@ -1091,12 +1091,14 @@
           "buyerId": 5134156042,
           "sellerId": 1055088306,
           "quantity": 117,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774104483153
-        }
+        },
+        "locked": true,
+        "lockedBy": 1055088306
       }
     ],
     "current": {},
