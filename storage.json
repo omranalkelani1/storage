@@ -509,7 +509,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJrIGm-kiQHZr0wpiWNfK5BkgbdygjJAAKPDGsbl4LxUXz2oLRzvnYwAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJrJ2m-lWSBmr7A2WT4g2jwS6u3sK7KAAKgDWsbnU_5UVSyOotOo7BTAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1774096749126,
           "paymentInfo": "0dbe85b457feaa50671b3b0cd4f2ddc8"
