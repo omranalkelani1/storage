@@ -506,7 +506,9 @@
           "sellerId": 647336851,
           "quantity": 300,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJrIGm-kiQHZr0wpiWNfK5BkgbdygjJAAKPDGsbl4LxUXz2oLRzvnYwAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774096749126
