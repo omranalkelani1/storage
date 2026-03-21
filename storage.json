@@ -4103,9 +4103,8 @@
     "userId": 7007954041,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 578,
-      "offerOwnerId": 872282181
+      "operation": "شراء",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
