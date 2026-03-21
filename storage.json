@@ -5,8 +5,9 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "operation": "بيع",
-      "step": "askPrice"
+      "step": "ask_quantity",
+      "offerId": 1127,
+      "offerOwnerId": 872282181
     },
     "verify": {
       "step": "waiting_photos",
@@ -498,7 +499,18 @@
         "publicMessageId": 5825,
         "matchedWith": null,
         "rated": false,
-        "number": 1074
+        "number": 1074,
+        "trade": {
+          "tradeId": 266,
+          "buyerId": 872282181,
+          "sellerId": 647336851,
+          "quantity": 300,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1774096749126
+        }
       },
       {
         "id": 1128,
@@ -1877,7 +1889,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 265,
+  "tradeId": 266,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
