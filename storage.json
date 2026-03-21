@@ -1095,7 +1095,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJra2m-s-KXX55d4rChpmg70ueT450GAAKvDGsbMCTwUS3tMSuhULR0AQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgIAAxkBAAJrcmm-txLZ5E4t7wWlQP91htpbgB13AAJTFmsb7wn5SQGTeQl4qNeTAQADAgADdwADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1774104483153,
           "paymentInfo": "2d36869a50d1116d02af6a0d36503d3a\n\nZaid abo alharth"
