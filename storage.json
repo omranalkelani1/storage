@@ -1079,32 +1079,13 @@
         "minQuantity": "117",
         "maxQuantity": "117",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 1055088306,
         "checkMessageId": 1510,
         "publicMessageId": 5829,
         "matchedWith": null,
         "rated": false,
         "number": 1078,
-        "trade": {
-          "tradeId": 267,
-          "buyerId": 5134156042,
-          "sellerId": 1055088306,
-          "quantity": 117,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJra2m-s-KXX55d4rChpmg70ueT450GAAKvDGsbMCTwUS3tMSuhULR0AQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgIAAxkBAAJrcmm-txLZ5E4t7wWlQP91htpbgB13AAJTFmsb7wn5SQGTeQl4qNeTAQADAgADdwADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIJkmm-vt22sSKOCUfjmBLJjyrL2DirAAKpDWsbPLT4Ub-nUtqPslVcAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1774104483153,
-          "paymentInfo": "2d36869a50d1116d02af6a0d36503d3a\n\nZaid abo alharth",
-          "buyerPaymentInfo": "Usdt BEP20 \n\n0x886BB18C62722D0bB1E016d94B20A35818b8fe7F"
-        },
         "locked": true,
         "lockedBy": 1055088306
       }
@@ -1114,7 +1095,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [],
     "strikes": {
       "count": 0,
@@ -2630,7 +2611,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 12,
+    "tradesCount": 13,
     "ratings": [
       {
         "from": 5134156042,
