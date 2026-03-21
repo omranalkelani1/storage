@@ -505,13 +505,14 @@
           "buyerId": 872282181,
           "sellerId": 647336851,
           "quantity": 300,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJrIGm-kiQHZr0wpiWNfK5BkgbdygjJAAKPDGsbl4LxUXz2oLRzvnYwAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774096749126
+          "createdAt": 1774096749126,
+          "paymentInfo": "0dbe85b457feaa50671b3b0cd4f2ddc8"
         },
         "locked": true,
         "lockedBy": 872282181
