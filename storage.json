@@ -485,19 +485,7 @@
         "matchedWith": null,
         "rated": false,
         "number": 1086,
-        "trade": {
-          "tradeId": 270,
-          "buyerId": 872282181,
-          "sellerId": 1108252023,
-          "quantity": 30,
-          "step": "seller_upload",
-          "sellerProofs": [],
-          "buyerProofs": [],
-          "adminProofs": [],
-          "createdAt": 1774187000838
-        },
-        "locked": true,
-        "lockedBy": 872282181
+        "locked": false
       }
     ],
     "current": {},
@@ -1102,7 +1090,12 @@
     "phone": "963933828148",
     "userId": 1108252023,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "confirm_quantity",
+      "offerId": 1139,
+      "offerOwnerId": 5988071824,
+      "quantity": 128.8
+    },
     "verify": {
       "step": null,
       "photos": []
