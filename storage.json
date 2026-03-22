@@ -1072,7 +1072,10 @@
     "phone": "963933828148",
     "userId": 1108252023,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
