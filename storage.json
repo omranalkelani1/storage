@@ -1952,8 +1952,7 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMinQuantity",
-      "price": "125"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
