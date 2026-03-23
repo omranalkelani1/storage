@@ -4716,7 +4716,9 @@
             "AgACAgQAAxkBAAJs9GnBiczEkD4Pw1jF1IltvSMjM5omAAJ0DGsbZU8QUp2fbfcfkxQHAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJs9WnBicx48-VogoPUnvwJt_HOWDVlAAJ1DGsbZU8QUond0JgIk1ecAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJs_mnBjFZGgrndAAHo0NdVh9hG8yA0ZQACmAxrG39UEFJJNv-EHR-tHwEAAwIAA3kAAzoE"
+          ],
           "adminProofs": [],
           "createdAt": 1774290576569,
           "paymentInfo": "44bcc60ad6a2ae2190e2cecddb878896"
