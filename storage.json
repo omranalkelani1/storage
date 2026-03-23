@@ -1949,9 +1949,10 @@
     ],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "125",
-      "minQuantity": "100"
+      "minQuantity": "100",
+      "maxQuantity": "200"
     },
     "verify": {
       "step": null,
