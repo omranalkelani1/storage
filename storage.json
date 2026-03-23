@@ -19,16 +19,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 1090
+      },
+      {
+        "id": 1148,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "122",
+        "minQuantity": "38",
+        "maxQuantity": "38",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 51970206,
+        "checkMessageId": 1527,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "122",
-      "minQuantity": "38",
-      "maxQuantity": "38",
-      "transform_way": "shamSy"
-    },
+    "current": {},
     "verify": {
       "step": "waiting_photos",
       "photos": []
@@ -1818,7 +1826,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1147,
+  "forwardingNum": 1148,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
