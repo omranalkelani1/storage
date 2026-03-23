@@ -4690,7 +4690,10 @@
     "phone": "963994397111",
     "userId": 5522366824,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
