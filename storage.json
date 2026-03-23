@@ -1061,24 +1061,7 @@
     "phone": "963960028860",
     "userId": 1055088306,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1146,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "214",
-        "maxQuantity": "214",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 1055088306,
-        "checkMessageId": 1525,
-        "publicMessageId": 5851,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1092
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -5031,5 +5014,22 @@
       "count": 0,
       "history": []
     }
+  },
+  "8531796478": {
+    "phone": "212694335265",
+    "userId": 8531796478,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Bahaa"
   }
 }
