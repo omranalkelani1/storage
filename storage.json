@@ -4687,12 +4687,10 @@
     }
   },
   "5522366824": {
-    "phone": null,
+    "phone": "963994397111",
     "userId": 5522366824,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -4702,7 +4700,9 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "وسيم",
+    "last_name": "الشافعي"
   },
   "7732203162": {
     "phone": null,
