@@ -4710,7 +4710,7 @@
           "buyerId": 872282181,
           "sellerId": 5522366824,
           "quantity": 49,
-          "step": "buyer_confirm_payment_info",
+          "step": "admin_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJs82nBicwW5nZ5tS9UTjf8KBPYyhJSAAJzDGsbZU8QUri44iz5qE3gAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJs9GnBiczEkD4Pw1jF1IltvSMjM5omAAJ0DGsbZU8QUp2fbfcfkxQHAQADAgADeQADOgQ",
