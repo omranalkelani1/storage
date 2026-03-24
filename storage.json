@@ -3660,7 +3660,11 @@
     "phone": "4915212635256",
     "userId": 6408145762,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1158,
+      "offerOwnerId": 872282181
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
