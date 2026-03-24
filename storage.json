@@ -3673,10 +3673,8 @@
     "offers": [],
     "current": {},
     "verify": {
-      "step": "confirm",
-      "photos": [
-        "AgACAgIAAxkBAAJtomnCwgndz9okigh3rTC_3j3Q0RqUAAKGEmsbiwIYSsG4uJLk7qxeAQADAgADeQADOgQ"
-      ]
+      "step": "waiting_photos",
+      "photos": []
     },
     "tradesCount": 0,
     "ratings": [],
