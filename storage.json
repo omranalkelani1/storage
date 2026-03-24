@@ -3677,7 +3677,7 @@
       "offerOwnerId": 872282181
     },
     "verify": {
-      "step": "waiting_photos",
+      "step": "confirm",
       "photos": [
         "AgACAgIAAxkBAAJtomnCwgndz9okigh3rTC_3j3Q0RqUAAKGEmsbiwIYSsG4uJLk7qxeAQADAgADeQADOgQ"
       ]
