@@ -1105,22 +1105,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1102
-      },
-      {
-        "id": 1159,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.008",
-        "minQuantity": "102",
-        "maxQuantity": "102",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 1055088306,
-        "checkMessageId": 1541,
-        "publicMessageId": 5873,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1104
       }
     ],
     "current": {},
