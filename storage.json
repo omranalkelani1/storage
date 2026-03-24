@@ -3678,7 +3678,9 @@
     },
     "verify": {
       "step": "waiting_photos",
-      "photos": []
+      "photos": [
+        "AgACAgIAAxkBAAJtomnCwgndz9okigh3rTC_3j3Q0RqUAAKGEmsbiwIYSsG4uJLk7qxeAQADAgADeQADOgQ"
+      ]
     },
     "tradesCount": 0,
     "ratings": [],
