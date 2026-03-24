@@ -534,18 +534,19 @@
         "matchedWith": null,
         "rated": false,
         "number": 1103,
-        "locked": false,
+        "locked": true,
         "trade": {
           "tradeId": 276,
           "buyerId": 872282181,
           "sellerId": 51970206,
           "quantity": 40,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774377023770
-        }
+        },
+        "lockedBy": 872282181
       }
     ],
     "current": {},
