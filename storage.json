@@ -527,7 +527,7 @@
         "minQuantity": "20",
         "maxQuantity": "50",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 872282181,
         "checkMessageId": 1537,
         "publicMessageId": 5872,
@@ -535,26 +535,6 @@
         "rated": false,
         "number": 1103,
         "locked": true,
-        "trade": {
-          "tradeId": 276,
-          "buyerId": 872282181,
-          "sellerId": 51970206,
-          "quantity": 40,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJt0GnC20uSsmar0p3BojHPCaQgpsbHAALiDWsbeVoYUqOAGNNfuIP3AQADAgADdwADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJt12nC3lKCWY0SoZ6eX7Va1Tf7cSbmAAL9DGsbpEAQUkrEDBAIVrHfAQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAJt2GnC3lIkV-Y1g1brmBXduHJdf3SoAAL-DGsbpEAQUvCfQns9atj0AQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIJwWnC6oSjR-fpcyFaF1n4tdXpOOVEAAKvDGsbWNUZUgzNmpVp2N6OAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1774377023770,
-          "paymentInfo": "651772b23ee923513e633d0fa05b1a15",
-          "buyerPaymentInfo": "ظرنبنبنبمبمبك"
-        },
         "lockedBy": 872282181
       }
     ],
@@ -565,7 +545,7 @@
         "AgACAgQAAx0CWfjyTwACEm5pgvQ3BwRQLaVcZVB6ZjTpJ7ksAAM4DmsbO04YUC-F6FntH9s0AQADAgADeQADOAQ"
       ]
     },
-    "tradesCount": 120,
+    "tradesCount": 122,
     "ratings": [
       {
         "from": 5129178902,
