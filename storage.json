@@ -3673,7 +3673,7 @@
     "offers": [],
     "current": {},
     "verify": {
-      "step": "waiting_photos",
+      "step": null,
       "photos": []
     },
     "tradesCount": 0,
@@ -3683,7 +3683,8 @@
       "history": []
     },
     "first_name": "Abdalmajeed",
-    "last_name": "Kanaan"
+    "last_name": "Kanaan",
+    "verified": true
   },
   "5675600312": {
     "phone": null,
