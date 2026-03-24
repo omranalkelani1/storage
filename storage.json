@@ -1981,24 +1981,7 @@
     "phone": "963933918566",
     "userId": 5924567969,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1155,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "99.2",
-        "maxQuantity": "99.2",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 1534,
-        "publicMessageId": 5867,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1100
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
