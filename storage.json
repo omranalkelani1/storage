@@ -533,7 +533,18 @@
         "publicMessageId": 5872,
         "matchedWith": null,
         "rated": false,
-        "number": 1103
+        "number": 1103,
+        "trade": {
+          "tradeId": 274,
+          "buyerId": 872282181,
+          "sellerId": 51970206,
+          "quantity": 38,
+          "step": "owner_pending_accept",
+          "sellerProofs": [],
+          "buyerProofs": [],
+          "adminProofs": [],
+          "createdAt": 1774371316736
+        }
       }
     ],
     "current": {},
@@ -1912,7 +1923,7 @@
     "first_name": "@",
     "last_name": "A"
   },
-  "tradeId": 273,
+  "tradeId": 274,
   "6956215809": {
     "phone": "963995077664",
     "userId": 6956215809,
