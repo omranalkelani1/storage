@@ -548,7 +548,9 @@
             "AgACAgQAAxkBAAJt12nC3lKCWY0SoZ6eX7Va1Tf7cSbmAAL9DGsbpEAQUkrEDBAIVrHfAQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJt2GnC3lIkV-Y1g1brmBXduHJdf3SoAAL-DGsbpEAQUvCfQns9atj0AQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIJwWnC6oSjR-fpcyFaF1n4tdXpOOVEAAKvDGsbWNUZUgzNmpVp2N6OAQADAgADeQADOgQ"
+          ],
           "createdAt": 1774377023770,
           "paymentInfo": "651772b23ee923513e633d0fa05b1a15",
           "buyerPaymentInfo": "ظرنبنبنبمبمبك"
