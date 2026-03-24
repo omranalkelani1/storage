@@ -540,7 +540,7 @@
           "buyerId": 872282181,
           "sellerId": 51970206,
           "quantity": 40,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJt0GnC20uSsmar0p3BojHPCaQgpsbHAALiDWsbeVoYUqOAGNNfuIP3AQADAgADdwADOgQ"
           ],
