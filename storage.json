@@ -1067,24 +1067,7 @@
     "phone": "963960028860",
     "userId": 1055088306,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1153,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "104",
-        "maxQuantity": "104",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 1055088306,
-        "checkMessageId": 1532,
-        "publicMessageId": 5865,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1098
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
