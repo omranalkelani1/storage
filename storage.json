@@ -505,24 +505,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 1151,
-      "editDraft": {
-        "id": 1151,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "20",
-        "maxQuantity": "50",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1530,
-        "publicMessageId": 5863,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1096
-      }
+      "operation": "شراء",
+      "step": "askPayment",
+      "price": "122",
+      "minQuantity": "20",
+      "maxQuantity": "50",
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
