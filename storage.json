@@ -544,7 +544,10 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJt0GnC20uSsmar0p3BojHPCaQgpsbHAALiDWsbeVoYUqOAGNNfuIP3AQADAgADdwADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJt12nC3lKCWY0SoZ6eX7Va1Tf7cSbmAAL9DGsbpEAQUkrEDBAIVrHfAQADAgADeQADOgQ",
+            "AgACAgQAAxkBAAJt2GnC3lIkV-Y1g1brmBXduHJdf3SoAAL-DGsbpEAQUvCfQns9atj0AQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1774377023770,
           "paymentInfo": "651772b23ee923513e633d0fa05b1a15"
