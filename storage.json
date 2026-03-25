@@ -165,14 +165,15 @@
           "buyerId": 453328157,
           "sellerId": 7132461559,
           "quantity": 200,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJux2nD_AsariJ_IxaFlNeEoM9ngyKxAAJrDWsbHqohUi399cwZqHO0AQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJuyWnD_pwL9GdnTiVY9SeLzV5Zg7bcAAJtDWsbHqohUvDWp_cUMb5NAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774451122433
+          "createdAt": 1774451122433,
+          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5"
         },
         "locked": true,
         "lockedBy": 453328157
