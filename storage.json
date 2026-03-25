@@ -1996,8 +1996,9 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "122"
+      "step": "askMaxQuantity",
+      "price": "122",
+      "minQuantity": "154"
     },
     "verify": {
       "step": null,
