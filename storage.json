@@ -165,7 +165,7 @@
           "buyerId": 453328157,
           "sellerId": 7132461559,
           "quantity": 200,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJux2nD_AsariJ_IxaFlNeEoM9ngyKxAAJrDWsbHqohUi399cwZqHO0AQADAgADeQADOgQ",
             "AgACAgQAAxkBAAJuyWnD_pwL9GdnTiVY9SeLzV5Zg7bcAAJtDWsbHqohUvDWp_cUMb5NAQADAgADeQADOgQ"
