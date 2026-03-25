@@ -2929,8 +2929,7 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMinQuantity",
-      "price": "1.01"
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
