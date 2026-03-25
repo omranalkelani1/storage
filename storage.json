@@ -884,12 +884,14 @@
           "buyerId": 886198793,
           "sellerId": 6408145762,
           "quantity": 50,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774441838426
-        }
+        },
+        "locked": true,
+        "lockedBy": 886198793
       }
     ],
     "current": {},
