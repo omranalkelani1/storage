@@ -2862,23 +2862,7 @@
     "phone": "46735909358",
     "userId": 5329698405,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1165,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "117.64",
-        "maxQuantity": "117.64",
-        "transform_way": "shamDolar",
-        "status": "pending",
-        "userId": 5329698405,
-        "checkMessageId": 1547,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
