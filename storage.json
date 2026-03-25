@@ -153,33 +153,13 @@
         "minQuantity": "200",
         "maxQuantity": "412",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 453328157,
         "checkMessageId": 1551,
         "publicMessageId": 5885,
         "matchedWith": null,
         "rated": false,
         "number": 1111,
-        "trade": {
-          "tradeId": 280,
-          "buyerId": 453328157,
-          "sellerId": 7132461559,
-          "quantity": 200,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJux2nD_AsariJ_IxaFlNeEoM9ngyKxAAJrDWsbHqohUi399cwZqHO0AQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAJuyWnD_pwL9GdnTiVY9SeLzV5Zg7bcAAJtDWsbHqohUvDWp_cUMb5NAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJu1WnEAmh0BnmozK2ECgO4Fi3_Ss1NAAK9DWsboVkgUqcZZ1_dyz6oAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIJ4GnEA0oKiJ4Gqzjram8ckQHiyWlvAAIBDWsbWNUhUhPhyWMk0rGYAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1774451122433,
-          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5",
-          "buyerPaymentInfo": "0xcb26e977598b03bd622dc9d14f630b119393208e"
-        },
         "locked": true,
         "lockedBy": 453328157
       }
@@ -189,7 +169,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 2,
     "ratings": [],
     "strikes": {
       "count": 0,
