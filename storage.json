@@ -1976,24 +1976,7 @@
     "phone": "963933918566",
     "userId": 5924567969,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1167,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "154",
-        "maxQuantity": "154",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 1549,
-        "publicMessageId": 5884,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1110
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
