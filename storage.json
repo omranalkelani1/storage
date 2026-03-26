@@ -25,7 +25,9 @@
           "sellerId": 51970206,
           "quantity": 155,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJvNWnFDD_VTAnFC4vpncTUld4y9kf2AALnDGsb4X0oUoJIfFOuutn4AQADAgADdwADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774520520615
