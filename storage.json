@@ -24,7 +24,7 @@
           "buyerId": 1975626644,
           "sellerId": 51970206,
           "quantity": 155,
-          "step": "wait_admin_buyer",
+          "step": "buyer_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJvNWnFDD_VTAnFC4vpncTUld4y9kf2AALnDGsb4X0oUoJIfFOuutn4AQADAgADdwADOgQ"
           ],
