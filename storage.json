@@ -1725,7 +1725,9 @@
           "sellerId": 910478313,
           "quantity": 800,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJv72nG3oCSbNyj-M3zK-Lch-oG3RWMAAJsDmsbxeE4UrLuzZMHBXFVAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774640058157
