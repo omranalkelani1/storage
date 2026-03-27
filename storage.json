@@ -2930,7 +2930,10 @@
         "number": 1123
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -5104,6 +5107,24 @@
   "6934399238": {
     "phone": null,
     "userId": 6934399238,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "6223972278": {
+    "phone": null,
+    "userId": 6223972278,
     "offers": [],
     "current": {
       "step": "askPhone"
