@@ -1724,13 +1724,14 @@
           "buyerId": 2134053545,
           "sellerId": 910478313,
           "quantity": 800,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJv72nG3oCSbNyj-M3zK-Lch-oG3RWMAAJsDmsbxeE4UrLuzZMHBXFVAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774640058157
+          "createdAt": 1774640058157,
+          "paymentInfo": "لمى\nشام كاش :\n8240167131796198\nعنوان :\nb7422ca4a5c875a895bbc8a2932f7c04"
         },
         "locked": true,
         "lockedBy": 2134053545
