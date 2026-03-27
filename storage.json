@@ -1731,7 +1731,9 @@
           "buyerProofs": [
             "AgACAgQAAxkBAAJv92nG4lqohi1lQtI6lQizOhPyI2ByAALtDGsb_a44Ug9Ocw0FixEfAQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIJ-2nG4xm6zi46B9X7EML-g5TsN5SuAAJYDGsbD845UifozH5qM4VxAQADAgADeQADOgQ"
+          ],
           "createdAt": 1774640058157,
           "paymentInfo": "لمى\nشام كاش :\n8240167131796198\nعنوان :\nb7422ca4a5c875a895bbc8a2932f7c04",
           "buyerPaymentInfo": "0x2a6ae0b252a51b43f530ea50d844b50d0cd7a52c"
