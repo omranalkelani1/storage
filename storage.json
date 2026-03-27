@@ -987,15 +987,24 @@
     "phone": "+963980837394",
     "userId": 910478313,
     "category": "🥉 برونزي",
-    "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "125",
-      "minQuantity": "500",
-      "maxQuantity": "1000",
-      "transform_way": "shamSy"
-    },
+    "offers": [
+      {
+        "id": 1185,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "125",
+        "minQuantity": "500",
+        "maxQuantity": "1000",
+        "transform_way": "shamSy",
+        "status": "pending",
+        "userId": 910478313,
+        "checkMessageId": 1567,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
+      }
+    ],
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1868,7 +1877,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1184,
+  "forwardingNum": 1185,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
