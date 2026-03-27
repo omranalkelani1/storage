@@ -1728,7 +1728,9 @@
           "sellerProofs": [
             "AgACAgQAAxkBAAJv72nG3oCSbNyj-M3zK-Lch-oG3RWMAAJsDmsbxeE4UrLuzZMHBXFVAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJv92nG4lqohi1lQtI6lQizOhPyI2ByAALtDGsb_a44Ug9Ocw0FixEfAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1774640058157,
           "paymentInfo": "لمى\nشام كاش :\n8240167131796198\nعنوان :\nb7422ca4a5c875a895bbc8a2932f7c04"
