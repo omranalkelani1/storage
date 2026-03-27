@@ -1724,7 +1724,7 @@
           "buyerId": 2134053545,
           "sellerId": 910478313,
           "quantity": 800,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJv72nG3oCSbNyj-M3zK-Lch-oG3RWMAAJsDmsbxeE4UrLuzZMHBXFVAQADAgADeQADOgQ"
           ],
