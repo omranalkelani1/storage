@@ -3,26 +3,7 @@
     "phone": "963965201694",
     "userId": 51970206,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1175,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "122.5",
-        "minQuantity": "155",
-        "maxQuantity": "155",
-        "transform_way": "shamSy",
-        "status": "done",
-        "userId": 51970206,
-        "checkMessageId": 1557,
-        "publicMessageId": 5895,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1117,
-        "locked": true,
-        "lockedBy": 51970206
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": "waiting_photos",
@@ -163,24 +144,7 @@
     "phone": "963991045572",
     "userId": 453328157,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1173,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "121.5",
-        "minQuantity": "214.5",
-        "maxQuantity": "214.5",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 453328157,
-        "checkMessageId": 1555,
-        "publicMessageId": 5893,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1115
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -516,24 +480,7 @@
     "phone": "+963998889607",
     "userId": 872282181,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1174,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "122",
-        "minQuantity": "20",
-        "maxQuantity": "100",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 872282181,
-        "checkMessageId": 1556,
-        "publicMessageId": 5894,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1116
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
@@ -1689,24 +1636,7 @@
   "2134053545": {
     "phone": "963953275296",
     "userId": 2134053545,
-    "offers": [
-      {
-        "id": 1176,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "124",
-        "minQuantity": "160",
-        "maxQuantity": "500",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1558,
-        "publicMessageId": 5899,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1118
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
