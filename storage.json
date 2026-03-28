@@ -1773,22 +1773,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1136
-      },
-      {
-        "id": 1198,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "125.4",
-        "minQuantity": "100",
-        "maxQuantity": "700",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1580,
-        "publicMessageId": 5935,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1140
       }
     ],
     "current": {},
