@@ -1750,12 +1750,13 @@
         "minQuantity": "100",
         "maxQuantity": "700",
         "transform_way": "shamSy",
-        "status": "pending",
+        "status": "approved",
         "userId": 2134053545,
         "checkMessageId": 1576,
         "publicMessageId": null,
         "matchedWith": null,
-        "rated": false
+        "rated": false,
+        "number": 1136
       }
     ],
     "current": {},
@@ -1807,7 +1808,7 @@
     },
     "first_name": "..."
   },
-  "offerSeq": 1135,
+  "offerSeq": 1136,
   "botEnabled": true,
   "6193222237": {
     "phone": "963960013368",
