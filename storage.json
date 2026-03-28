@@ -1926,7 +1926,7 @@
     "verified": true
   },
   "botAcceptingTrades": true,
-  "forwardingNum": 1196,
+  "forwardingNum": 1197,
   "7616078779": {
     "phone": null,
     "userId": 7616078779,
@@ -3009,16 +3009,24 @@
         "matchedWith": null,
         "rated": false,
         "number": 1137
+      },
+      {
+        "id": 1197,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.02",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "shamDolar",
+        "status": "pending",
+        "userId": 5329698405,
+        "checkMessageId": 1579,
+        "publicMessageId": null,
+        "matchedWith": null,
+        "rated": false
       }
     ],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1.02",
-      "minQuantity": "100",
-      "maxQuantity": "100",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
