@@ -3025,22 +3025,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1137
-      },
-      {
-        "id": 1197,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "100",
-        "maxQuantity": "100",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5329698405,
-        "checkMessageId": 1579,
-        "publicMessageId": 5934,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1139
       }
     ],
     "current": {},
