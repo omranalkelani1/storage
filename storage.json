@@ -2048,24 +2048,7 @@
     "phone": "963933918566",
     "userId": 5924567969,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1190,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.016",
-        "minQuantity": "64",
-        "maxQuantity": "64",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5924567969,
-        "checkMessageId": 1572,
-        "publicMessageId": 5925,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1132
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
