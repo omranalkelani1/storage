@@ -1809,7 +1809,7 @@
     "first_name": "..."
   },
   "offerSeq": 1141,
-  "botEnabled": true,
+  "botEnabled": false,
   "6193222237": {
     "phone": "963960013368",
     "userId": 6193222237,
@@ -4600,7 +4600,11 @@
     "phone": "963991642029",
     "userId": 5512348806,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1199,
+      "offerOwnerId": 674299839
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -5191,6 +5195,24 @@
   "6223972278": {
     "phone": null,
     "userId": 6223972278,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "8146735556": {
+    "phone": null,
+    "userId": 8146735556,
     "offers": [],
     "current": {
       "step": "askPhone"
