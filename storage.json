@@ -21,7 +21,26 @@
         "number": 1129
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1187,
+      "editDraft": {
+        "id": 1187,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.06",
+        "minQuantity": "100",
+        "maxQuantity": "100",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 51970206,
+        "checkMessageId": 1569,
+        "publicMessageId": 5919,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1129
+      }
+    },
     "verify": {
       "step": "waiting_photos",
       "photos": []
