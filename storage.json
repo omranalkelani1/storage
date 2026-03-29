@@ -1034,12 +1034,10 @@
     "last_name": "A"
   },
   "992875883": {
-    "phone": null,
+    "phone": "+963964884874",
     "userId": 992875883,
     "offers": [],
-    "current": {
-      "step": "askPhone"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
@@ -1049,7 +1047,8 @@
     "strikes": {
       "count": 0,
       "history": []
-    }
+    },
+    "first_name": "ابراهيم السليم"
   },
   "999340079": {
     "phone": "963993878458",
