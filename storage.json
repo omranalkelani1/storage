@@ -2448,10 +2448,8 @@
     "category": "🥉 برونزي",
     "offers": [],
     "current": {
-      "operation": "شراء",
-      "step": "askMaxQuantity",
-      "price": "1.01",
-      "minQuantity": "86.35"
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
