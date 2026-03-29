@@ -4504,7 +4504,7 @@
           "buyerId": 5988071824,
           "sellerId": 5512348806,
           "quantity": 20,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
           ],
