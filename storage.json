@@ -4610,7 +4610,10 @@
     "phone": "963935566319",
     "userId": 5988071824,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -5097,6 +5100,24 @@
   "8146735556": {
     "phone": null,
     "userId": 8146735556,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "5519005896": {
+    "phone": null,
+    "userId": 5519005896,
     "offers": [],
     "current": {
       "step": "askPhone"
