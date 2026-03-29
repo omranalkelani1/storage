@@ -4648,22 +4648,6 @@
     "userId": 5988071824,
     "offers": [
       {
-        "id": 1201,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1",
-        "minQuantity": "321",
-        "maxQuantity": "321",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1583,
-        "publicMessageId": 5943,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1143
-      },
-      {
         "id": 1203,
         "operation": "شراء",
         "step": "askPayment",
