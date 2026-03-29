@@ -4612,9 +4612,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1",
-      "minQuantity": "321"
+      "minQuantity": "321",
+      "maxQuantity": "321"
     },
     "verify": {
       "step": null,
