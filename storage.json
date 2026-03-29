@@ -2453,7 +2453,7 @@
       "price": "126",
       "minQuantity": "426",
       "maxQuantity": "426",
-      "transform_way": "shamDolar"
+      "transform_way": "shamSy"
     },
     "verify": {
       "step": null,
