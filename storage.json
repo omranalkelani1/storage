@@ -4513,32 +4513,13 @@
         "minQuantity": "20",
         "maxQuantity": "20",
         "transform_way": "shamDolar",
-        "status": "approved",
+        "status": "done",
         "userId": 5512348806,
         "checkMessageId": 1584,
         "publicMessageId": 5944,
         "matchedWith": null,
         "rated": false,
         "number": 1144,
-        "trade": {
-          "tradeId": 283,
-          "buyerId": 5988071824,
-          "sellerId": 5512348806,
-          "quantity": 20,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJxNGnJE9p_R7plgqChgNWnVxLXLkR3AAJHDWsbhSdJUnnFDWDIEfoKAQADAgADeQADOgQ"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIKBmnJFV0NVfo4f-i33_6b56Z4v_y-AAIwDWsb0X9JUumOBMiaHt5QAQADAgADeQADOgQ"
-          ],
-          "createdAt": 1774784708229,
-          "paymentInfo": "43e826fe030755636bd3b7f1a00bc43a",
-          "buyerPaymentInfo": "0x5076ebd26cb711dab8ff113cf845407b54340b5f"
-        },
         "locked": true,
         "lockedBy": 5512348806
       }
@@ -4548,7 +4529,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 0,
+    "tradesCount": 1,
     "ratings": [],
     "strikes": {
       "count": 0,
@@ -4687,7 +4668,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 2,
+    "tradesCount": 3,
     "ratings": [
       {
         "from": 6468487434,
