@@ -1043,7 +1043,7 @@
       "offerOwnerId": 5988071824
     },
     "verify": {
-      "step": null,
+      "step": "waiting_photos",
       "photos": []
     },
     "tradesCount": 0,
