@@ -4522,7 +4522,7 @@
           "buyerId": 5988071824,
           "sellerId": 5512348806,
           "quantity": 20,
-          "step": "seller_confirm_payment_info",
+          "step": "wait_admin_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
           ],
