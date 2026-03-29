@@ -4678,22 +4678,6 @@
         "matchedWith": null,
         "rated": false,
         "number": 1145
-      },
-      {
-        "id": 1205,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "135",
-        "minQuantity": "74.08",
-        "maxQuantity": "74.08",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 5988071824,
-        "checkMessageId": 1587,
-        "publicMessageId": 5948,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1147
       }
     ],
     "current": {},
