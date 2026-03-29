@@ -4610,14 +4610,7 @@
     "phone": "963935566319",
     "userId": 5988071824,
     "offers": [],
-    "current": {
-      "operation": "بيع",
-      "step": "askPayment",
-      "price": "1",
-      "minQuantity": "321",
-      "maxQuantity": "321",
-      "transform_way": "shamDolar"
-    },
+    "current": {},
     "verify": {
       "step": null,
       "photos": []
