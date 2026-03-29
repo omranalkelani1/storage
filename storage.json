@@ -1038,9 +1038,8 @@
     "userId": 992875883,
     "offers": [],
     "current": {
-      "step": "ask_quantity",
-      "offerId": 1201,
-      "offerOwnerId": 5988071824
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
