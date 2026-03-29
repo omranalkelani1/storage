@@ -2977,24 +2977,7 @@
     "phone": "963985754992",
     "userId": 6298027684,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1204,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "134",
-        "minQuantity": "99",
-        "maxQuantity": "99",
-        "transform_way": "syriatel",
-        "status": "approved",
-        "userId": 6298027684,
-        "checkMessageId": 1586,
-        "publicMessageId": 5947,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1146
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
