@@ -1037,7 +1037,11 @@
     "phone": "+963964884874",
     "userId": 992875883,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1201,
+      "offerOwnerId": 5988071824
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4521,11 +4525,13 @@
           "buyerId": 5988071824,
           "sellerId": 5512348806,
           "quantity": 20,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
           ],
-          "buyerProofs": [],
+          "buyerProofs": [
+            "AgACAgQAAxkBAAJxNGnJE9p_R7plgqChgNWnVxLXLkR3AAJHDWsbhSdJUnnFDWDIEfoKAQADAgADeQADOgQ"
+          ],
           "adminProofs": [],
           "createdAt": 1774784708229,
           "paymentInfo": "43e826fe030755636bd3b7f1a00bc43a"
