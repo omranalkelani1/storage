@@ -4505,7 +4505,9 @@
           "sellerId": 5512348806,
           "quantity": 20,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774784708229
