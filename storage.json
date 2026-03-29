@@ -4611,9 +4611,8 @@
     "userId": 5988071824,
     "offers": [],
     "current": {
-      "operation": "شراء",
-      "step": "askMinQuantity",
-      "price": "321"
+      "operation": "بيع",
+      "step": "askPrice"
     },
     "verify": {
       "step": null,
