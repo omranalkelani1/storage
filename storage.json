@@ -1033,6 +1033,24 @@
     "first_name": "A",
     "last_name": "A"
   },
+  "992875883": {
+    "phone": null,
+    "userId": 992875883,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "999340079": {
     "phone": "963993878458",
     "userId": 999340079,
@@ -4504,13 +4522,14 @@
           "buyerId": 5988071824,
           "sellerId": 5512348806,
           "quantity": 20,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJxHmnJEWPuYA8nsV5hKe2gF2bCIV8oAAJaDWsbiVVJUkiSVagggthfAQADAgADeQADOgQ"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774784708229
+          "createdAt": 1774784708229,
+          "paymentInfo": "43e826fe030755636bd3b7f1a00bc43a"
         },
         "locked": true,
         "lockedBy": 5512348806
