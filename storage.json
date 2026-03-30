@@ -2098,7 +2098,7 @@
           "buyerId": 2134053545,
           "sellerId": 5924567969,
           "quantity": 258.5,
-          "step": "seller_upload",
+          "step": "wait_admin_seller",
           "sellerProofs": [
             "AgACAgQAAxkBAAJyeWnKXj3buFlZcA2sRaTmwAriN3xaAAIaDWsb8qVRUhsjiH3cShC3AQADAgADeQADOgQ"
           ],
