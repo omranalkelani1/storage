@@ -4602,9 +4602,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "1.04",
-      "minQuantity": "437.5"
+      "minQuantity": "437.5",
+      "maxQuantity": "437.5"
     },
     "verify": {
       "step": null,
