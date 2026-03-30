@@ -2966,7 +2966,7 @@
           "buyerId": 872282181,
           "sellerId": 5329698405,
           "quantity": 81,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJyFmnKPL11G9Eua2QshaP-y3Y-AqiWAAI6DWsbW11RUttL1kR15MNBAQADAgADeQADOgQ"
           ],
@@ -2975,7 +2975,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1774861322152,
-          "paymentInfo": "96a7ee1855773353e9a1f9345b6ca3af"
+          "paymentInfo": "96a7ee1855773353e9a1f9345b6ca3af",
+          "buyerPaymentInfo": "تبلممرنكزان"
         },
         "locked": true,
         "lockedBy": 5329698405
