@@ -2973,7 +2973,9 @@
           "buyerProofs": [
             "AgACAgQAAyEFAATQ7aVFAAIKDmnKPhEiWjnA4iJCSLknQ4XQQMwrAAKzDGsb0X9RUgs0xZWgjboXAQADAgADeQADOgQ"
           ],
-          "adminProofs": [],
+          "adminProofs": [
+            "AgACAgQAAyEFAATQ7aVFAAIKDmnKPhEiWjnA4iJCSLknQ4XQQMwrAAKzDGsb0X9RUgs0xZWgjboXAQADAgADeQADOgQ"
+          ],
           "createdAt": 1774861322152,
           "paymentInfo": "96a7ee1855773353e9a1f9345b6ca3af",
           "buyerPaymentInfo": "تبلممرنكزان"
