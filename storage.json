@@ -1066,7 +1066,11 @@
     "phone": "963993878458",
     "userId": 999340079,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1224,
+      "offerOwnerId": 5329698405
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -3083,7 +3087,10 @@
         "number": 1166
       }
     ],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
@@ -4192,7 +4199,11 @@
     "phone": "963998881834",
     "userId": 5173484801,
     "offers": [],
-    "current": {},
+    "current": {
+      "step": "ask_quantity",
+      "offerId": 1224,
+      "offerOwnerId": 5329698405
+    },
     "verify": {
       "step": null,
       "photos": []
