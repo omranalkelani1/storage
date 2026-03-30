@@ -2046,7 +2046,26 @@
         "number": 1162
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1220,
+      "editDraft": {
+        "id": 1220,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "124",
+        "minQuantity": "159",
+        "maxQuantity": "159",
+        "transform_way": "shamSy",
+        "status": "approved",
+        "userId": 5924567969,
+        "checkMessageId": 1602,
+        "publicMessageId": 5969,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1162
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
