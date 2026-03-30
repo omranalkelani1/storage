@@ -2966,12 +2966,14 @@
           "buyerId": 872282181,
           "sellerId": 5329698405,
           "quantity": 81,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774861322152
-        }
+        },
+        "locked": true,
+        "lockedBy": 5329698405
       }
     ],
     "current": {},
