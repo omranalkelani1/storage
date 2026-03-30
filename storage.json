@@ -3577,9 +3577,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "124",
-      "minQuantity": "50"
+      "minQuantity": "50",
+      "maxQuantity": "75"
     },
     "verify": {
       "step": null,
