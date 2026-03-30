@@ -1640,6 +1640,24 @@
     },
     "first_name": "غدير"
   },
+  "2067549690": {
+    "phone": null,
+    "userId": 2067549690,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
   "2113830528": {
     "phone": null,
     "userId": 2113830528,
@@ -2396,7 +2414,10 @@
     "userId": 7970479825,
     "category": "🥉 برونزي",
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "بيع",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
