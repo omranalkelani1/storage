@@ -2074,7 +2074,7 @@
           "buyerId": 872282181,
           "sellerId": 5924567969,
           "quantity": 75,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJy8GnLkwoEvr3coMLWWRuzJeXYyhhXAAIXDWsb40VhUruPD8ZnJeWDAQADAgADeQADOgQ"
           ],
@@ -2083,7 +2083,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1774949050997,
-          "paymentInfo": "d4403a5488d6aab2b91df70abaab1e78"
+          "paymentInfo": "d4403a5488d6aab2b91df70abaab1e78",
+          "buyerPaymentInfo": "مينيونيمييككي"
         },
         "locked": true,
         "lockedBy": 5924567969
