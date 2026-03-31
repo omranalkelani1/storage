@@ -936,6 +936,23 @@
     "first_name": "Karam",
     "last_name": "Maarouf"
   },
+  "889959968": {
+    "phone": "963968829109",
+    "userId": 889959968,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "MONIR"
+  },
   "892165414": {
     "phone": "963959694273",
     "userId": 892165414,
