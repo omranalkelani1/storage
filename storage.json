@@ -4792,7 +4792,8 @@
       "step": "askPayment",
       "price": "130",
       "minQuantity": "40.77",
-      "maxQuantity": "40.77"
+      "maxQuantity": "40.77",
+      "transform_way": "syriatel"
     },
     "verify": {
       "step": null,
