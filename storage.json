@@ -2242,7 +2242,9 @@
           "sellerId": 5924567969,
           "quantity": 47,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgQAAxkBAAJz1GnMAjloB9LWkJeI40iL7vTSHkzrAAInDmsb40VhUs1FA2cj5enLAQADAgADeQADOgQ"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774977107131
