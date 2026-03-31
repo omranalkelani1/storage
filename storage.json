@@ -2241,7 +2241,7 @@
           "buyerId": 889959968,
           "sellerId": 5924567969,
           "quantity": 47,
-          "step": "wait_admin_confirm_payment_info",
+          "step": "buyer_upload",
           "sellerProofs": [
             "AgACAgQAAxkBAAJz1GnMAjloB9LWkJeI40iL7vTSHkzrAAInDmsb40VhUs1FA2cj5enLAQADAgADeQADOgQ"
           ],
