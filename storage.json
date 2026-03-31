@@ -2263,23 +2263,12 @@
       }
     ],
     "current": {
-      "step": "editing_offer",
-      "editingOfferId": 1241,
-      "editDraft": {
-        "id": 1241,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "129",
-        "minQuantity": "123",
-        "maxQuantity": "123",
-        "transform_way": "syriatel",
-        "status": "pending",
-        "userId": 5924567969,
-        "checkMessageId": 1623,
-        "publicMessageId": null,
-        "matchedWith": null,
-        "rated": false
-      }
+      "operation": "بيع",
+      "step": "askPayment",
+      "price": "129",
+      "minQuantity": "123",
+      "maxQuantity": "123",
+      "transform_way": "syriatel"
     },
     "verify": {
       "step": null,
