@@ -1725,7 +1725,9 @@
           "sellerId": 6408145762,
           "quantity": 100,
           "step": "seller_upload",
-          "sellerProofs": [],
+          "sellerProofs": [
+            "AgACAgIAAxkBAAJznWnL9jGnkqMBS4IAAe6u1oppMPT50QACwBtrG5ltYEoX0s8rV4lAPgEAAwIAA3kAAzoE"
+          ],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774972883629
