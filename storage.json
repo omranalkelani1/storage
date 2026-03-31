@@ -2241,7 +2241,7 @@
           "buyerId": 889959968,
           "sellerId": 5924567969,
           "quantity": 47,
-          "step": "buyer_payment_info",
+          "step": "buyer_confirm_payment_info",
           "sellerProofs": [
             "AgACAgQAAxkBAAJz1GnMAjloB9LWkJeI40iL7vTSHkzrAAInDmsb40VhUs1FA2cj5enLAQADAgADeQADOgQ"
           ],
@@ -2250,7 +2250,8 @@
           ],
           "adminProofs": [],
           "createdAt": 1774977107131,
-          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067"
+          "paymentInfo": "e7709cd0ac5c4f403c4406b0ad366067",
+          "buyerPaymentInfo": "0x194eb3e33931a9174ea176b6c6d62b6051839f45"
         },
         "locked": true,
         "lockedBy": 5924567969
