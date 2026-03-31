@@ -2241,12 +2241,14 @@
           "buyerId": 889959968,
           "sellerId": 5924567969,
           "quantity": 47,
-          "step": "owner_pending_accept",
+          "step": "seller_upload",
           "sellerProofs": [],
           "buyerProofs": [],
           "adminProofs": [],
           "createdAt": 1774977107131
-        }
+        },
+        "locked": true,
+        "lockedBy": 5924567969
       }
     ],
     "current": {},
