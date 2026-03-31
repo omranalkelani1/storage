@@ -1724,13 +1724,14 @@
           "buyerId": 2134053545,
           "sellerId": 6408145762,
           "quantity": 100,
-          "step": "seller_payment_info",
+          "step": "seller_confirm_payment_info",
           "sellerProofs": [
             "AgACAgIAAxkBAAJznWnL9jGnkqMBS4IAAe6u1oppMPT50QACwBtrG5ltYEoX0s8rV4lAPgEAAwIAA3kAAzoE"
           ],
           "buyerProofs": [],
           "adminProofs": [],
-          "createdAt": 1774972883629
+          "createdAt": 1774972883629,
+          "paymentInfo": "01be582f8c02586ab75f3b60b86c2\nd37"
         },
         "locked": true,
         "lockedBy": 2134053545
