@@ -2149,7 +2149,26 @@
         "number": 1175
       }
     ],
-    "current": {},
+    "current": {
+      "step": "editing_offer",
+      "editingOfferId": 1233,
+      "editDraft": {
+        "id": 1233,
+        "operation": "بيع",
+        "step": "askPayment",
+        "price": "1.03",
+        "minQuantity": "46",
+        "maxQuantity": "46",
+        "transform_way": "shamDolar",
+        "status": "approved",
+        "userId": 5924567969,
+        "checkMessageId": 1615,
+        "publicMessageId": 5989,
+        "matchedWith": null,
+        "rated": false,
+        "number": 1175
+      }
+    },
     "verify": {
       "step": null,
       "photos": []
