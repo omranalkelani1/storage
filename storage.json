@@ -3841,7 +3841,13 @@
       "photos": []
     },
     "tradesCount": 0,
-    "ratings": [],
+    "ratings": [
+      {
+        "from": 2134053545,
+        "rate": 2,
+        "date": 1774974974853
+      }
+    ],
     "strikes": {
       "count": 0,
       "history": []
