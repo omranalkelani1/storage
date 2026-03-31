@@ -2263,13 +2263,13 @@
       }
     ],
     "current": {
-      "step": "editPrice",
+      "step": "editing_offer",
       "editingOfferId": 1241,
       "editDraft": {
         "id": 1241,
         "operation": "بيع",
         "step": "askPayment",
-        "price": "130",
+        "price": "129",
         "minQuantity": "123",
         "maxQuantity": "123",
         "transform_way": "syriatel",
