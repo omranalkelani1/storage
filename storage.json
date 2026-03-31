@@ -2253,7 +2253,7 @@
         "id": 1230,
         "operation": "بيع",
         "step": "askPayment",
-        "price": "129",
+        "price": "130",
         "minQuantity": "121",
         "maxQuantity": "121",
         "transform_way": "syriatel",
