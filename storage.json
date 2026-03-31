@@ -2588,24 +2588,7 @@
     "phone": "12056183703",
     "userId": 7970479825,
     "category": "🥉 برونزي",
-    "offers": [
-      {
-        "id": 1237,
-        "operation": "بيع",
-        "step": "askPayment",
-        "price": "1.02",
-        "minQuantity": "50.5",
-        "maxQuantity": "50.5",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 7970479825,
-        "checkMessageId": 1619,
-        "publicMessageId": 5993,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1179
-      }
-    ],
+    "offers": [],
     "current": {},
     "verify": {
       "step": null,
