@@ -1763,22 +1763,6 @@
         "number": 1189,
         "locked": true,
         "lockedBy": 2134053545
-      },
-      {
-        "id": 1249,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "1.01",
-        "minQuantity": "198",
-        "maxQuantity": "198",
-        "transform_way": "shamDolar",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1631,
-        "publicMessageId": 6010,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1191
       }
     ],
     "current": {},
@@ -5372,5 +5356,23 @@
       "count": 0,
       "history": []
     }
+  },
+  "8371599796": {
+    "phone": "963981422303",
+    "userId": 8371599796,
+    "offers": [],
+    "current": {},
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    },
+    "first_name": "Munther",
+    "last_name": "Gh"
   }
 }
