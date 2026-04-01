@@ -1754,33 +1754,13 @@
         "minQuantity": "50",
         "maxQuantity": "500",
         "transform_way": "shamSy",
-        "status": "approved",
+        "status": "done",
         "userId": 2134053545,
         "checkMessageId": 1629,
         "publicMessageId": 6008,
         "matchedWith": null,
         "rated": false,
         "number": 1189,
-        "trade": {
-          "tradeId": 291,
-          "buyerId": 2134053545,
-          "sellerId": 7132461559,
-          "quantity": 150,
-          "step": "admin_upload",
-          "sellerProofs": [
-            "AgACAgQAAxkBAAJ0a2nNOsyHxDkb07XftgjrA4aNqfQZAAKvD2sbQCZoUoE1jn8zeK83AQADAgADeQADOgQ",
-            "AgACAgQAAxkBAAJ0bWnNO6qMBLWGVZ0O9jXtQ3TQLkS5AAKxD2sbQCZoUuT2BAaRJBdaAQADAgADeQADOgQ"
-          ],
-          "buyerProofs": [
-            "AgACAgQAAxkBAAJ0dGnNPFTCS_0KcExxLZ8AAYehPw-HJQAChg1rG8CNaVJjd50suOEehQEAAwIAA3kAAzoE"
-          ],
-          "adminProofs": [
-            "AgACAgQAAyEFAATQ7aVFAAIKYGnNPNPE_BRorQABCjLxIFcMN48Q2AACFw1rG60xaVII5kB5hSiYGgEAAwIAA3kAAzoE"
-          ],
-          "createdAt": 1775056589270,
-          "paymentInfo": "7aef8b759a6ce7ed2473239e9006b4e5",
-          "buyerPaymentInfo": "0x2a6ae0b252a51b43f530ea50d844b50d0cd7a52c"
-        },
         "locked": true,
         "lockedBy": 2134053545
       }
@@ -1790,7 +1770,7 @@
       "step": null,
       "photos": []
     },
-    "tradesCount": 17,
+    "tradesCount": 19,
     "ratings": [
       {
         "from": 5329698405,
