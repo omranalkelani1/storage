@@ -1987,9 +1987,10 @@
     "offers": [],
     "current": {
       "operation": "شراء",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "123",
-      "minQuantity": "125"
+      "minQuantity": "125",
+      "maxQuantity": "145"
     },
     "verify": {
       "step": null,
