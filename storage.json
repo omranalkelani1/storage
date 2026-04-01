@@ -4816,9 +4816,10 @@
     "offers": [],
     "current": {
       "operation": "بيع",
-      "step": "askMaxQuantity",
+      "step": "askPayment",
       "price": "131",
-      "minQuantity": "83.21"
+      "minQuantity": "83.21",
+      "maxQuantity": "83.21"
     },
     "verify": {
       "step": null,
