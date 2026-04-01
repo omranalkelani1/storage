@@ -1765,22 +1765,6 @@
         "lockedBy": 2134053545
       },
       {
-        "id": 1248,
-        "operation": "شراء",
-        "step": "askPayment",
-        "price": "124",
-        "minQuantity": "50",
-        "maxQuantity": "700",
-        "transform_way": "shamSy",
-        "status": "approved",
-        "userId": 2134053545,
-        "checkMessageId": 1630,
-        "publicMessageId": 6009,
-        "matchedWith": null,
-        "rated": false,
-        "number": 1190
-      },
-      {
         "id": 1249,
         "operation": "شراء",
         "step": "askPayment",
@@ -5356,6 +5340,24 @@
   "5519005896": {
     "phone": null,
     "userId": 5519005896,
+    "offers": [],
+    "current": {
+      "step": "askPhone"
+    },
+    "verify": {
+      "step": null,
+      "photos": []
+    },
+    "tradesCount": 0,
+    "ratings": [],
+    "strikes": {
+      "count": 0,
+      "history": []
+    }
+  },
+  "8273152413": {
+    "phone": null,
+    "userId": 8273152413,
     "offers": [],
     "current": {
       "step": "askPhone"
