@@ -5361,7 +5361,10 @@
     "phone": "963981422303",
     "userId": 8371599796,
     "offers": [],
-    "current": {},
+    "current": {
+      "operation": "شراء",
+      "step": "askPrice"
+    },
     "verify": {
       "step": null,
       "photos": []
